@@ -1,0 +1,77 @@
+{
+ "country": "DE",
+ "date": "2026-09-25",
+ "lookForward": {
+  "fits": "German Unity Day, a public holiday, is eight days away: Saturday 3 October 2026. Bremen hosts the official celebrations this year.",
+  "headline": "German Unity Day a week on Saturday",
+  "line": "3 October, a holiday. The official party is in Bremen this year. Thirty-six years since two countries became one."
+ },
+ "goodThing": {
+  "fits": "The cranes gathering over Brandenburg this week are a conservation success story for Germany.",
+  "headline": "Germany's cranes came back",
+  "big": "800 → 11,000 pairs",
+  "line": "Down to about 800 breeding pairs in the 1970s. Wetlands were protected and hunting stopped. Now they fill the September sky.",
+  "source": {
+   "name": "NABU: Vogelporträt Kranich",
+   "url": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 1555, Augsburg.",
+  "year": 1555,
+  "headline": "Germany's rulers agreed to disagree about God",
+  "line": "The Peace of Augsburg. For the first time, two Christian faiths were legal side by side in one empire.",
+  "source": {
+   "name": "Deutschlandmuseum: The Peace of Augsburg",
+   "url": "https://www.deutschlandmuseum.de/en/history/calendar/1555-09-25-the-peace-of-augsburg/"
+  }
+ },
+ "funFact": {
+  "fits": "Everyday German life: the deposit system every reader in Germany uses.",
+  "statement": "In Germany, almost every bottle and can you buy comes with money on it.",
+  "answer": true,
+  "reveal": "A deposit of 25 cents since 2003. About 98 in every 100 come back to the shop and are recycled.",
+  "source": {
+   "name": "NABU: Einwegpfand",
+   "url": "https://www.nabu.de/umwelt-und-ressourcen/ressourcenschonung/einzelhandel-und-umwelt/mehrweg/21967.html"
+  }
+ },
+ "calmRead": {
+  "fits": "Berlin's landmark on a bright autumn afternoon; a story most people in the city have never heard in full.",
+  "title": "The cross on the television tower",
+  "teaser": "East Berlin built a monument to socialism. The sun had other ideas.",
+  "paragraphs": [
+   "Stand anywhere in Berlin on a sunny afternoon and look at the silver ball on the television tower. When the light catches it, a bright cross appears on the sphere, four arms of reflected sunlight. Berliners have a name for it: the Pope's revenge.",
+   "The tower was built between 1965 and 1969 in the centre of East Berlin, and it was meant to say something. At 365 metres, later 368 with a new antenna, it was the tallest structure in Germany, and it still is. It was a showpiece for a state that had just taken the crosses off its school walls and closed its church newspapers.",
+   "The sphere is covered in about a thousand small pyramids of stainless steel, there to break up the wind and stop the ball swaying. Nobody thought about what they would do with sunlight. Each pyramid throws the sun back along the same lines, and the lines meet in a cross.",
+   "The government was not amused. There were stories of engineers being asked to do something about it. Nothing worked. In 1987, standing at the Brandenburg Gate, the American president Ronald Reagan pointed at it: when the sun falls on that sphere, he said, light traces the sign of the cross.",
+   "The tower is now everybody's, and so is the cross. Look up at about four this afternoon."
+  ],
+  "source": {
+   "name": "katholisch.de: Die Rache des Papstes",
+   "url": "https://katholisch.de/artikel/18603-die-rache-des-papstes"
+  }
+ },
+ "word": {
+  "fits": "Friday evening in Germany.",
+  "word": "Feierabend",
+  "language": "German",
+  "pronunciation": "FY-er-ah-bent",
+  "meaning": "The moment work ends and the evening is yours. Once the evening before a holy day; now every evening, and on Fridays said with feeling."
+ },
+ "kindness": {
+  "fits": "Friday; pairs with today's word, Feierabend.",
+  "text": "It's Friday. Leave on time, and take someone with you who never does."
+ },
+ "joke": {
+  "fits": "Friday; pairs with today's word, Feierabend.",
+  "setup": "What do you call a German who leaves work at four on a Friday?",
+  "punchline": "Punctual."
+ },
+ "riddle": {
+  "fits": "The deposit system in today's fun fact.",
+  "riddle": "I am worth 25 cents, I am not a coin, and I live under your sink. What am I?",
+  "hint": "Take me back to the shop.",
+  "answer": "An empty bottle with a deposit on it."
+ }
+}
