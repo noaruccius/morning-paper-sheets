@@ -1,0 +1,31 @@
+{
+ "country": "DE",
+ "date": "2026-09-29",
+ "language": "en",
+ "city": "berlin",
+ "goodThing": {
+  "fits": "Late September, when the leaves turn: Berlin's street trees, counted every year by the city.",
+  "headline": "Berlin has a tree every twelve metres of street",
+  "big": "430,000+",
+  "line": "Along 5,000 kilometres of road, about 80 trees per kilometre: limes, maples, oaks, planes and chestnuts. One of the greenest big cities anywhere.",
+  "source": {
+   "name": "Berlin.de: Daten und Fakten, Stadtbäume",
+   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/stadtbaeume/"
+  }
+ },
+ "calmRead": {
+  "fits": "A Berlin story for the week the leaves turn: how the city bought its forests in 1915 and promised never to sell them.",
+  "title": "The day Berlin bought its forests for ever",
+  "teaser": "Why a city of four million still has woods you can get lost in.",
+  "paragraphs": [
+   "Take the S-Bahn west from the centre of Berlin for twenty minutes and you are in the Grunewald: pines, oaks, lakes, wild boar, and no houses. This is not luck. In 1904, thirty thousand Berliners signed a petition because the forest was being sold off, plot by plot, to build villas. It was one of the first environmental protests in Germany.",
+   "It worked, slowly. On 27 March 1915, in the middle of a war, the Greater Berlin association bought about ten thousand hectares of forest from the Prussian state for fifty million gold marks, and signed a promise: the woods would be kept as forest, for the recreation and health of the population, for ever. It is called the Dauerwaldvertrag, the permanent-forest contract.",
+   "Berlin has kept the promise for 111 years. The city now owns about 28,000 hectares of forest, more than any other city in Germany and the second most in Europe after Vienna. About one sixth of Berlin's whole area is woodland, and a 2004 state law protects it again, on top of the old contract.",
+   "This week the leaves are turning. The Grunewald is at its best on a weekday morning, when the paths are empty and the boar are asleep. Go and stand under something that was a sapling when the contract was signed."
+  ],
+  "source": {
+   "name": "BUND Berlin: Vorbild Dauerwaldvertrag",
+   "url": "https://www.bund-berlin.de/themen/stadtnatur/biologische-vielfalt/vorbild-dauerwaldvertrag/"
+  }
+ }
+}

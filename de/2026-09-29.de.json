@@ -7,16 +7,6 @@
   "headline": "Letztes Wochenende auf der Wiesn",
   "line": "Das Oktoberfest endet am Sonntag, 4. Oktober. Noch sechs Tage Zelte, Fahrgeschäfte und Hendl. Der Rest Deutschlands schaut im Fernsehen zu."
  },
- "goodThing": {
-  "fits": "Ende September, wenn sich die Blätter färben: Berlins Straßenbäume, jedes Jahr von der Stadt gezählt.",
-  "headline": "Berlin hat alle zwölf Meter Straße einen Baum",
-  "big": "430.000+",
-  "line": "Entlang 5.000 Kilometern Straße etwa 80 Bäume pro Kilometer: Linden, Ahorn, Eichen, Platanen und Kastanien. Eine der grünsten Großstädte überhaupt.",
-  "source": {
-   "name": "Berlin.de: Daten und Fakten, Stadtbäume",
-   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/stadtbaeume/"
-  }
- },
  "onThisDay": {
   "fits": "29. September 1900: Das neue Bayerische Nationalmuseum an der Prinzregentenstraße in München wurde eröffnet.",
   "year": 1900,
@@ -35,21 +25,6 @@
   "source": {
    "name": "Deutsches Brotinstitut: Brotkultur",
    "url": "https://www.brotinstitut.de/brotkultur"
-  }
- },
- "calmRead": {
-  "fits": "Eine Berliner Geschichte für die Woche, in der sich die Blätter färben: wie die Stadt 1915 ihre Wälder kaufte und versprach, sie nie zu verkaufen.",
-  "title": "Der Tag, an dem Berlin seine Wälder für immer kaufte",
-  "teaser": "Warum eine Stadt mit vier Millionen Menschen noch Wälder hat, in denen man sich verlaufen kann.",
-  "paragraphs": [
-   "Fahren Sie mit der S-Bahn zwanzig Minuten vom Zentrum Berlins nach Westen, und Sie stehen im Grunewald: Kiefern, Eichen, Seen, Wildschweine, keine Häuser. Das ist kein Zufall. 1904 unterschrieben dreißigtausend Berliner eine Petition, weil der Wald Stück für Stück verkauft wurde, für Villen. Es war einer der ersten Umweltproteste in Deutschland.",
-   "Es wirkte, langsam. Am 27. März 1915, mitten im Krieg, kaufte der Zweckverband Groß-Berlin vom preußischen Staat rund zehntausend Hektar Wald für fünfzig Millionen Goldmark und gab ein Versprechen ab: Die Wälder bleiben Wald, für Erholung und Gesundheit der Bevölkerung, auf Dauer. Man nennt es den Dauerwaldvertrag.",
-   "Berlin hat das Versprechen 111 Jahre gehalten. Die Stadt besitzt heute rund 28.000 Hektar Wald, mehr als jede andere Stadt in Deutschland und in Europa nur hinter Wien. Etwa ein Sechstel der gesamten Berliner Fläche ist Wald, und ein Landesgesetz von 2004 schützt ihn noch einmal, zusätzlich zum alten Vertrag.",
-   "Diese Woche färben sich die Blätter. Der Grunewald ist am schönsten an einem Werktagmorgen, wenn die Wege leer sind und die Wildschweine schlafen. Gehen Sie hin und stellen Sie sich unter etwas, das ein Schössling war, als der Vertrag unterschrieben wurde."
-  ],
-  "source": {
-   "name": "BUND Berlin: Vorbild Dauerwaldvertrag",
-   "url": "https://www.bund-berlin.de/themen/stadtnatur/biologische-vielfalt/vorbild-dauerwaldvertrag/"
   }
  },
  "word": {

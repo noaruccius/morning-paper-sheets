@@ -1,0 +1,22 @@
+{
+ "country": "DE",
+ "date": "2026-09-25",
+ "language": "en",
+ "city": "berlin",
+ "calmRead": {
+  "fits": "Berlin's landmark on a bright autumn afternoon; a story most people in the city have never heard in full.",
+  "title": "The cross on the television tower",
+  "teaser": "East Berlin built a monument to socialism. The sun had other ideas.",
+  "paragraphs": [
+   "Stand anywhere in Berlin on a sunny afternoon and look at the silver ball on the television tower. When the light catches it, a bright cross appears on the sphere, four arms of reflected sunlight. Berliners have a name for it: the Pope's revenge.",
+   "The tower was built between 1965 and 1969 in the centre of East Berlin, and it was meant to say something. At 365 metres, later 368 with a new antenna, it was the tallest structure in Germany, and it still is. It was a showpiece for a state that had just taken the crosses off its school walls and closed its church newspapers.",
+   "The sphere is covered in about a thousand small pyramids of stainless steel, there to break up the wind and stop the ball swaying. Nobody thought about what they would do with sunlight. Each pyramid throws the sun back along the same lines, and the lines meet in a cross.",
+   "The government was not amused. There were stories of engineers being asked to do something about it. Nothing worked. In 1987, standing at the Brandenburg Gate, the American president Ronald Reagan pointed at it: when the sun falls on that sphere, he said, light traces the sign of the cross.",
+   "The tower is now everybody's, and so is the cross. Look up at about four this afternoon."
+  ],
+  "source": {
+   "name": "katholisch.de: Die Rache des Papstes",
+   "url": "https://katholisch.de/artikel/18603-die-rache-des-papstes"
+  }
+ }
+}

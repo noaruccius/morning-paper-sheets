@@ -1,0 +1,16 @@
+{
+ "country": "DE",
+ "date": "2026-09-28",
+ "language": "en",
+ "city": "berlin",
+ "funFact": {
+  "fits": "A Berlin fact for a Monday walk.",
+  "statement": "Almost a quarter of Berlin is forest and water.",
+  "answer": true,
+  "reveal": "About 16 percent forest and 6 percent water, plus another 11 percent of parks. Few big cities come close.",
+  "source": {
+   "name": "Berlin.de: Daten und Fakten, Grünflächen",
+   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/gruenflaechen-gruenanlagen/"
+  }
+ }
+}

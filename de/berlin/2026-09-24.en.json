@@ -1,0 +1,68 @@
+{
+ "country": "DE",
+ "date": "2026-09-24",
+ "language": "en",
+ "city": "berlin",
+ "lookForward": {
+  "fits": "Crane season at Linum, an hour north of Berlin, opened on 18 September 2026; a real outing for this weekend.",
+  "headline": "Cranes at dusk this weekend",
+  "line": "Tens of thousands are gathering at Linum, an hour north of Berlin. Go Saturday evening. Listen before you look."
+ },
+ "goodThing": {
+  "fits": "Autumn is when Berliners refill their bottles from the tap after a hot summer; a local fact worth being proud of.",
+  "headline": "Berlin's tap water comes straight from the ground",
+  "big": "100% groundwater",
+  "line": "Pumped from under the city, cleaned with air and sand, no chlorine added. Checked at more than 3,300 points.",
+  "source": {
+   "name": "Berliner Wasserbetriebe: Wasserqualität",
+   "url": "https://www.bwb.de/de/wasserqualitaet.php"
+  }
+ },
+ "onThisDay": {
+  "fits": "24 September 1961, Berlin.",
+  "year": 1961,
+  "headline": "West Berlin opened its new opera house",
+  "line": "The Deutsche Oper on Bismarckstraße, six weeks after the Wall went up. The first night was Mozart's Don Giovanni.",
+  "source": {
+   "name": "Berlin.de: Deutsche Oper Berlin",
+   "url": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kultur-und-wissenschaft/buehnen/artikel.180239.php"
+  }
+ },
+ "funFact": {
+  "fits": "A Berlin fact for a Berlin reader; the Spree and Havel are at their calmest in early autumn.",
+  "statement": "Berlin has more bridges than Venice.",
+  "answer": true,
+  "reveal": "Around a thousand, against Venice's four hundred. Many of Berlin's cross railways and roads rather than water, but they count.",
+  "source": {
+   "name": "t-online: Warum Berlin mehr Brücken als Venedig hat",
+   "url": "https://berlin.t-online.de/region/berlin/id_100947924/berlin-hat-mehr-bruecken-als-venedig-wie-kann-das-sein-.html"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's look-forward: the crane gathering at Linum, north of Berlin, which is happening this week.",
+  "title": "Why the sky north of Berlin fills with cranes",
+  "teaser": "An hour from the city, one of Europe's great autumn gatherings is under way.",
+  "paragraphs": [
+   "Drive an hour north-west of Berlin, to the flat pond country around Linum, and stop at dusk. You will hear it before you see it: a rolling, trumpeting call from very high up. Then the first line of cranes comes over, long necks forward, legs trailing, and behind it another, and another.",
+   "They have flown in from Scandinavia and the Baltic on their way to Spain and France. Linum is where they stop to rest and eat. By day they spread across the harvested fields and pick over what the maize harvesters left behind. At night they stand together in the shallow ponds, where no fox can reach them without splashing.",
+   "In a good year, up to 90,000 cranes use these ponds, with tens of thousands of wild geese alongside. The season began on 18 September. Numbers build through the next three weeks and peak in October, then thin out as the birds move on south.",
+   "Fifty years ago there were only about 800 breeding pairs of cranes left in the whole of Germany. Wetlands were drained and the birds were hunted. Protection worked. There are now around 11,000 pairs, and every autumn the sky over Brandenburg shows what that looks like.",
+   "The NABU nature centre at Linum, the Storchenschmiede, has watched over the ponds since 1991 and runs evening walks. Or just find a quiet track between the fields, stand still, and look up."
+  ],
+  "source": {
+   "name": "NABU Berlin: Kranichsaison in der Storchenschmiede Linum",
+   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
+  }
+ },
+ "joke": {
+  "fits": "The cranes arriving at Linum this week.",
+  "setup": "What did the crane say when it landed at Linum?",
+  "punchline": "Same table as last year, please."
+ },
+ "riddle": {
+  "fits": "The cranes at Linum this week.",
+  "riddle": "I arrive in thousands, sleep standing in water, and leave for Spain in October. What am I?",
+  "hint": "Long neck, trumpet call.",
+  "answer": "A crane."
+ }
+}

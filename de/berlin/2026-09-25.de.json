@@ -1,0 +1,22 @@
+{
+ "country": "DE",
+ "date": "2026-09-25",
+ "language": "de",
+ "city": "berlin",
+ "calmRead": {
+  "fits": "Berlins Wahrzeichen an einem hellen Herbstnachmittag; eine Geschichte, die viele in der Stadt nie ganz gehört haben.",
+  "title": "Das Kreuz auf dem Fernsehturm",
+  "teaser": "Ost-Berlin baute ein Denkmal für den Sozialismus. Die Sonne hatte andere Pläne.",
+  "paragraphs": [
+   "Stellen Sie sich an einem sonnigen Nachmittag irgendwo in Berlin hin und schauen Sie auf die silberne Kugel des Fernsehturms. Wenn das Licht sie trifft, erscheint auf der Kugel ein helles Kreuz, vier Arme aus gespiegeltem Sonnenlicht. Die Berliner haben einen Namen dafür: die Rache des Papstes.",
+   "Der Turm wurde zwischen 1965 und 1969 mitten in Ost-Berlin gebaut, und er sollte etwas sagen. Mit 365 Metern, später 368 mit neuer Antenne, war er das höchste Bauwerk Deutschlands, und das ist er noch. Er war das Prunkstück eines Staates, der gerade die Kreuze aus den Schulen genommen und die Kirchenzeitungen eingeschränkt hatte.",
+   "Die Kugel ist mit etwa tausend kleinen Pyramiden aus Edelstahl verkleidet. Sie sollen den Wind brechen und das Schwanken dämpfen. Niemand dachte daran, was sie mit dem Sonnenlicht anstellen würden. Jede Pyramide wirft die Sonne entlang derselben Linien zurück, und die Linien treffen sich zu einem Kreuz.",
+   "Die Regierung fand das nicht lustig. Es gab Geschichten von Ingenieuren, die etwas dagegen tun sollten. Nichts half. 1987 stand der amerikanische Präsident Ronald Reagan am Brandenburger Tor und zeigte hinauf: Wenn die Sonne auf diese Kugel fällt, sagte er, zeichnet das Licht das Zeichen des Kreuzes.",
+   "Heute gehört der Turm allen, und das Kreuz auch. Schauen Sie heute gegen vier Uhr nach oben."
+  ],
+  "source": {
+   "name": "katholisch.de: Die Rache des Papstes",
+   "url": "https://katholisch.de/artikel/18603-die-rache-des-papstes"
+  }
+ }
+}

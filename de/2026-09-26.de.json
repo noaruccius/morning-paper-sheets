@@ -1,20 +1,31 @@
 {
- "country": "DE", "date": "2026-09-26", "language": "de",
- "lookForward": { "fits": "Der BMW Berlin-Marathon ist morgen, Sonntag 27. September 2026, Start 8:30, rund 55.000 Läufer.",
-  "headline": "Berlin-Marathon, morgen früh", "line": "55.000 Läufer ab 8:30, Ziel hinter dem Brandenburger Tor. Die schnellste Strecke der Welt. Straßen gesperrt, Anfeuern erwünscht." },
- "goodThing": { "fits": "Samstag, ein Tag für den Wald; ein Drittel Deutschlands ist Wald, und er wächst.",
-  "headline": "Ein Drittel Deutschlands ist Wald, und es wird mehr", "big": "11,5 Millionen Hektar",
+ "country": "DE",
+ "date": "2026-09-26",
+ "language": "de",
+ "goodThing": {
+  "fits": "Samstag, ein Tag für den Wald; ein Drittel Deutschlands ist Wald, und er wächst.",
+  "headline": "Ein Drittel Deutschlands ist Wald, und es wird mehr",
+  "big": "11,5 Millionen Hektar",
   "line": "Die Bundeswaldinventur 2024: 15.000 Hektar mehr als 2012. Kiefer, Fichte, Buche und Eiche, in dieser Reihenfolge.",
-  "source": { "name": "Bundesministerium: Ergebnisse der vierten Bundeswaldinventur", "url": "https://www.bmleh.de/DE/themen/wald/wald-in-deutschland/bundeswaldinventur.html" } },
- "onThisDay": { "fits": "26. September 1887: Emil Berliner, geboren in Hannover, meldete sein Grammophon zum Patent an.", "year": 1887,
+  "source": {
+   "name": "Bundesministerium: Ergebnisse der vierten Bundeswaldinventur",
+   "url": "https://www.bmleh.de/DE/themen/wald/wald-in-deutschland/bundeswaldinventur.html"
+  }
+ },
+ "onThisDay": {
+  "fits": "26. September 1887: Emil Berliner, geboren in Hannover, meldete sein Grammophon zum Patent an.",
+  "year": 1887,
   "headline": "Ein Mann aus Hannover erfand den Plattenspieler",
   "line": "Emil Berliner meldete das Grammophon zum Patent an: Ton auf einer flachen Scheibe statt auf einer Walze. Jede Schallplatte seither ist seine Idee.",
-  "source": { "name": "Deutsches Patent- und Markenamt: Emil Berliners Grammophon-Patent", "url": "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/grammophon/index.html" } },
- "funFact": { "fits": "Berlins Wahrzeichen an einem klaren Herbstsamstag, wenn man am weitesten sieht.", "statement": "Das höchste Bauwerk Deutschlands steht in Berlin.", "answer": true,
-  "reveal": "Der Fernsehturm, 368 Meter. Die Aussichtsplattform liegt auf 203 Metern, und an klaren Tagen sieht man 80 Kilometer weit.",
-  "source": { "name": "Berliner Fernsehturm", "url": "https://tv-turm.de/" } },
- "calmRead": { "fits": "Samstagabend vor einem deutschen Sonntag, an dem alles schließt; der Grund steht in der Verfassung.",
-  "title": "Warum Deutschland am Sonntag still wird", "teaser": "Die Läden schließen, die Bohrmaschinen schweigen, und all das steht in der Verfassung.",
+  "source": {
+   "name": "Deutsches Patent- und Markenamt: Emil Berliners Grammophon-Patent",
+   "url": "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/grammophon/index.html"
+  }
+ },
+ "calmRead": {
+  "fits": "Samstagabend vor einem deutschen Sonntag, an dem alles schließt; der Grund steht in der Verfassung.",
+  "title": "Warum Deutschland am Sonntag still wird",
+  "teaser": "Die Läden schließen, die Bohrmaschinen schweigen, und all das steht in der Verfassung.",
   "paragraphs": [
    "Morgen früh werden die Supermärkte in {city} dunkel sein, die Bohrmaschinen und Rasenmäher still und die Straßen langsamer. Besucher finden das seltsam. Deutsche finden es normal, und die meisten würden darum kämpfen.",
    "Die Regel ist älter als das Land. Artikel 139 der Weimarer Verfassung von 1919 sagt, dass der Sonntag und die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung gesetzlich geschützt bleiben. Als die Bundesrepublik 1949 ihr Grundgesetz schrieb, hielt sie diesen Satz am Leben, Wort für Wort, über Artikel 140.",
@@ -22,10 +33,20 @@
    "Um Religion geht es kaum noch, falls es das je ganz war. Es geht darum, dass alle am selben Tag frei haben. Niemand darf Sie zur Arbeit rufen, also kann niemand Sie zum Einkaufen rufen, also kann die Familie zusammen am Tisch sitzen, und der Nachbar kann nicht mähen.",
    "Kaufen Sie das Brot heute. Morgen tun Sie nichts, mit Absicht, zusammen mit dem ganzen Land."
   ],
-  "source": { "name": "Gesetze im Internet: Artikel 139 WRV", "url": "https://www.gesetze-im-internet.de/wrv/art_139.html" } },
- "word": { "fits": "Samstagnachmittag in Deutschland.", "word": "Kaffeeklatsch", "language": "Deutsch", "pronunciation": "KAF-fee-klatsch",
-  "meaning": "Kaffee, Kuchen und ungehetztes Reden mit Freunden, am besten an einem Samstagnachmittag. Klatsch ist das Geräusch des Plauderns." },
- "kindness": { "fits": "Samstag ist Markttag in deutschen Städten; zeigt den Platzhalter {city}.", "text": "Kaufen Sie heute auf dem Markt in {city} etwas am Stand ohne Schlange. Man wird sich an Sie erinnern." },
- "joke": { "fits": "Berlin-Marathon morgen, an einem Sonntag, wenn die Läden ohnehin zu sind.", "setup": "Warum laufen 55.000 Menschen an einem Sonntag durch Berlin?", "punchline": "Die Läden sind zu. Was soll man sonst machen?" },
- "riddle": { "fits": "Berlin-Marathon morgen.", "riddle": "Ich bin 42 Kilometer lang, ich öffne einmal im Jahr, und ich ende an einem Tor. Was bin ich?", "hint": "Sonntag, 8:30.", "answer": "Die Strecke des Berlin-Marathons." }
+  "source": {
+   "name": "Gesetze im Internet: Artikel 139 WRV",
+   "url": "https://www.gesetze-im-internet.de/wrv/art_139.html"
+  }
+ },
+ "word": {
+  "fits": "Samstagnachmittag in Deutschland.",
+  "word": "Kaffeeklatsch",
+  "language": "Deutsch",
+  "pronunciation": "KAF-fee-klatsch",
+  "meaning": "Kaffee, Kuchen und ungehetztes Reden mit Freunden, am besten an einem Samstagnachmittag. Klatsch ist das Geräusch des Plauderns."
+ },
+ "kindness": {
+  "fits": "Samstag ist Markttag in deutschen Städten; zeigt den Platzhalter {city}.",
+  "text": "Kaufen Sie heute auf dem Markt in {city} etwas am Stand ohne Schlange. Man wird sich an Sie erinnern."
+ }
 }

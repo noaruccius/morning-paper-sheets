@@ -1,30 +1,62 @@
 {
- "country": "DE", "date": "2026-09-25", "language": "de",
- "lookForward": { "fits": "Tag der Deutschen Einheit in acht Tagen, Samstag 3. Oktober 2026; Bremen richtet die zentrale Feier aus.",
-  "headline": "Tag der Deutschen Einheit, Samstag in einer Woche", "line": "3. Oktober, ein Feiertag. Die offizielle Feier ist dieses Jahr in Bremen. Sechsunddreißig Jahre, seit aus zwei Ländern eines wurde." },
- "goodThing": { "fits": "Die Kraniche über Brandenburg in dieser Woche sind eine Erfolgsgeschichte des Naturschutzes.",
-  "headline": "Die Kraniche sind zurück in Deutschland", "big": "800 → 11.000 Paare",
+ "country": "DE",
+ "date": "2026-09-25",
+ "language": "de",
+ "lookForward": {
+  "fits": "Tag der Deutschen Einheit in acht Tagen, Samstag 3. Oktober 2026; Bremen richtet die zentrale Feier aus.",
+  "headline": "Tag der Deutschen Einheit, Samstag in einer Woche",
+  "line": "3. Oktober, ein Feiertag. Die offizielle Feier ist dieses Jahr in Bremen. Sechsunddreißig Jahre, seit aus zwei Ländern eines wurde."
+ },
+ "goodThing": {
+  "fits": "Die Kraniche über Brandenburg in dieser Woche sind eine Erfolgsgeschichte des Naturschutzes.",
+  "headline": "Die Kraniche sind zurück in Deutschland",
+  "big": "800 → 11.000 Paare",
   "line": "In den 1970ern noch etwa 800 Brutpaare. Feuchtgebiete wurden geschützt, die Jagd hörte auf. Heute füllen sie den Septemberhimmel.",
-  "source": { "name": "NABU: Vogelporträt Kranich", "url": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/" } },
- "onThisDay": { "fits": "25. September 1555, Augsburg.", "year": 1555, "headline": "Deutschlands Fürsten einigten sich, sich über Gott uneinig zu sein",
+  "source": {
+   "name": "NABU: Vogelporträt Kranich",
+   "url": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/"
+  }
+ },
+ "onThisDay": {
+  "fits": "25. September 1555, Augsburg.",
+  "year": 1555,
+  "headline": "Deutschlands Fürsten einigten sich, sich über Gott uneinig zu sein",
   "line": "Der Augsburger Religionsfrieden. Zum ersten Mal waren zwei christliche Konfessionen nebeneinander in einem Reich erlaubt.",
-  "source": { "name": "Deutschlandmuseum: Augsburger Religionsfrieden", "url": "https://www.deutschlandmuseum.de/en/history/calendar/1555-09-25-the-peace-of-augsburg/" } },
- "funFact": { "fits": "Deutscher Alltag: das Pfandsystem, das jeder Leser in Deutschland benutzt.", "statement": "In Deutschland steckt auf fast jeder Flasche und Dose Geld.", "answer": true,
+  "source": {
+   "name": "Deutschlandmuseum: Augsburger Religionsfrieden",
+   "url": "https://www.deutschlandmuseum.de/en/history/calendar/1555-09-25-the-peace-of-augsburg/"
+  }
+ },
+ "funFact": {
+  "fits": "Deutscher Alltag: das Pfandsystem, das jeder Leser in Deutschland benutzt.",
+  "statement": "In Deutschland steckt auf fast jeder Flasche und Dose Geld.",
+  "answer": true,
   "reveal": "25 Cent Pfand seit 2003. Etwa 98 von 100 kommen zurück in den Laden und werden recycelt.",
-  "source": { "name": "NABU: Einwegpfand", "url": "https://www.nabu.de/umwelt-und-ressourcen/ressourcenschonung/einzelhandel-und-umwelt/mehrweg/21967.html" } },
- "calmRead": { "fits": "Berlins Wahrzeichen an einem hellen Herbstnachmittag; eine Geschichte, die viele in der Stadt nie ganz gehört haben.",
-  "title": "Das Kreuz auf dem Fernsehturm", "teaser": "Ost-Berlin baute ein Denkmal für den Sozialismus. Die Sonne hatte andere Pläne.",
-  "paragraphs": [
-   "Stellen Sie sich an einem sonnigen Nachmittag irgendwo in Berlin hin und schauen Sie auf die silberne Kugel des Fernsehturms. Wenn das Licht sie trifft, erscheint auf der Kugel ein helles Kreuz, vier Arme aus gespiegeltem Sonnenlicht. Die Berliner haben einen Namen dafür: die Rache des Papstes.",
-   "Der Turm wurde zwischen 1965 und 1969 mitten in Ost-Berlin gebaut, und er sollte etwas sagen. Mit 365 Metern, später 368 mit neuer Antenne, war er das höchste Bauwerk Deutschlands, und das ist er noch. Er war das Prunkstück eines Staates, der gerade die Kreuze aus den Schulen genommen und die Kirchenzeitungen eingeschränkt hatte.",
-   "Die Kugel ist mit etwa tausend kleinen Pyramiden aus Edelstahl verkleidet. Sie sollen den Wind brechen und das Schwanken dämpfen. Niemand dachte daran, was sie mit dem Sonnenlicht anstellen würden. Jede Pyramide wirft die Sonne entlang derselben Linien zurück, und die Linien treffen sich zu einem Kreuz.",
-   "Die Regierung fand das nicht lustig. Es gab Geschichten von Ingenieuren, die etwas dagegen tun sollten. Nichts half. 1987 stand der amerikanische Präsident Ronald Reagan am Brandenburger Tor und zeigte hinauf: Wenn die Sonne auf diese Kugel fällt, sagte er, zeichnet das Licht das Zeichen des Kreuzes.",
-   "Heute gehört der Turm allen, und das Kreuz auch. Schauen Sie heute gegen vier Uhr nach oben."
-  ],
-  "source": { "name": "katholisch.de: Die Rache des Papstes", "url": "https://katholisch.de/artikel/18603-die-rache-des-papstes" } },
- "word": { "fits": "Freitagabend in Deutschland.", "word": "Feierabend", "language": "Deutsch", "pronunciation": "FAI-er-ah-bent",
-  "meaning": "Der Moment, in dem die Arbeit endet und der Abend Ihnen gehört. Einst der Abend vor einem Feiertag, heute jeder Abend, und freitags mit Gefühl gesagt." },
- "kindness": { "fits": "Freitag; passt zum Wort des Tages, Feierabend.", "text": "Es ist Freitag. Gehen Sie pünktlich, und nehmen Sie jemanden mit, der das nie tut." },
- "joke": { "fits": "Freitag; passt zum Wort des Tages, Feierabend.", "setup": "Wie nennt man jemanden, der freitags um vier das Büro verlässt?", "punchline": "Pünktlich." },
- "riddle": { "fits": "Das Pfandsystem aus dem Fun Fact von heute.", "riddle": "Ich bin 25 Cent wert, ich bin keine Münze, und ich wohne unter Ihrer Spüle. Was bin ich?", "hint": "Bring mich zurück in den Laden.", "answer": "Eine leere Pfandflasche." }
+  "source": {
+   "name": "NABU: Einwegpfand",
+   "url": "https://www.nabu.de/umwelt-und-ressourcen/ressourcenschonung/einzelhandel-und-umwelt/mehrweg/21967.html"
+  }
+ },
+ "word": {
+  "fits": "Freitagabend in Deutschland.",
+  "word": "Feierabend",
+  "language": "Deutsch",
+  "pronunciation": "FAI-er-ah-bent",
+  "meaning": "Der Moment, in dem die Arbeit endet und der Abend Ihnen gehört. Einst der Abend vor einem Feiertag, heute jeder Abend, und freitags mit Gefühl gesagt."
+ },
+ "kindness": {
+  "fits": "Freitag; passt zum Wort des Tages, Feierabend.",
+  "text": "Es ist Freitag. Gehen Sie pünktlich, und nehmen Sie jemanden mit, der das nie tut."
+ },
+ "joke": {
+  "fits": "Freitag; passt zum Wort des Tages, Feierabend.",
+  "setup": "Wie nennt man jemanden, der freitags um vier das Büro verlässt?",
+  "punchline": "Pünktlich."
+ },
+ "riddle": {
+  "fits": "Das Pfandsystem aus dem Fun Fact von heute.",
+  "riddle": "Ich bin 25 Cent wert, ich bin keine Münze, und ich wohne unter Ihrer Spüle. Was bin ich?",
+  "hint": "Bring mich zurück in den Laden.",
+  "answer": "Eine leere Pfandflasche."
+ }
 }

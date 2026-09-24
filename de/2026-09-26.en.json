@@ -2,11 +2,6 @@
  "country": "DE",
  "date": "2026-09-26",
  "language": "en",
- "lookForward": {
-  "fits": "The BMW Berlin Marathon is tomorrow, Sunday 27 September 2026, 8:30 start, about 55,000 runners.",
-  "headline": "Berlin Marathon tomorrow morning",
-  "line": "55,000 runners from 8:30, finishing through the Brandenburg Gate. The fastest course in the world. Roads closed, cheering welcome."
- },
  "goodThing": {
   "fits": "Saturday, a day for the woods; Germany's forest is a third of the country and still growing.",
   "headline": "A third of Germany is forest, and it is growing",
@@ -25,16 +20,6 @@
   "source": {
    "name": "Deutsches Patent- und Markenamt: Emil Berliner's Gramophone patent",
    "url": "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/grammophon/index.html"
-  }
- },
- "funFact": {
-  "fits": "Berlin's landmark, on a clear autumn Saturday when the view from the top reaches furthest.",
-  "statement": "The tallest building in Germany is in Berlin.",
-  "answer": true,
-  "reveal": "The television tower, 368 metres. The viewing platform is at 203 metres, and on a clear day you can see 80 kilometres.",
-  "source": {
-   "name": "Berliner Fernsehturm",
-   "url": "https://tv-turm.de/"
   }
  },
  "calmRead": {
@@ -63,16 +48,5 @@
  "kindness": {
   "fits": "Saturday market day in German towns; shows the {city} placeholder.",
   "text": "At the Saturday market in {city}, buy something from the stall with no line. They will remember you."
- },
- "joke": {
-  "fits": "Berlin Marathon tomorrow, on a Sunday, when the shops are shut anyway.",
-  "setup": "Why do 55,000 people run through Berlin on a Sunday?",
-  "punchline": "The shops are shut. What else is there to do?"
- },
- "riddle": {
-  "fits": "Berlin Marathon tomorrow.",
-  "riddle": "I am 42 kilometres long, I open once a year, and I end at a gate. What am I?",
-  "hint": "Sunday, 8:30.",
-  "answer": "The Berlin Marathon course."
  }
 }

@@ -1,0 +1,32 @@
+{
+ "country": "DE",
+ "date": "2026-09-26",
+ "language": "de",
+ "city": "berlin",
+ "lookForward": {
+  "fits": "Der BMW Berlin-Marathon ist morgen, Sonntag 27. September 2026, Start 8:30, rund 55.000 Läufer.",
+  "headline": "Berlin-Marathon, morgen früh",
+  "line": "55.000 Läufer ab 8:30, Ziel hinter dem Brandenburger Tor. Die schnellste Strecke der Welt. Straßen gesperrt, Anfeuern erwünscht."
+ },
+ "funFact": {
+  "fits": "Berlins Wahrzeichen an einem klaren Herbstsamstag, wenn man am weitesten sieht.",
+  "statement": "Das höchste Bauwerk Deutschlands steht in Berlin.",
+  "answer": true,
+  "reveal": "Der Fernsehturm, 368 Meter. Die Aussichtsplattform liegt auf 203 Metern, und an klaren Tagen sieht man 80 Kilometer weit.",
+  "source": {
+   "name": "Berliner Fernsehturm",
+   "url": "https://tv-turm.de/"
+  }
+ },
+ "joke": {
+  "fits": "Berlin-Marathon morgen, an einem Sonntag, wenn die Läden ohnehin zu sind.",
+  "setup": "Warum laufen 55.000 Menschen an einem Sonntag durch Berlin?",
+  "punchline": "Die Läden sind zu. Was soll man sonst machen?"
+ },
+ "riddle": {
+  "fits": "Berlin-Marathon morgen.",
+  "riddle": "Ich bin 42 Kilometer lang, ich öffne einmal im Jahr, und ich ende an einem Tor. Was bin ich?",
+  "hint": "Sonntag, 8:30.",
+  "answer": "Die Strecke des Berlin-Marathons."
+ }
+}
