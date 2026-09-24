@@ -1,0 +1,77 @@
+{
+ "country": "DE",
+ "date": "2026-09-30",
+ "language": "de",
+ "lookForward": {
+  "fits": "Tag der Deutschen Einheit am Samstag, 3. Oktober 2026; Bremen richtet die zentrale Feier und das Bürgerfest aus.",
+  "headline": "Ein Feiertag am Samstag",
+  "line": "Tag der Deutschen Einheit, 3. Oktober. Bremen feiert dieses Jahr für alle, mit einem Bürgerfest in der Altstadt. Überall sonst: ein stiller Tag, Läden zu, ein langer Spaziergang."
+ },
+ "goodThing": {
+  "fits": "Ende September: Die Störche sind gerade nach Afrika aufgebrochen, und es waren so viele wie seit hundert Jahren nicht.",
+  "headline": "Mehr Störche in Deutschland als seit hundert Jahren",
+  "big": "15.000 Paare",
+  "line": "In den 1980ern unter 3.000 Paare. Diesen Sommer brüteten rund 15.000, ein Rekord. Sie flogen vor Wochen nach Afrika und kommen im März wieder.",
+  "source": {
+   "name": "t-online: NABU meldet Rekord von 15.000 Storchenpaaren",
+   "url": "https://www.t-online.de/heim-garten/aktuelles/id_101351566/nabu-meldet-storch-boom-so-viele-brautpaare-wie-nie-zuvor.html"
+  }
+ },
+ "onThisDay": {
+  "fits": "30. September 1989: Vom Balkon der bundesdeutschen Botschaft in Prag sagte Genscher Tausenden DDR-Bürgern, dass sie ausreisen dürfen.",
+  "year": 1989,
+  "headline": "Ein Satz von einem Balkon in Prag machte Tausende frei",
+  "line": "Außenminister Genscher sagte den DDR-Bürgern im Botschaftsgarten: Ihre Ausreise ist möglich geworden. Der Jubel verschluckte den Rest. Ein Jahr später war Deutschland vereint.",
+  "source": {
+   "name": "Deutschlandmuseum: Ausreise-Erlaubnis für DDR-Bürger",
+   "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1989-09-30-ausreise-erlaubnis-fuer-ddr-buerger/"
+  }
+ },
+ "funFact": {
+  "fits": "30. September 1791: Uraufführung der Zauberflöte, der meistgespielten Oper in deutscher Sprache.",
+  "statement": "Die Zauberflöte war am ersten Abend ein Triumph.",
+  "answer": false,
+  "reveal": "Mozart schrieb von stillem Beifall, eine Zeitung meldete gar keinen. Binnen Wochen ein Erfolg. Neun Wochen nach der Uraufführung war er tot.",
+  "source": {
+   "name": "Österreichische Mediathek: Die Zauberflöte (1791)",
+   "url": "https://www.mediathek.at/onlineausstellungen/mozart/die-zauberfloete-1791"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das An diesem Tag von heute, drei Tage vor dem Tag der Einheit: der Abend auf dem Prager Balkon, 30. September 1989.",
+  "title": "Der Satz, dessen Ende niemand hörte",
+  "teaser": "An diesem Abend 1989 trat ein Außenminister auf einen Balkon und kam nicht zu Ende.",
+  "paragraphs": [
+   "Ende September 1989 war der Garten der bundesdeutschen Botschaft in Prag ein Lager. Rund viertausend DDR-Bürger waren über den Zaun geklettert und weigerten sich zu gehen. Sie schliefen in Zelten und auf Fluren, Kinder darunter. Die DDR wollte sie nicht ziehen lassen, und die Bundesrepublik konnte sie nicht einfach mitnehmen.",
+   "Hans-Dietrich Genscher, der Außenminister, war in Halle aufgewachsen, im Osten. Er hatte tagelang in New York und Bonn verhandelt. Am Abend des 30. September flog er nach Prag, ging durch die Botschaft und trat auf einen kleinen Balkon über dem Garten.",
+   "Er sagte: Wir sind zu Ihnen gekommen, um Ihnen mitzuteilen, dass heute Ihre Ausreise möglich geworden ist. Weiter kam er nicht. Das Wort Ausreise genügte. Der Jubel, der aus dem Garten aufstieg, verschluckte alles danach, und er ist es, den die Menschen erinnern. Genscher nannte es später den bewegendsten Moment seines politischen Lebens.",
+   "Noch in der Nacht fuhren Züge, verriegelt, durch DDR-Gebiet nach Bayern. Auf den Bahnsteigen im Westen reichten Fremde den Ankommenden Kaffee und Mäntel. Fünf Wochen später öffnete sich die Mauer. Ein Jahr und drei Tage später, am 3. Oktober 1990, gab es ein Deutschland. Dafür ist der Feiertag am Samstag."
+  ],
+  "source": {
+   "name": "Deutschlandmuseum: Ausreise-Erlaubnis für DDR-Bürger",
+   "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1989-09-30-ausreise-erlaubnis-fuer-ddr-buerger/"
+  }
+ },
+ "word": {
+  "fits": "Der Prager Balkon, aus dem An diesem Tag von heute.",
+  "word": "Freudentränen",
+  "language": "Deutsch",
+  "pronunciation": "FROI-den-tray-nen",
+  "meaning": "Tränen vor Glück. Ein Wort für das, was an diesem Abend 1989 auf einem Prager Balkon geschah, und in derselben Nacht auf sehr vielen Bahnsteigen."
+ },
+ "kindness": {
+  "fits": "Drei Tage vor dem Tag der Einheit.",
+  "text": "Rufen Sie jemanden an, den eine Grenze von Ihnen trennt. Irgendeine Grenze. Fragen Sie, was das Wetter dort macht."
+ },
+ "joke": {
+  "fits": "Tag der Einheit am Samstag.",
+  "setup": "Warum ist der 3. Oktober der ruhigste Feiertag in Deutschland?",
+  "punchline": "Weil niemand etwas kaufen, einpacken oder kochen muss. Einfach ein Land sein."
+ },
+ "riddle": {
+  "fits": "Der Prager Balkon, aus dem An diesem Tag von heute.",
+  "riddle": "Ich bin ein paar Meter über einem Garten, ich trug einen Mann eine Minute lang, und ein Land ging durch mich hindurch. Was bin ich?",
+  "hint": "Prag, 1989.",
+  "answer": "Der Balkon der bundesdeutschen Botschaft."
+ }
+}

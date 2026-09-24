@@ -1,0 +1,30 @@
+{
+ "country": "DE", "date": "2026-09-28", "language": "en",
+ "lookForward": { "fits": "Erntedank, the German harvest festival, is next Sunday, 4 October 2026, in churches across the country.",
+  "headline": "Harvest festival next Sunday", "line": "Erntedank, 4 October. Churches fill with pumpkins, bread and apples, and give it all away afterwards. Worth a look even if you never go." },
+ "goodThing": { "fits": "Autumn is when beavers are busiest along German rivers; the species was nearly gone and is back.",
+  "headline": "Germany's beavers came back from almost nothing", "big": "40,000",
+  "line": "Hunted to the brink by 1900 for fur and scent. Reintroduced from the 1960s. Now about 40,000 build dams that hold back floods and store water.",
+  "source": { "name": "NABU: Biber, ein Multitalent im Ökosystem", "url": "https://www.nabu.de/tiere-und-pflanzen/artenschutz/biber.html" } },
+ "onThisDay": { "fits": "28 September 1951: the Federal Constitutional Court was ceremonially opened in Karlsruhe.", "year": 1951,
+  "headline": "Germany opened the court that guards its constitution",
+  "line": "The Bundesverfassungsgericht in Karlsruhe, with President Heuss and Chancellor Adenauer watching. Anyone in Germany can bring a complaint to it, no lawyer needed.",
+  "source": { "name": "Deutschlandmuseum: Eröffnung des Bundesverfassungsgerichts", "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1951-09-28-eroeffnung-des-bundesverfassungsgerichts/" } },
+ "funFact": { "fits": "A Berlin fact for a Monday walk.", "statement": "Almost a quarter of Berlin is forest and water.", "answer": true,
+  "reveal": "About 16 percent forest and 6 percent water, plus another 11 percent of parks. Few big cities come close.",
+  "source": { "name": "Berlin.de: Daten und Fakten, Grünflächen", "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/gruenflaechen-gruenanlagen/" } },
+ "calmRead": { "fits": "Expands today's On this day: the court in Karlsruhe, opened 75 years ago today, and what it means that anyone can write to it.",
+  "title": "The court anyone can write to", "teaser": "Seventy-five years ago today, Germany gave every citizen a door to knock on.",
+  "paragraphs": [
+   "On 28 September 1951, in a small theatre hall in Karlsruhe, the Federal Republic opened a court unlike any it had had before. The President and the Chancellor sat in the audience. The judges wore no red robes yet; those came later. The idea they were there to protect was simple: the constitution stands above the government, and somebody independent has to say so.",
+   "The Bundesverfassungsgericht does not try criminals or settle divorces. It answers one question, again and again: does this law, this ruling, this decision respect the Basic Law? Governments of every colour have lost there. Pension rules, data laws, budget tricks, election rules have all been sent back.",
+   "The part most people forget is who can ask. Anyone. If you believe the state has violated one of your basic rights and every other court has turned you down, you can write to Karlsruhe yourself. No lawyer, no fee. Around five thousand people do so every year. Most complaints fail, but the door stays open, and the few that succeed change the law for everyone.",
+   "Surveys put the court among the most trusted institutions in the country, well ahead of parliament or the parties. That trust was not given in 1951. It was earned, ruling by ruling, over seventy-five years, starting today."
+  ],
+  "source": { "name": "bpb: 70 Jahre Bundesverfassungsgericht", "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/340865/70-jahre-bundesverfassungsgericht/" } },
+ "word": { "fits": "Monday morning, with the harvest festival and a holiday weekend ahead.", "word": "Vorfreude", "language": "German", "pronunciation": "FOR-froy-duh",
+  "meaning": "The joy of looking forward to something. Germans say it is the best joy of all, and Monday is when you need it." },
+ "kindness": { "fits": "Monday, with Erntedank coming: sharing the harvest.", "text": "Bring something from the weekend to work today: apples, cake, a story. Mondays go faster when somebody does." },
+ "joke": { "fits": "Beavers, from today's good news.", "setup": "Why are German beavers never late?", "punchline": "They always leave a little dam early." },
+ "riddle": { "fits": "The court in Karlsruhe, from today's On this day.", "riddle": "I wear red, I cannot be voted out, and the government must do what I say. What am I?", "hint": "Karlsruhe.", "answer": "A judge of the Federal Constitutional Court." }
+}

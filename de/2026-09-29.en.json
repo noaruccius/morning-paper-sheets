@@ -1,0 +1,77 @@
+{
+ "country": "DE",
+ "date": "2026-09-29",
+ "language": "en",
+ "lookForward": {
+  "fits": "The Oktoberfest in Munich runs 19 September to 4 October 2026; the last weekend is coming.",
+  "headline": "Last weekend of the Oktoberfest",
+  "line": "Munich's beer festival ends on Sunday, 4 October. Six days left for the tents, the rides and the roast chicken. The rest of Germany watches on TV."
+ },
+ "goodThing": {
+  "fits": "Late September, when the leaves turn: Berlin's street trees, counted every year by the city.",
+  "headline": "Berlin has a tree every twelve metres of street",
+  "big": "430,000+",
+  "line": "Along 5,000 kilometres of road, about 80 trees per kilometre: limes, maples, oaks, planes and chestnuts. One of the greenest big cities anywhere.",
+  "source": {
+   "name": "Berlin.de: Daten und Fakten, Stadtbäume",
+   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/stadtbaeume/"
+  }
+ },
+ "onThisDay": {
+  "fits": "29 September 1900: the new Bavarian National Museum opened on Prinzregentenstraße in Munich.",
+  "year": 1900,
+  "headline": "Munich opened one of the loveliest museums in Germany",
+  "line": "The Bavarian National Museum on Prinzregentenstraße. Each wing is built in the style of the period shown inside, a history lesson before you enter.",
+  "source": {
+   "name": "Bayerisches Nationalmuseum: History",
+   "url": "https://www.bayerisches-nationalmuseum.de/en/museum/history"
+  }
+ },
+ "funFact": {
+  "fits": "Everyday Germany: bread, the thing every reader here buys this week.",
+  "statement": "Germany has more than three thousand kinds of bread.",
+  "answer": true,
+  "reveal": "Over 3,000 are listed in the German Bread Register. In 2014, German bread culture was added to the national list of intangible cultural heritage.",
+  "source": {
+   "name": "Deutsches Brotinstitut: Brotkultur",
+   "url": "https://www.brotinstitut.de/brotkultur"
+  }
+ },
+ "calmRead": {
+  "fits": "A Berlin story for the week the leaves turn: how the city bought its forests in 1915 and promised never to sell them.",
+  "title": "The day Berlin bought its forests for ever",
+  "teaser": "Why a city of four million still has woods you can get lost in.",
+  "paragraphs": [
+   "Take the S-Bahn west from the centre of Berlin for twenty minutes and you are in the Grunewald: pines, oaks, lakes, wild boar, and no houses. This is not luck. In 1904, thirty thousand Berliners signed a petition because the forest was being sold off, plot by plot, to build villas. It was one of the first environmental protests in Germany.",
+   "It worked, slowly. On 27 March 1915, in the middle of a war, the Greater Berlin association bought about ten thousand hectares of forest from the Prussian state for fifty million gold marks, and signed a promise: the woods would be kept as forest, for the recreation and health of the population, for ever. It is called the Dauerwaldvertrag, the permanent-forest contract.",
+   "Berlin has kept the promise for 111 years. The city now owns about 28,000 hectares of forest, more than any other city in Germany and the second most in Europe after Vienna. About one sixth of Berlin's whole area is woodland, and a 2004 state law protects it again, on top of the old contract.",
+   "This week the leaves are turning. The Grunewald is at its best on a weekday morning, when the paths are empty and the boar are asleep. Go and stand under something that was a sapling when the contract was signed."
+  ],
+  "source": {
+   "name": "BUND Berlin: Vorbild Dauerwaldvertrag",
+   "url": "https://www.bund-berlin.de/themen/stadtnatur/biologische-vielfalt/vorbild-dauerwaldvertrag/"
+  }
+ },
+ "word": {
+  "fits": "The week the forests turn gold; pairs with today's calm read.",
+  "word": "Waldeinsamkeit",
+  "language": "German",
+  "pronunciation": "VALT-ine-zam-kite",
+  "meaning": "The feeling of being alone in a forest: calm, small, and completely fine about it. English has no word for it, and borrows this one."
+ },
+ "kindness": {
+  "fits": "Tuesday; the trees of today's good news.",
+  "text": "Find out which tree stands outside your door. Then tell the child, or the neighbour, who has walked past it for years."
+ },
+ "joke": {
+  "fits": "Bread, from today's fun fact.",
+  "setup": "Why do German bakers never get lost?",
+  "punchline": "They always know the way to the roll."
+ },
+ "riddle": {
+  "fits": "Bread, from today's fun fact.",
+  "riddle": "I have a crust but no rust, I rise before you do, and Germany has three thousand kinds of me. What am I?",
+  "hint": "Warm from the bakery.",
+  "answer": "Bread."
+ }
+}

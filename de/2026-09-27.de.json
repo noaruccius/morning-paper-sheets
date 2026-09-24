@@ -1,0 +1,78 @@
+{
+ "country": "DE",
+ "date": "2026-09-27",
+ "language": "de",
+ "lookForward": {
+  "fits": "Marathontag in Berlin: Sonntag 27. September 2026, Start 8:30, rund 55.000 Läufer; die Spitze kommt gegen 10:30 ins Ziel.",
+  "headline": "Marathon-Sonntag in Berlin",
+  "line": "Die ersten starten um 8:30, die schnellsten sind kurz nach zehn im Ziel. Suchen Sie sich einen Platz an der Strecke, klatschen Sie für Fremde, bleiben Sie für die Langsamen."
+ },
+ "goodThing": {
+  "fits": "Ein Sonntag zum Wegfahren: ein Ticket für jeden Bus und jede Regionalbahn in Deutschland, und jedes Jahr nutzen es mehr Menschen.",
+  "headline": "Ein Ticket, das ganze Land, und 14 Millionen nutzen es",
+  "big": "14,6 Millionen",
+  "line": "Das Deutschlandticket: jeder Bus, jede Tram, jede Regionalbahn für einen Monatspreis. 2025 stieg die Zahl der Nutzer von 13,4 auf 14,6 Millionen.",
+  "source": {
+   "name": "VDV: Deutschland-Ticket, Zahlen und Fakten",
+   "url": "https://www.vdv.de/deutschlandticket.aspx"
+  }
+ },
+ "onThisDay": {
+  "fits": "27. September 1905: Bei den Annalen der Physik ging Einsteins dreiseitiger Aufsatz ein, der zu E = mc² führt.",
+  "year": 1905,
+  "headline": "Ein dreiseitiger Brief mit E = mc² kam bei einer deutschen Zeitschrift an",
+  "line": "Einsteins Aufsatz, ob die Masse eines Körpers von seiner Energie abhängt, erreichte die Annalen der Physik. Sein kürzester großer Aufsatz.",
+  "source": {
+   "name": "Annalen der Physik: Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053231314"
+  }
+ },
+ "funFact": {
+  "fits": "Marathontag in Berlin.",
+  "statement": "In Berlin wurden mehr Marathon-Weltrekorde gelaufen als irgendwo sonst.",
+  "answer": true,
+  "reveal": "Dreizehn. Flache, breite Straßen, kühle Septemberluft und eine Strecke mit kaum 40 Metern Höhenunterschied. Chicago ist Zweiter mit sieben.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das Demnächst des Tages: warum der Berlin-Marathon, der heute läuft, der schnellste der Welt ist.",
+  "title": "Warum die Welt in Berlin am schnellsten läuft",
+  "teaser": "Dreizehn Weltrekorde auf einer Strecke. Das ist kein Glück, und es liegt nicht nur an den Läufern.",
+  "paragraphs": [
+   "Um halb neun heute Morgen laufen 55.000 Menschen von der Straße des 17. Juni los, und irgendwo vorn versucht eine kleine Gruppe, 42 Kilometer schneller zu laufen als je ein Mensch zuvor. Sie haben Berlin nicht zufällig gewählt. Dreizehn Marathon-Weltrekorde wurden hier aufgestellt, mehr als auf jeder anderen Strecke. Chicago, auf Platz zwei, hat sieben.",
+   "Der erste Grund ist der Boden. Berlin ist flach. Die ganze Strecke steigt und fällt um etwa vierzig Meter, weniger als ein paar Treppen, verteilt über zwei Stunden. Die Straßen sind breit, die Kurven sanft, und der Asphalt ist fast überall glatt.",
+   "Der zweite Grund ist das Datum. Der letzte Sonntag im September ist in Berlin meist kühl, trocken und windstill. Marathonläufer verlieren ihre Geschwindigkeit in der Hitze, und Berlin schenkt ihnen zehn oder zwölf Grad am Start.",
+   "Der dritte Grund sind die Zuschauer. Eine Million Menschen stehen an der Strecke, und sie werden nicht leise, wenn die Spitze vorbei ist. Wer nach fünf Stunden ins Ziel kommt, bekommt denselben Lärm wie die, die nach zwei Stunden ankommen.",
+   "Die Strecke führt zum Schluss durch das Brandenburger Tor, mit noch etwa 400 Metern bis zum Ziel. Läufer sagen, das Tor sei das Schwerste: Man sieht das Ziel, und es kommt nicht näher. Dann doch."
+  ],
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
+ },
+ "word": {
+  "fits": "Der Tag, nachdem 55.000 Menschen einen Marathon gelaufen sind; und der Morgen nach jedem Samstag.",
+  "word": "Muskelkater",
+  "language": "Deutsch",
+  "pronunciation": "MUS-kel-kah-ter",
+  "meaning": "Schmerzende Muskeln am Tag nach dem Sport. Der Kater ist derselbe wie nach zu viel Bier, nur dass er in den Beinen sitzt."
+ },
+ "kindness": {
+  "fits": "Marathontag.",
+  "text": "Klatschen Sie heute für Menschen, die Sie nicht kennen. Bleiben Sie für die hinten. Die brauchen es am meisten."
+ },
+ "joke": {
+  "fits": "Marathontag in Berlin.",
+  "setup": "Warum trinkt der Marathonläufer keinen Kaffee unterwegs?",
+  "punchline": "Er hat schon genug Lauf drin."
+ },
+ "riddle": {
+  "fits": "Marathontag.",
+  "riddle": "Alle starten am selben Ort, niemand kommt zur selben Zeit an, und der Letzte bekommt den lautesten Beifall. Was ist das?",
+  "hint": "Sonntagmorgen in Berlin.",
+  "answer": "Ein Marathon."
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "country": "DE",
+ "date": "2026-09-29",
+ "language": "de",
+ "lookForward": {
+  "fits": "Das Oktoberfest in München läuft vom 19. September bis 4. Oktober 2026; das letzte Wochenende kommt.",
+  "headline": "Letztes Wochenende auf der Wiesn",
+  "line": "Das Oktoberfest endet am Sonntag, 4. Oktober. Noch sechs Tage Zelte, Fahrgeschäfte und Hendl. Der Rest Deutschlands schaut im Fernsehen zu."
+ },
+ "goodThing": {
+  "fits": "Ende September, wenn sich die Blätter färben: Berlins Straßenbäume, jedes Jahr von der Stadt gezählt.",
+  "headline": "Berlin hat alle zwölf Meter Straße einen Baum",
+  "big": "430.000+",
+  "line": "Entlang 5.000 Kilometern Straße etwa 80 Bäume pro Kilometer: Linden, Ahorn, Eichen, Platanen und Kastanien. Eine der grünsten Großstädte überhaupt.",
+  "source": {
+   "name": "Berlin.de: Daten und Fakten, Stadtbäume",
+   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/stadtbaeume/"
+  }
+ },
+ "onThisDay": {
+  "fits": "29. September 1900: Das neue Bayerische Nationalmuseum an der Prinzregentenstraße in München wurde eröffnet.",
+  "year": 1900,
+  "headline": "München eröffnete eines der seltsamsten, schönsten Museen Deutschlands",
+  "line": "Das Bayerische Nationalmuseum an der Prinzregentenstraße. Jeder Flügel hat den Stil der Epoche, die er zeigt: eine Geschichtsstunde, bevor man hineingeht.",
+  "source": {
+   "name": "Bayerisches Nationalmuseum: Geschichte",
+   "url": "https://www.bayerisches-nationalmuseum.de/en/museum/history"
+  }
+ },
+ "funFact": {
+  "fits": "Deutscher Alltag: Brot, das jeder Leser hier diese Woche kauft.",
+  "statement": "Deutschland hat mehr als dreitausend Brotsorten.",
+  "answer": true,
+  "reveal": "Über 3.000 stehen im Deutschen Brotregister. 2014 wurde die deutsche Brotkultur in das bundesweite Verzeichnis des immateriellen Kulturerbes aufgenommen.",
+  "source": {
+   "name": "Deutsches Brotinstitut: Brotkultur",
+   "url": "https://www.brotinstitut.de/brotkultur"
+  }
+ },
+ "calmRead": {
+  "fits": "Eine Berliner Geschichte für die Woche, in der sich die Blätter färben: wie die Stadt 1915 ihre Wälder kaufte und versprach, sie nie zu verkaufen.",
+  "title": "Der Tag, an dem Berlin seine Wälder für immer kaufte",
+  "teaser": "Warum eine Stadt mit vier Millionen Menschen noch Wälder hat, in denen man sich verlaufen kann.",
+  "paragraphs": [
+   "Fahren Sie mit der S-Bahn zwanzig Minuten vom Zentrum Berlins nach Westen, und Sie stehen im Grunewald: Kiefern, Eichen, Seen, Wildschweine, keine Häuser. Das ist kein Zufall. 1904 unterschrieben dreißigtausend Berliner eine Petition, weil der Wald Stück für Stück verkauft wurde, für Villen. Es war einer der ersten Umweltproteste in Deutschland.",
+   "Es wirkte, langsam. Am 27. März 1915, mitten im Krieg, kaufte der Zweckverband Groß-Berlin vom preußischen Staat rund zehntausend Hektar Wald für fünfzig Millionen Goldmark und gab ein Versprechen ab: Die Wälder bleiben Wald, für Erholung und Gesundheit der Bevölkerung, auf Dauer. Man nennt es den Dauerwaldvertrag.",
+   "Berlin hat das Versprechen 111 Jahre gehalten. Die Stadt besitzt heute rund 28.000 Hektar Wald, mehr als jede andere Stadt in Deutschland und in Europa nur hinter Wien. Etwa ein Sechstel der gesamten Berliner Fläche ist Wald, und ein Landesgesetz von 2004 schützt ihn noch einmal, zusätzlich zum alten Vertrag.",
+   "Diese Woche färben sich die Blätter. Der Grunewald ist am schönsten an einem Werktagmorgen, wenn die Wege leer sind und die Wildschweine schlafen. Gehen Sie hin und stellen Sie sich unter etwas, das ein Schössling war, als der Vertrag unterschrieben wurde."
+  ],
+  "source": {
+   "name": "BUND Berlin: Vorbild Dauerwaldvertrag",
+   "url": "https://www.bund-berlin.de/themen/stadtnatur/biologische-vielfalt/vorbild-dauerwaldvertrag/"
+  }
+ },
+ "word": {
+  "fits": "Die Woche, in der die Wälder golden werden; passt zur ruhigen Lektüre von heute.",
+  "word": "Waldeinsamkeit",
+  "language": "Deutsch",
+  "pronunciation": "WALT-ain-zam-kait",
+  "meaning": "Das Gefühl, allein im Wald zu sein: ruhig, klein und vollkommen einverstanden damit. Das Englische hat kein Wort dafür und leiht sich dieses."
+ },
+ "kindness": {
+  "fits": "Dienstag; die Bäume aus den guten Nachrichten von heute.",
+  "text": "Finden Sie heraus, welcher Baum vor Ihrer Tür steht. Dann erzählen Sie es dem Kind oder dem Nachbarn, der seit Jahren daran vorbeigeht."
+ },
+ "joke": {
+  "fits": "Brot, aus dem Fun Fact von heute.",
+  "setup": "Warum verlaufen sich deutsche Bäcker nie?",
+  "punchline": "Sie kennen immer den Weg zur Semmel. Und den zum Brötchen. Und den zur Schrippe."
+ },
+ "riddle": {
+  "fits": "Brot, aus dem Fun Fact von heute.",
+  "riddle": "Ich habe eine Kruste, aber keinen Rost, ich gehe auf, bevor Sie aufstehen, und Deutschland hat dreitausend Sorten von mir. Was bin ich?",
+  "hint": "Warm vom Bäcker.",
+  "answer": "Brot."
+ }
+}

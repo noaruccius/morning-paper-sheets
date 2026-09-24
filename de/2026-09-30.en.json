@@ -1,0 +1,77 @@
+{
+ "country": "DE",
+ "date": "2026-09-30",
+ "language": "en",
+ "lookForward": {
+  "fits": "German Unity Day is on Saturday, 3 October 2026; Bremen hosts the national celebration and citizens' festival.",
+  "headline": "A holiday on Saturday",
+  "line": "Unity Day, 3 October. Bremen throws the national party this year, with a festival across the old town. Everywhere else: a quiet day, shops shut, a long walk."
+ },
+ "goodThing": {
+  "fits": "Late September: the storks have just left for Africa, and there were more of them this year than in a century.",
+  "headline": "More storks in Germany than in a hundred years",
+  "big": "15,000 pairs",
+  "line": "Fewer than 3,000 pairs in the 1980s. About 15,000 nested this summer, a record. They left for Africa weeks ago; back in March.",
+  "source": {
+   "name": "t-online: NABU meldet Rekord von 15.000 Storchenpaaren",
+   "url": "https://www.t-online.de/heim-garten/aktuelles/id_101351566/nabu-meldet-storch-boom-so-viele-brautpaare-wie-nie-zuvor.html"
+  }
+ },
+ "onThisDay": {
+  "fits": "30 September 1989: on the balcony of the West German embassy in Prague, Genscher told thousands of East Germans they could leave.",
+  "year": 1989,
+  "headline": "A sentence from a Prague balcony set thousands free",
+  "line": "Genscher told East Germans in the embassy garden: your departure has been approved. The cheer drowned the rest. One year later, one Germany.",
+  "source": {
+   "name": "Deutschlandmuseum: Ausreise-Erlaubnis für DDR-Bürger",
+   "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1989-09-30-ausreise-erlaubnis-fuer-ddr-buerger/"
+  }
+ },
+ "funFact": {
+  "fits": "30 September 1791: the premiere of The Magic Flute, the most performed opera in the German language.",
+  "statement": "The Magic Flute was a triumph on its first night.",
+  "answer": false,
+  "reveal": "Mozart wrote of quiet applause, and one paper reported none. It caught on within weeks. Nine weeks after the premiere he was dead.",
+  "source": {
+   "name": "Österreichische Mediathek: Die Zauberflöte (1791)",
+   "url": "https://www.mediathek.at/onlineausstellungen/mozart/die-zauberfloete-1791"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day, three days before Unity Day: the evening on the Prague balcony, 30 September 1989.",
+  "title": "The sentence nobody heard the end of",
+  "teaser": "On this evening in 1989, a foreign minister stepped onto a balcony and did not get to finish.",
+  "paragraphs": [
+   "By the end of September 1989, the garden of the West German embassy in Prague was a camp. About four thousand East Germans had climbed the fence and refused to leave. They slept in tents and corridors, children among them. The East German state would not let them go, and West Germany could not simply take them.",
+   "Hans-Dietrich Genscher, the West German foreign minister, had grown up in Halle, in the East. He had spent days negotiating in New York and Bonn. On the evening of 30 September he flew to Prague, walked through the embassy, and stepped onto a small balcony above the garden.",
+   "He said: we have come to you to tell you that today your departure has become possible. He got no further. The word departure was enough. The cheer that came up from the garden drowned everything after it, and it is the sound people remember. Genscher later said it was the most moving moment of his political life.",
+   "Trains left that night, sealed, through East German territory to Bavaria. On the platforms in the West, strangers handed the arrivals coffee and coats. Five weeks later the Wall opened. A year and three days later, on 3 October 1990, there was one Germany. That is what Saturday's holiday is for."
+  ],
+  "source": {
+   "name": "Deutschlandmuseum: Ausreise-Erlaubnis für DDR-Bürger",
+   "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1989-09-30-ausreise-erlaubnis-fuer-ddr-buerger/"
+  }
+ },
+ "word": {
+  "fits": "The Prague balcony, from today's On this day.",
+  "word": "Freudentränen",
+  "language": "German",
+  "pronunciation": "FROY-den-tray-nen",
+  "meaning": "Tears of joy. One word for the thing that happened on a Prague balcony on this evening in 1989, and at a great many train stations that night."
+ },
+ "kindness": {
+  "fits": "Three days before Unity Day.",
+  "text": "Call someone who lives on the other side of a border from you. Any border. Ask what the weather is doing there."
+ },
+ "joke": {
+  "fits": "Unity Day on Saturday.",
+  "setup": "Why is 3 October the calmest holiday in Germany?",
+  "punchline": "Because nobody has to buy anything, wrap anything or cook anything. Just be one country."
+ },
+ "riddle": {
+  "fits": "The Prague balcony, from today's On this day.",
+  "riddle": "I am a few metres above a garden, I held one man for one minute, and a country came through me. What am I?",
+  "hint": "Prague, 1989.",
+  "answer": "The balcony of the West German embassy."
+ }
+}

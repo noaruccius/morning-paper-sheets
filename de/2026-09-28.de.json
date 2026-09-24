@@ -1,0 +1,30 @@
+{
+ "country": "DE", "date": "2026-09-28", "language": "de",
+ "lookForward": { "fits": "Erntedank ist am kommenden Sonntag, 4. Oktober 2026, in Kirchen im ganzen Land.",
+  "headline": "Erntedank am Sonntag", "line": "4. Oktober. Die Kirchen füllen sich mit Kürbissen, Brot und Äpfeln, und hinterher wird alles verschenkt. Einen Blick wert, auch wenn Sie sonst nie hingehen." },
+ "goodThing": { "fits": "Im Herbst sind Biber an deutschen Flüssen am fleißigsten; die Art war fast verschwunden und ist zurück.",
+  "headline": "Deutschlands Biber kamen aus fast nichts zurück", "big": "40.000",
+  "line": "Um 1900 fast ausgerottet, wegen Pelz und Bibergeil. Ab den 1960ern wieder angesiedelt. Heute bauen rund 40.000 Dämme, die Hochwasser bremsen und Wasser speichern.",
+  "source": { "name": "NABU: Biber, ein Multitalent im Ökosystem", "url": "https://www.nabu.de/tiere-und-pflanzen/artenschutz/biber.html" } },
+ "onThisDay": { "fits": "28. September 1951: Das Bundesverfassungsgericht wurde in Karlsruhe feierlich eröffnet.", "year": 1951,
+  "headline": "Deutschland eröffnete das Gericht, das seine Verfassung bewacht",
+  "line": "Das Bundesverfassungsgericht in Karlsruhe, mit Bundespräsident Heuss und Kanzler Adenauer im Saal. Jeder in Deutschland kann sich dort beschweren, ohne Anwalt.",
+  "source": { "name": "Deutschlandmuseum: Eröffnung des Bundesverfassungsgerichts", "url": "https://www.deutschlandmuseum.de/geschichte/kalender/1951-09-28-eroeffnung-des-bundesverfassungsgerichts/" } },
+ "funFact": { "fits": "Eine Berliner Tatsache für einen Montagsspaziergang.", "statement": "Fast ein Viertel Berlins ist Wald und Wasser.", "answer": true,
+  "reveal": "Etwa 16 Prozent Wald und 6 Prozent Wasser, dazu noch 11 Prozent Parks. Kaum eine Großstadt kommt da heran.",
+  "source": { "name": "Berlin.de: Daten und Fakten, Grünflächen", "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/gruenflaechen-gruenanlagen/" } },
+ "calmRead": { "fits": "Vertieft das An diesem Tag von heute: das Gericht in Karlsruhe, heute vor 75 Jahren eröffnet, und was es heißt, dass jeder ihm schreiben darf.",
+  "title": "Das Gericht, dem jeder schreiben darf", "teaser": "Heute vor fünfundsiebzig Jahren bekam jeder Bürger eine Tür, an die er klopfen kann.",
+  "paragraphs": [
+   "Am 28. September 1951 eröffnete die Bundesrepublik in einem kleinen Theatersaal in Karlsruhe ein Gericht, wie sie es noch nie gehabt hatte. Der Bundespräsident und der Kanzler saßen im Publikum. Die roten Roben trugen die Richter noch nicht; die kamen später. Die Idee, die sie schützen sollten, war einfach: Die Verfassung steht über der Regierung, und jemand Unabhängiger muss das sagen dürfen.",
+   "Das Bundesverfassungsgericht verurteilt keine Verbrecher und scheidet keine Ehen. Es beantwortet eine Frage, immer wieder: Achtet dieses Gesetz, dieses Urteil, diese Entscheidung das Grundgesetz? Regierungen jeder Farbe haben dort verloren. Rentenregeln, Datengesetze, Haushaltstricks, Wahlrecht wurden zurückgeschickt.",
+   "Was die meisten vergessen: Wer fragen darf. Jeder. Wer glaubt, der Staat habe eines seiner Grundrechte verletzt, und vor allen anderen Gerichten verloren hat, kann selbst nach Karlsruhe schreiben. Ohne Anwalt, ohne Gebühr. Rund fünftausend Menschen tun das jedes Jahr. Die meisten Beschwerden scheitern, aber die Tür bleibt offen, und die wenigen, die Erfolg haben, ändern das Recht für alle.",
+   "In Umfragen gehört das Gericht zu den Institutionen, denen die Deutschen am meisten vertrauen, weit vor Parlament und Parteien. Dieses Vertrauen war 1951 nicht geschenkt. Es wurde verdient, Urteil für Urteil, über fünfundsiebzig Jahre, beginnend heute."
+  ],
+  "source": { "name": "bpb: 70 Jahre Bundesverfassungsgericht", "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/340865/70-jahre-bundesverfassungsgericht/" } },
+ "word": { "fits": "Montagmorgen, mit Erntedank und einem Feiertagswochenende vor sich.", "word": "Vorfreude", "language": "Deutsch", "pronunciation": "FOR-froi-de",
+  "meaning": "Die Freude auf etwas, das kommt. Die schönste Freude, sagt man, und montags braucht man sie am meisten." },
+ "kindness": { "fits": "Montag, mit Erntedank vor der Tür: die Ernte teilen.", "text": "Bringen Sie heute etwas vom Wochenende mit zur Arbeit: Äpfel, Kuchen, eine Geschichte. Montage gehen schneller, wenn es jemand tut." },
+ "joke": { "fits": "Biber, aus den guten Nachrichten von heute.", "setup": "Warum kommen deutsche Biber nie zu spät?", "punchline": "Sie gehen immer ein bisschen früher, wegen Damm und Drang." },
+ "riddle": { "fits": "Das Gericht in Karlsruhe, aus dem An diesem Tag von heute.", "riddle": "Ich trage Rot, man kann mich nicht abwählen, und die Regierung muss tun, was ich sage. Was bin ich?", "hint": "Karlsruhe.", "answer": "Ein Richter am Bundesverfassungsgericht." }
+}

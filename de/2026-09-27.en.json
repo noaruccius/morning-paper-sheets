@@ -1,0 +1,78 @@
+{
+ "country": "DE",
+ "date": "2026-09-27",
+ "language": "en",
+ "lookForward": {
+  "fits": "Berlin Marathon day: Sunday 27 September 2026, start 8:30, about 55,000 runners; the leaders finish around 10:30.",
+  "headline": "Marathon Sunday in Berlin",
+  "line": "First runners off at 8:30, the fastest home just after ten. Find a spot on the route, clap for strangers, stay for the slow ones."
+ },
+ "goodThing": {
+  "fits": "A Sunday for going somewhere: one ticket for every bus and regional train in Germany, and more people use it every year.",
+  "headline": "One ticket, the whole country, and 14 million people use it",
+  "big": "14.6 million",
+  "line": "The Deutschlandticket: every bus, tram and regional train for one monthly price. Users rose from 13.4 to 14.6 million in 2025.",
+  "source": {
+   "name": "VDV: Deutschland-Ticket, Zahlen und Fakten",
+   "url": "https://www.vdv.de/deutschlandticket.aspx"
+  }
+ },
+ "onThisDay": {
+  "fits": "27 September 1905: Annalen der Physik, the German physics journal, received Einstein's three-page paper that leads to E = mc².",
+  "year": 1905,
+  "headline": "A three-page letter saying E = mc² arrived at a German journal",
+  "line": "Einstein’s paper on whether a body’s mass depends on its energy reached Annalen der Physik. The shortest of his great papers.",
+  "source": {
+   "name": "Annalen der Physik: Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053231314"
+  }
+ },
+ "funFact": {
+  "fits": "Marathon day in Berlin.",
+  "statement": "More marathon world records have been set in Berlin than anywhere else.",
+  "answer": true,
+  "reveal": "Thirteen. Flat, wide streets, cool late-September air, and a course that barely climbs 40 metres. Chicago is second with seven.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands the day's look-forward: why the Berlin Marathon, run today, is the fastest in the world.",
+  "title": "Why the world runs fastest in Berlin",
+  "teaser": "Thirteen world records on one course. It is not luck, and it is not only the runners.",
+  "paragraphs": [
+   "At half past eight this morning, 55,000 people set off from the Straße des 17. Juni, and somewhere near the front a small group will be trying to run 42 kilometres faster than any human has before. They chose Berlin for a reason. Thirteen marathon world records have been set here, more than on any other course. Chicago, in second place, has seven.",
+   "The first reason is the ground. Berlin is flat. The whole route climbs and falls by about forty metres, less than a walk up a few flights of stairs spread across two hours. The streets are wide, the corners are gentle, and the surface is smooth asphalt almost all the way.",
+   "The second is the date. The last Sunday of September in Berlin is usually cool, dry and still. Marathon runners lose their speed in heat, and Berlin gives them ten or twelve degrees at the start.",
+   "The third is the crowd. A million people line the route, and they do not go quiet when the leaders have passed. The runners who finish at five hours get the same noise as the runners who finish at two.",
+   "The route ends through the Brandenburg Gate, with about 400 metres still to go. Runners say the gate is the hardest part: you can see the finish, and it does not get closer. Then it does."
+  ],
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
+ },
+ "word": {
+  "fits": "The day after 55,000 people ran a marathon; also the morning after any Saturday.",
+  "word": "Muskelkater",
+  "language": "German",
+  "pronunciation": "MUS-kel-kah-ter",
+  "meaning": "Sore muscles the day after exercise. Literally a muscle hangover: Kater is a tomcat, and also what you have after too much beer."
+ },
+ "kindness": {
+  "fits": "Marathon day.",
+  "text": "Go and clap for people you do not know today. Stay for the ones at the back. They need it most."
+ },
+ "joke": {
+  "fits": "Marathon day in Berlin.",
+  "setup": "Why did the marathon runner refuse to stop for a coffee?",
+  "punchline": "She was on a roll and had no time to espresso herself."
+ },
+ "riddle": {
+  "fits": "Marathon day.",
+  "riddle": "Everyone here started in the same place, nobody ends at the same time, and the last to arrive gets the loudest cheer. What is it?",
+  "hint": "Sunday morning in Berlin.",
+  "answer": "A marathon."
+ }
+}

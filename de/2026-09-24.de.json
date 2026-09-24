@@ -1,0 +1,30 @@
+{
+ "country": "DE", "date": "2026-09-24", "language": "de",
+ "lookForward": { "fits": "Kranichsaison in Linum, eine Stunde nördlich von Berlin, seit 18. September 2026; ein echter Ausflug fürs Wochenende.",
+  "headline": "Kraniche in der Abenddämmerung, dieses Wochenende", "line": "Zehntausende sammeln sich in Linum, eine Stunde nördlich von Berlin. Samstagabend hinfahren. Erst hören, dann schauen." },
+ "goodThing": { "fits": "Berliner Leitungswasser: eine lokale Tatsache, auf die man stolz sein kann.",
+  "headline": "Berlins Leitungswasser kommt direkt aus dem Boden", "big": "100 % Grundwasser",
+  "line": "Unter der Stadt gepumpt, mit Luft und Sand gereinigt, kein Chlor. An mehr als 3.300 Stellen geprüft.",
+  "source": { "name": "Berliner Wasserbetriebe: Wasserqualität", "url": "https://www.bwb.de/de/wasserqualitaet.php" } },
+ "onThisDay": { "fits": "24. September 1961, Berlin.", "year": 1961, "headline": "West-Berlin eröffnete sein neues Opernhaus",
+  "line": "Die Deutsche Oper an der Bismarckstraße, sechs Wochen nach dem Mauerbau. Am ersten Abend: Mozarts Don Giovanni.",
+  "source": { "name": "Berlin.de: Deutsche Oper Berlin", "url": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kultur-und-wissenschaft/buehnen/artikel.180239.php" } },
+ "funFact": { "fits": "Eine Berliner Tatsache für Berliner Leser.", "statement": "Berlin hat mehr Brücken als Venedig.", "answer": true,
+  "reveal": "Rund tausend, gegen vierhundert in Venedig. Viele Berliner Brücken führen über Gleise und Straßen statt über Wasser, aber sie zählen.",
+  "source": { "name": "t-online: Warum Berlin mehr Brücken als Venedig hat", "url": "https://berlin.t-online.de/region/berlin/id_100947924/berlin-hat-mehr-bruecken-als-venedig-wie-kann-das-sein-.html" } },
+ "calmRead": { "fits": "Vertieft das Demnächst von heute: die Kraniche in Linum, nördlich von Berlin, in dieser Woche.",
+  "title": "Warum sich der Himmel nördlich von Berlin mit Kranichen füllt", "teaser": "Eine Stunde von der Stadt findet gerade eine der großen Herbstversammlungen Europas statt.",
+  "paragraphs": [
+   "Fahren Sie eine Stunde nordwestlich von Berlin, in die flache Teichlandschaft um Linum, und bleiben Sie in der Abenddämmerung stehen. Sie hören es, bevor Sie es sehen: ein rollendes, trompetendes Rufen von sehr weit oben. Dann kommt die erste Kette Kraniche über Sie, die langen Hälse nach vorn, die Beine nach hinten gestreckt, und dahinter die nächste, und die nächste.",
+   "Sie kommen aus Skandinavien und dem Baltikum und sind auf dem Weg nach Spanien und Frankreich. In Linum machen sie Rast. Tagsüber verteilen sie sich über die abgeernteten Felder und suchen, was die Maishäcksler liegen gelassen haben. Nachts stehen sie zusammen in den flachen Teichen, wo kein Fuchs sie erreicht, ohne zu platschen.",
+   "In einem guten Jahr nutzen bis zu 90.000 Kraniche diese Teiche, dazu Zehntausende Wildgänse. Die Saison begann am 18. September. In den nächsten drei Wochen werden es mehr, im Oktober sind es am meisten, dann ziehen sie weiter nach Süden.",
+   "Vor fünfzig Jahren gab es in ganz Deutschland nur noch etwa 800 Brutpaare. Feuchtgebiete wurden trockengelegt, die Vögel gejagt. Der Schutz hat gewirkt. Heute sind es rund 11.000 Paare, und jeden Herbst zeigt der Himmel über Brandenburg, wie das aussieht.",
+   "Die Storchenschmiede des NABU in Linum wacht seit 1991 über die Teiche und bietet Abendführungen an. Oder Sie suchen sich einen stillen Feldweg, bleiben stehen und schauen nach oben."
+  ],
+  "source": { "name": "NABU Berlin: Kranichsaison in der Storchenschmiede Linum", "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html" } },
+ "word": { "fits": "Der deutsche Name für genau diese warmen Spätseptembertage.", "word": "Altweibersommer", "language": "Deutsch", "pronunciation": "alt-WAI-ber-zom-mer",
+  "meaning": "Die warmen, dunstigen Tage des Frühherbstes. Der Name kommt vielleicht von einem alten Wort fürs Spinnen: die Seidenfäden, die Spinnen jetzt über die Felder legen." },
+ "kindness": { "fits": "Ein deutscher Brauch: Pfandflaschen neben den Mülleimer stellen.", "text": "Flasche unterwegs ausgetrunken? Neben den Mülleimer stellen, nicht hinein. Jemand sammelt das Pfand und freut sich." },
+ "joke": { "fits": "Die Kraniche, die diese Woche in Linum landen.", "setup": "Was sagte der Kranich, als er in Linum landete?", "punchline": "Denselben Tisch wie letztes Jahr, bitte." },
+ "riddle": { "fits": "Die Kraniche in Linum diese Woche.", "riddle": "Ich komme zu Tausenden, schlafe im Stehen im Wasser und fliege im Oktober nach Spanien. Was bin ich?", "hint": "Langer Hals, Trompetenruf.", "answer": "Ein Kranich." }
+}
