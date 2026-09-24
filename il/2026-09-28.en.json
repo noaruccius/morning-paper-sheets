@@ -1,0 +1,87 @@
+{
+ "country": "IL",
+ "date": "2026-09-28",
+ "language": "en",
+ "lookForward": {
+  "fits": "The priestly blessing at the Western Wall, Monday 28 September 2026, at 9:30 and 10:30; streamed live.",
+  "headline": "The priestly blessing at the Western Wall, this morning",
+  "line": "Twice a year, at Passover and Sukkot, thousands of kohanim, the priestly families, bless the crowd at the Western Wall, prayer shawls over their heads. This morning at 9:30 and again at 10:30. Not in Jerusalem? It is streamed live.",
+  "source": {
+   "name": "The Western Wall: Priestly Blessing, Sukkot 5787",
+   "url": "https://thekotel.org/he/144229/11/"
+  },
+  "more": [
+   "The priestly blessing is the three-verse blessing written in the Book of Numbers: may the Lord bless you and keep you. In synagogues it is said by the kohanim, descendants of Aaron, standing before the congregation with their hands spread and their faces covered by a prayer shawl. At the Western Wall it is done twice a year as a mass event: during the intermediate days of Passover and of Sukkot.",
+   "This year it falls on Monday 28 September and again on Thursday 1 October. Morning prayers begin at 8:45, the first blessing is at 9:30, and after the additional service the second blessing at 10:30. Thousands of kohanim stand by the Wall, and tens of thousands fill the plaza. The light rail will be packed; whoever can, walks in through Jaffa Gate or Dung Gate.",
+   "Not in Jerusalem? The Western Wall Heritage Foundation streams the ceremony live on its website. Ten minutes, even from the kitchen, is worth it."
+  ]
+ },
+ "goodThing": {
+  "fits": "Intermediate days, sunny days; Israel was the first country to require solar water heaters.",
+  "headline": "The solar tank on the roof was Israel’s idea",
+  "big": "85%",
+  "line": "Required in every new flat since the 1970s oil crisis. Most homes now heat water with the sun, saving about five percent of electricity.",
+  "source": {
+   "name": "Ministry of Energy: The energy revolution in residential buildings",
+   "url": "https://www.gov.il/BlobFolder/rfp/se-101225/he/se-presentation-101225.pdf"
+  }
+ },
+ "onThisDay": {
+  "fits": "28 September 1928: Alexander Fleming discovered penicillin.",
+  "year": 1928,
+  "headline": "Penicillin was discovered, thanks to an unwashed dish",
+  "line": "Fleming returned from holiday to find mould on a plate, ringed by dead bacteria. He looked instead of binning it. Millions of lives saved since.",
+  "source": {
+   "name": "Nobel Prize: Alexander Fleming",
+   "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+  }
+ },
+ "funFact": {
+  "fits": "Israel in world science.",
+  "statement": "Israel is a full member of CERN, the world’s largest particle physics laboratory.",
+  "answer": true,
+  "reveal": "Since 2014, and the first outside Europe. Israeli scientists worked on the detector that found the Higgs particle.",
+  "source": {
+   "name": "CERN: Member states",
+   "url": "https://home.cern/about/who-we-are/our-governance/member-states"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today’s Coming up: the priestly blessing at the Wall.",
+  "title": "Twenty seconds of silence in front of the Wall",
+  "teaser": "Twice a year, tens of thousands come to hear a blessing of fifteen words.",
+  "paragraphs": [
+   "This morning at half past nine, thousands of men in prayer shawls will stand facing the Western Wall, cover their heads and hands, and sing together fifteen ancient words. The crowd facing them, tens of thousands, will be silent. It happens twice a year, in the intermediate days of Passover and of Sukkot, and few events in the country are like it.",
+   "The blessing itself is astonishingly short. Three sentences from the Book of Numbers: may the Lord bless you and keep you, make his face shine upon you and be gracious to you, lift up his face to you and give you peace. Kohanim bless congregations with it in synagogues every day, quietly, by the reading platform. The mass version at the Wall began in 1970 and has grown every year since.",
+   "People come from all over the country, and many are standing by the entrances from seven. Whole families come with their kohen, grandfathers and grandchildren, holding the corners of the shawl together. Some kohanim fly in from abroad, once a year, just for these twenty seconds.",
+   "What draws people is not the ceremony but the moment after it. When the blessing ends there are a few seconds in which the whole plaza is silent. There is no such thing in Jerusalem, usually.",
+   "You do not have to be religious to come, and you do not have to understand. You have to come early, because the plaza fills to the edges, and stand far enough back to see the shawls rise like a wave. If you are not in Jerusalem you can watch the live stream, but the silence does not broadcast as well."
+  ],
+  "source": {
+   "name": "The Western Wall: Priestly Blessing, Sukkot 5787",
+   "url": "https://thekotel.org/en/157667/"
+  }
+ },
+ "word": {
+  "fits": "The priestly blessing today.",
+  "word": "Tallit",
+  "language": "Hebrew",
+  "pronunciation": "tah-LEET",
+  "meaning": "The fringed shawl worn for prayer. This morning at the Wall thousands will wrap it over their heads too: a blessing is said from inside."
+ },
+ "kindness": {
+  "fits": "The priestly blessing: a day of blessings.",
+  "text": "Bless someone today in words. Not in your heart, not in a message. Out loud, to their face, one whole sentence."
+ },
+ "joke": {
+  "fits": "The priestly blessing at the Wall, the plaza full.",
+  "setup": "How do you know you reached the Wall in time for the priestly blessing?",
+  "punchline": "If you can see the Wall, you didn’t."
+ },
+ "riddle": {
+  "fits": "The priestly blessing.",
+  "riddle": "I am fifteen words long, three thousand years old, and this morning thousands will say me together. What am I?",
+  "hint": "At the Wall, at half past nine.",
+  "answer": "The priestly blessing."
+ }
+}

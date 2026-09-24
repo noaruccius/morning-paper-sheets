@@ -1,0 +1,30 @@
+{
+ "country": "IL",
+ "date": "2026-09-24",
+ "language": "de",
+ "city": "tel-aviv",
+ "goodThing": {
+  "fits": "Tel Aviv: die größte Konzentration von Bauhaus-Gebäuden der Welt, Welterbe seit 2003.",
+  "headline": "Die Weiße Stadt: mehr Bauhaus als irgendwo sonst",
+  "big": "4.000+ Gebäude",
+  "line": "Architekten, die in den 1930ern aus Europa flohen, bauten eine Stadt der klaren Linien und Balkone. Die UNESCO erklärte sie 2003 zum Welterbe.",
+  "source": {
+   "name": "Stadt Tel Aviv-Jaffa: White City Center",
+   "url": "https://www.tel-aviv.gov.il/Visitors/ArtCulture/Pages/whitecity.aspx"
+  }
+ },
+ "funFact": {
+  "fits": "Tel Aviv, Stadt der Fahrräder.",
+  "statement": "Tel Aviv-Jaffa hat mehr als hundert Kilometer Radwege.",
+  "answer": true,
+  "reveal": "Etwa 190 Kilometer, 300 sind geplant. Jede vierte Fahrt in der Stadt soll auf zwei Rädern stattfinden.",
+  "source": {
+   "name": "Stadt Tel Aviv-Jaffa: Radwege",
+   "url": "https://www.tel-aviv.gov.il/Residents/Transportation/Pages/BicyclePaths.aspx"
+  }
+ },
+ "kindness": {
+  "fits": "Tel Aviv, der Tag vor Sukkot: die Laubhütten auf den Balkonen.",
+  "text": "Ein Nachbar baut eine Sukka auf dem Balkon oder im Hof? Bleiben Sie zehn Minuten und halten Sie einen Balken. Eine Sukka von zweien steht gerader."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "en",
+ "city": "jerusalem",
+ "lookForward": {
+  "fits": "Sukkot eve in Jerusalem: the holiday begins at 17:52.",
+  "headline": "The holiday begins tonight at 17:52",
+  "line": "In Jerusalem candles are lit forty minutes before sunset, earlier than anywhere else in the country. Sukkahs on every balcony, stone giving back the day’s heat, and a first evening outside without a jumper. Almost.",
+  "source": {
+   "name": "Hebcal: Candle lighting times for Jerusalem",
+   "url": "https://www.hebcal.com/shabbat?geonameid=281184"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 2018: the fast line from Jerusalem to the airport opened to passengers.",
+  "year": 2018,
+  "headline": "The fast train from Jerusalem set off",
+  "line": "From Navon station, a hundred metres underground, to the airport in twenty minutes. Free for the first months. A year later it reached Tel Aviv.",
+  "source": {
+   "name": "mynet Jerusalem: The fast line opens to passengers",
+   "url": "https://jerusalem.mynet.co.il/local_news/article/m_316215"
+  }
+ }
+}

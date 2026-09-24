@@ -1,0 +1,83 @@
+{
+ "country": "IL",
+ "date": "2026-09-26",
+ "language": "de",
+ "lookForward": {
+  "fits": "Der erste Tag von Sukkot 5787 fällt auf den Schabbat; der Lulav wird erst am Sonntag, 27. September, genommen.",
+  "headline": "Morgen: Lulav und Etrog, zum ersten Mal dieses Jahr",
+  "line": "Die vier Arten, Palmwedel, Zitronatzitrone, Myrte und Weide, werden im Morgengebet an jedem Tag von Sukkot geschwenkt, außer am Schabbat. Dieses Jahr fiel das Fest auf den Schabbat, also geht es morgen los. Heute Vormittag: Sukka, Essen, Mittagsschlaf. Erlaubt.",
+  "source": {
+   "name": "Hebcal: Sukkot",
+   "url": "https://www.hebcal.com/holidays/sukkot"
+  }
+ },
+ "goodThing": {
+  "fits": "Höhepunkt des Vogelzugs; Israels Nationalvogel wurde per Abstimmung gewählt.",
+  "headline": "Ein ganzes Land hat sich einen Vogel gewählt",
+  "big": "155.000 Stimmen",
+  "line": "Zum sechzigsten Geburtstag des Staates stimmten die Israelis 2008 über einen Nationalvogel ab. Der Wiedehopf gewann mit 35 Prozent. Präsident Peres verkündete es.",
+  "source": {
+   "name": "Israelische Natur- und Parkbehörde: Nationaltiere",
+   "url": "https://www.parks.org.il/new/national-animals/"
+  }
+ },
+ "onThisDay": {
+  "fits": "26. September 1892: Einweihung der Bahnstrecke Jaffa–Jerusalem, der ersten im Land.",
+  "year": 1892,
+  "headline": "Der erste Zug des Landes fuhr von Jaffa nach Jerusalem",
+  "line": "Die Strecke Jaffa–Jerusalem wurde eröffnet. Die Fahrt dauerte etwa vier Stunden statt eines ganzen Tages im Wagen. Das Land wurde über Nacht klein.",
+  "source": {
+   "name": "Wikipedia: Eisenbahn Jaffa–Jerusalem",
+   "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%99%D7%9C%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%99%D7%A4%D7%95%E2%80%93%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D"
+  }
+ },
+ "funFact": {
+  "fits": "Morgen beginnen die Zwischenfeiertage; das Tote Meer ist der klassische Ausflug.",
+  "statement": "Der tiefste Punkt auf dem Festland der Welt liegt in Israel.",
+  "answer": true,
+  "reveal": "Das Ufer des Toten Meeres, etwa 430 Meter unter dem Meeresspiegel. Mehr Sauerstoff in der Luft, weniger Sonnenbrand. Eine Stunde von Jerusalem.",
+  "source": {
+   "name": "Wikipedia: Totes Meer",
+   "url": "https://he.wikipedia.org/wiki/%D7%99%D7%9D_%D7%94%D7%9E%D7%9C%D7%97"
+  }
+ },
+ "calmRead": {
+  "fits": "Erster Tag von Sukkot; die vier Arten, die ab morgen genommen werden.",
+  "title": "Warum ausgerechnet vier",
+  "teaser": "Palme, Zitrone, Myrte, Weide. Vier verschiedene Pflanzen und eine Geschichte über Menschen.",
+  "paragraphs": [
+   "Morgen früh halten zum ersten Mal in diesem Jahr Hunderttausende in der einen Hand einen langen Palmwedel, drei Myrtenzweige und zwei Weidenzweige, in der anderen eine Zitronatzitrone, und schwenken sie in sechs Richtungen. Von außen sieht das seltsam aus. Von innen ist es eine der schönsten Erklärungen dafür, warum Menschen einander brauchen.",
+   "Der alte Midrasch erklärt es so: Die Zitrone hat Geschmack und auch Duft. Die Dattelpalme hat Geschmack, aber keinen Duft. Die Myrte hat Duft und keinen Geschmack. Und die Weide hat keins von beidem. Der Geschmack ist das Wissen, der Duft sind die guten Taten. Manche Menschen haben beides, manche eins, manche nichts.",
+   "Und was macht man? Man bindet alle zusammen. Der Segen wird nicht über eine Zitrone allein gesprochen, so vollkommen sie sei. Er wird nur gesprochen, wenn alle vier zusammen gehalten werden, auch die Weide, die nichts hat. Ohne die Weide gibt es kein Gebot.",
+   "Und auch das Umgekehrte gilt: Die Zitrone, schön und duftend, ist allein nichts wert. Der Segen gilt dem Bündel, nicht dem Einzelnen. Es gibt Tage, an denen man sich leicht wie eine Weide fühlt. An so einem Tag lohnt es sich zu wissen, dass es ohne die Weide kein Bündel gibt.",
+   "Darin steckt etwas, das man den Rest des Jahres leicht vergisst: Eine Gemeinschaft ist nicht die Gruppe der Vollkommenen. Sie ist jeder, der da ist, zusammengebunden, in dieselben Richtungen schwenkend.",
+   "Wenn Sie also morgen jemanden mit einem Lulav auf der Straße sehen, dann trägt er das: keine vier Pflanzen. Eine Erinnerung."
+  ],
+  "source": {
+   "name": "Die Westmauer: Sukkot",
+   "url": "https://thekotel.org/he/144229/11/"
+  }
+ },
+ "word": {
+  "fits": "Erster Tag von Sukkot; ab morgen wird er genommen.",
+  "word": "Lulav",
+  "language": "Hebräisch",
+  "pronunciation": "lu-LAW",
+  "meaning": "Der junge, noch geschlossene Wedel der Dattelpalme, bevor sich die Blätter öffnen. Vom Wort für Herz, sagt man: der Zweig, der noch ganz Herz ist."
+ },
+ "kindness": {
+  "fits": "Schabbat und Feiertag: ein Tag, an dem Einsame besonders einsam sind.",
+  "text": "Feiertag und Schabbat zusammen. Jemand, den Sie kennen, sitzt heute allein. Ein Anruf von zehn Minuten ist mehr wert, als Sie denken."
+ },
+ "joke": {
+  "fits": "Lulav und Etrog morgen.",
+  "setup": "Warum steht der Lulav immer kerzengerade?",
+  "punchline": "Er weiß, dass der Etrog neben ihm zuschaut."
+ },
+ "riddle": {
+  "fits": "Die vier Arten.",
+  "riddle": "Wir sind vier, völlig verschieden, und der Segen wird nur gesprochen, wenn wir zusammen sind. Wer sind wir?",
+  "hint": "Einer von uns ist gelb.",
+  "answer": "Die vier Arten: Lulav, Etrog, Myrte und Weide."
+ }
+}

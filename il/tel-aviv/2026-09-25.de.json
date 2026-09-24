@@ -1,0 +1,25 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "de",
+ "city": "tel-aviv",
+ "lookForward": {
+  "fits": "Vorabend von Sukkot in Tel Aviv: Kerzenzünden und Festbeginn um 18:15.",
+  "headline": "Das Fest beginnt heute Abend um 18:15",
+  "line": "In Tel Aviv werden die Kerzen achtzehn Minuten vor Sonnenuntergang gezündet. Die Sonne versinkt im Meer, und die Laubhütten auf den Balkonen leuchten auf. Erste Mahlzeit draußen, ohne Mantel. Das ist Tel Aviv.",
+  "source": {
+   "name": "Hebcal: Kerzenzünden in Tel Aviv",
+   "url": "https://www.hebcal.com/shabbat?geonameid=293397"
+  }
+ },
+ "onThisDay": {
+  "fits": "25. September 2018: Die Schnellbahn von Jerusalem zum Flughafen wurde eröffnet; seit 2019 fährt sie bis Tel Aviv.",
+  "year": 2018,
+  "headline": "Die Schnellbahn nach Jerusalem fuhr los",
+  "line": "Sie wurde von Jerusalem zum Flughafen eröffnet, anfangs kostenlos. Ein Jahr später erreichte sie den Bahnhof HaHagana, und seither ist Jerusalem eine halbe Stunde entfernt.",
+  "source": {
+   "name": "mynet Jerusalem: Die Schnellbahn nimmt den Betrieb auf",
+   "url": "https://jerusalem.mynet.co.il/local_news/article/m_316215"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-29",
+ "language": "de",
+ "lookForward": {
+  "fits": "Simchat Tora 5787 fällt auf Schabbat, 3. Oktober 2026; zweite Hakafot an der Westmauer am Samstagabend um 22:00.",
+  "headline": "Simchat Tora am Schabbat",
+  "line": "Noch vier Tage: der Tag, an dem die jährliche Toralesung endet und von vorn beginnt, mit Tänzen mit den Torarollen und Kindern auf den Schultern. Das Ende der Feiertage. Am Samstagabend zweite Hakafot an der Westmauer: Tanzen mit Kapelle, offen für alle.",
+  "source": {
+   "name": "Die Westmauer: Zweite Hakafot",
+   "url": "https://thekotel.org/en/tag/second-hakafot/"
+  }
+ },
+ "goodThing": {
+  "fits": "Zwischenfeiertage, Spaziergänge in den Wäldern; Israel gehört zu den wenigen Ländern mit mehr Bäumen als vor hundert Jahren.",
+  "headline": "Ein Land mit mehr Bäumen als vor hundert Jahren",
+  "big": "240.000.000",
+  "line": "Seit 1901 hat der Jüdische Nationalfonds 240 Millionen Bäume gepflanzt. Fast jeder Wald, in dem Sie diese Woche spazieren, wurde von Hand gesetzt.",
+  "source": {
+   "name": "KKL-JNF: Walddaten",
+   "url": "https://www.kkl.org.il/afforestation-and-environment/afforestation/forest-data/forest-data-2017/"
+  }
+ },
+ "onThisDay": {
+  "fits": "29. September 1954: Gründung des CERN; Israel trat 2014 als Vollmitglied bei.",
+  "year": 1954,
+  "headline": "Das Labor, in dem Länder gemeinsam forschen, wurde gegründet",
+  "line": "Zwölf europäische Länder gründeten das CERN bei Genf, neun Jahre nach dem Krieg. Sechzig Jahre später trat Israel bei, als erstes Mitglied außerhalb Europas.",
+  "source": {
+   "name": "CERN: Geschichte",
+   "url": "https://home.cern/about/who-we-are/our-history"
+  }
+ },
+ "funFact": {
+  "fits": "Das hebräische Jahr, das vor zwei Wochen begann.",
+  "statement": "Das laufende hebräische Jahr 5787 hat dreizehn Monate.",
+  "answer": true,
+  "reveal": "Ein Schaltjahr: Im Frühling gibt es zwei Monate Adar. Das passiert siebenmal in neunzehn Jahren, damit Pessach im Frühling bleibt.",
+  "source": {
+   "name": "Wikipedia: Hebräisches Schaltjahr",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%94_%D7%9E%D7%A2%D7%95%D7%91%D7%A8%D7%AA"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft die Tatsache von heute: wie der hebräische Kalender Pessach im Frühling hält.",
+  "title": "Das Jahr mit dem zusätzlichen Monat",
+  "teaser": "Der hebräische Kalender folgt dem Mond, die Feste der Sonne. Ein alter Kniff schließt die Lücke.",
+  "paragraphs": [
+   "Ein hebräischer Monat ist ein Umlauf des Mondes: Neumond, Vollmond und wieder Dunkelheit, etwa neunundzwanzigeinhalb Tage. Zwölf solche Monate ergeben 354 Tage, elf Tage weniger als das Sonnenjahr. Täte man nichts, würde Pessach rückwärts wandern, in den Winter, den Herbst, den Sommer, und in dreiunddreißig Jahren einmal um das ganze Jahr.",
+   "Das Wort für ein solches Jahr, me’uberet, kommt von derselben Wurzel wie das Wort für Embryo: Das Jahr trägt einen zusätzlichen Monat in sich.",
+   "Aber Pessach muss im Frühling sein. Die Tora sagt es ausdrücklich: der Monat des Frühlings. Also fand man eine Lösung: Alle paar Jahre wird ein ganzer Monat eingefügt, ein zweiter Adar, vor dem regulären. Ein solches Jahr heißt Schaltjahr, als wäre der Kalender schwanger.",
+   "Zur Zeit des Zweiten Tempels wurde das jedes Jahr neu entschieden, nach dem Stand der Gerste auf den Feldern und nach dem Regen. Kam der Frühling spät, wurde Pessach verschoben. Seit dem vierten Jahrhundert gilt ein fester Zyklus: In neunzehn Jahren sind sieben Schaltjahre, das dritte, sechste, achte, elfte, vierzehnte, siebzehnte und neunzehnte. Dieses Jahr ist das elfte im Zyklus, deshalb hat es dreizehn Monate.",
+   "So bleibt, ohne dass es jemand merkt, Rosch ha-Schana im Herbst, Chanukka im Winter und Pessach im Frühling, seit zweitausend Jahren. Der Kalender korrigiert sich langsam, leise, ohne zu schreien. Daraus lässt sich etwas lernen."
+  ],
+  "source": {
+   "name": "Wikipedia: Hebräisches Schaltjahr",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%94_%D7%9E%D7%A2%D7%95%D7%91%D7%A8%D7%AA"
+  }
+ },
+ "word": {
+  "fits": "Simchat Tora am Schabbat.",
+  "word": "Hakafot",
+  "language": "Hebräisch",
+  "pronunciation": "ha-ka-FOT",
+  "meaning": "Die Umzüge mit den Torarollen um das Vorlesepult an Simchat Tora, sieben Stück, mit Gesang und Tanz. Aus der Wurzel für Umkreisen: um etwas Kostbares herumgehen."
+ },
+ "kindness": {
+  "fits": "Zwischenfeiertage, die Wälder des Nationalfonds.",
+  "text": "Pflanzen Sie beim Waldspaziergang heute etwas: eine Eichel, einen Kern, einen Samen aus der Tasche. Die meisten gehen nicht auf. Einer schon."
+ },
+ "joke": {
+  "fits": "Ein Schaltjahr.",
+  "setup": "Warum ist dieses hebräische Jahr so entspannt?",
+  "punchline": "Es hat für alles einen Monat mehr."
+ },
+ "riddle": {
+  "fits": "Ein Schaltjahr.",
+  "riddle": "Dieses Jahr habe ich dreizehn Kinder, letztes Jahr hatte ich zwölf, und niemand hat es gemerkt. Was bin ich?",
+  "hint": "5787.",
+  "answer": "Das hebräische Jahr, ein Schaltjahr."
+ }
+}

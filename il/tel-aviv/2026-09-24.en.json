@@ -1,0 +1,30 @@
+{
+ "country": "IL",
+ "date": "2026-09-24",
+ "language": "en",
+ "city": "tel-aviv",
+ "goodThing": {
+  "fits": "Tel Aviv: the largest concentration of Bauhaus buildings in the world, a World Heritage Site since 2003.",
+  "headline": "The White City: more Bauhaus than anywhere on earth",
+  "big": "4,000+ buildings",
+  "line": "Architects who fled Europe in the 1930s built a city of clean lines and balconies. UNESCO listed it as World Heritage in 2003.",
+  "source": {
+   "name": "Tel Aviv-Yafo Municipality: White City Center",
+   "url": "https://www.tel-aviv.gov.il/Visitors/ArtCulture/Pages/whitecity.aspx"
+  }
+ },
+ "funFact": {
+  "fits": "Tel Aviv, city of bicycles.",
+  "statement": "Tel Aviv-Jaffa has more than a hundred kilometres of bike paths.",
+  "answer": true,
+  "reveal": "About 190 kilometres, with 300 planned. One in four trips in the city is meant to be on two wheels.",
+  "source": {
+   "name": "Tel Aviv-Yafo Municipality: Bicycle paths",
+   "url": "https://www.tel-aviv.gov.il/Residents/Transportation/Pages/BicyclePaths.aspx"
+  }
+ },
+ "kindness": {
+  "fits": "Tel Aviv, the day before Sukkot: the sukkahs on the balconies.",
+  "text": "A neighbour building a sukkah on the balcony or in the yard? Stop for ten minutes and hold a beam. A sukkah built by two stands straighter."
+ }
+}

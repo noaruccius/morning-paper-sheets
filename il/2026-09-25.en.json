@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "en",
+ "lookForward": {
+  "fits": "Sukkot eve 5787: the holiday begins tonight at sunset; because it falls on Shabbat, the lulav is first taken on Sunday.",
+  "headline": "The holiday begins tonight at sunset",
+  "line": "Sukkot: seven days of meals in the sukkah, a temporary hut with a roof of branches. Tonight is the first meal outside, under the leaves. This year the first day falls on Shabbat, so the lulav and etrog, the four species, wait until Sunday.",
+  "source": {
+   "name": "Hebcal: Sukkot",
+   "url": "https://www.hebcal.com/holidays/sukkot"
+  }
+ },
+ "goodThing": {
+  "fits": "The Hula cranes begin arriving in the coming weeks; migration is at its peak.",
+  "headline": "In a few weeks the Hula Valley fills with cranes",
+  "big": "about 50,000",
+  "line": "Fifty thousand cranes pass Hula Lake each year, flying from Finland and Russia to Ethiopia. About a third stay for the winter.",
+  "source": {
+   "name": "Agamon Hula",
+   "url": "https://agamon-hula.co.il/"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 1889: Helena Kagan, the first paediatrician in the Land of Israel, was born.",
+  "year": 1889,
+  "headline": "The country’s first paediatrician was born",
+  "line": "Helena Kagan reached Jerusalem in 1914, when women were not yet allowed to practise medicine. She treated children of every community for sixty years.",
+  "source": {
+   "name": "Wikipedia: Helena Kagan",
+   "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%A0%D7%94_%D7%9B%D7%92%D7%9F"
+  }
+ },
+ "funFact": {
+  "fits": "An Israeli fact: the invention from the Negev that waters half the world.",
+  "statement": "Drip irrigation was invented on a kibbutz in the Negev.",
+  "answer": true,
+  "reveal": "Simcha Blass and his son, with Kibbutz Hatzerim, 1965. Yields rose about seventy percent, water use fell by half. Today it is Netafim, worldwide.",
+  "source": {
+   "name": "Netafim",
+   "url": "https://www.netafim.co.il/"
+  }
+ },
+ "calmRead": {
+  "fits": "Sukkot eve: what the sukkah is there to remind us of.",
+  "title": "The house that reminds you there is no house",
+  "teaser": "Seven days a year, everyone moves outdoors. The reason is simpler and deeper than it seems.",
+  "paragraphs": [
+   "Tonight, at sunset, hundreds of thousands of families will move into a structure that did not exist a week ago and will not exist two weeks from now. Walls of cloth or wood, a roof of branches, one light. It is not a shed and not a pergola. It is a home, for seven days.",
+   "The rules of the sukkah are almost the reverse of the rules of any other house. The roof must be thin enough to see stars through, but thick enough to give more shade than light. It must be made of things that grew from the ground and were cut: branches, reeds, palm fronds. Nothing else. Nothing permanent may stand above it, not a roof and not a tree.",
+   "The idea, simply, is this: once a year, right at the end of the harvest, when the storerooms are full and it is easy to feel safe, you leave the house and remember that safety is temporary. That there was a time without walls. That all you really need is a table, a few people around it, and a roof you can see the sky through.",
+   "Hence also the custom of the ushpizin, the guests: each evening a symbolic guest from the past is invited into the sukkah, and behind that, a real one from the present. The sukkah is a house that is easy to enter, because it has no door.",
+   "So tonight: sit outside. Look up. If you can see a star through the roof, the sukkah is kosher, and the evening is good."
+  ],
+  "source": {
+   "name": "The Western Wall: Sukkot",
+   "url": "https://thekotel.org/he/144229/11/"
+  }
+ },
+ "word": {
+  "fits": "Sukkot eve.",
+  "word": "Sekhakh",
+  "language": "Hebrew",
+  "pronunciation": "s’KHAKH",
+  "meaning": "The roof of the sukkah: branches, reeds or palm fronds, thin enough to see stars through. From the same root as sukkah itself: to shelter in shade."
+ },
+ "kindness": {
+  "fits": "Sukkot eve, the holiday of hospitality.",
+  "text": "Invite to the sukkah, or to the table, someone who was not invited anywhere this year. You know who."
+ },
+ "joke": {
+  "fits": "Sukkot eve; the lulav only from Sunday.",
+  "setup": "What did the etrog say to the lulav when the holiday fell on Shabbat?",
+  "punchline": "Relax. We have one more day off."
+ },
+ "riddle": {
+  "fits": "Sukkot eve.",
+  "riddle": "I am yellow, fragrant and expensive, and people inspect me with a magnifying glass. What am I?",
+  "hint": "One of the four species.",
+  "answer": "An etrog, the citron."
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-27",
+ "language": "en",
+ "lookForward": {
+  "fits": "The first of the intermediate days of Sukkot 5787: hiking days.",
+  "headline": "The intermediate days begin: hiking week",
+  "line": "The five middle days of Sukkot, between the first day and Simchat Torah: schools are closed and half the country is outdoors. Leave early, before the heat, and take water. The streams in the north are still running, and the nature reserves are open.",
+  "source": {
+   "name": "Society for the Protection of Nature in Israel",
+   "url": "https://www.teva.org.il/"
+  }
+ },
+ "goodThing": {
+  "fits": "Intermediate days, hikes in nature; Israel leads the world in returning water to farming.",
+  "headline": "Almost every drop Israel pours away returns to a field",
+  "big": "about 85%",
+  "line": "Most wastewater is cleaned and reused on farms, the highest share anywhere. The OECD called it a success by any measure.",
+  "source": {
+   "name": "KKL-JNF: Reclaimed water and reservoirs for agriculture",
+   "url": "https://www.kkl.org.il/water_activity_water_reservoirs/"
+  }
+ },
+ "onThisDay": {
+  "fits": "27 September 1916: S. Yizhar, one of the great Hebrew writers, was born.",
+  "year": 1916,
+  "headline": "The writer who taught Hebrew to describe landscape was born",
+  "line": "S. Yizhar, born in Rehovot. Sentences long as a field, a thousand pages about one week, and a love for the land, unprettified.",
+  "source": {
+   "name": "Wikipedia: S. Yizhar",
+   "url": "https://he.wikipedia.org/wiki/%D7%A1._%D7%99%D7%96%D7%94%D7%A8"
+  }
+ },
+ "funFact": {
+  "fits": "A fact about the language this paper is written in.",
+  "statement": "Hebrew is the only language ever to come back from books to a mother tongue.",
+  "answer": true,
+  "reveal": "For two thousand years almost nobody spoke it from the cradle. Today millions do. Linguists still cannot explain how.",
+  "source": {
+   "name": "Academy of the Hebrew Language: The revival of Hebrew, a miracle?",
+   "url": "https://hebrew-academy.org.il/%D7%AA%D7%97%D7%99%D7%99%D7%AA-%D7%94%D7%9C%D7%A9%D7%95%D7%9F-%D7%94%D7%90%D7%95%D7%9E%D7%A0%D7%9D-%D7%A0%D7%A1/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today’s fact: how a language comes back to life.",
+  "title": "The language that came back to life",
+  "teaser": "A hundred and fifty years ago no child on earth spoke Hebrew. You are reading it now.",
+  "paragraphs": [
+   "In 1882 a boy named Itamar was born in Jerusalem. His father, Eliezer Ben-Yehuda, decided the child would hear only Hebrew, a language no one had spoken at home for nearly two thousand years. It had no words for doll, ice cream or bicycle. The father invented them as he went. The boy, they say, did not speak until he was four. Then he spoke.",
+   "Hebrew never entirely died. It was the language of prayer, writing and study, and Jews from different countries used it to understand each other. But a living language is one that children quarrel in, in the yard, and that did not exist. Ben-Yehuda and others decided it would.",
+   "They coined thousands of words, sometimes from the Bible, sometimes from Aramaic and Arabic, sometimes from nothing. Some caught on: dictionary, ice cream, tomato. Some did not: nobody today calls a telephone a far-talker. The first Hebrew schools opened in the farming villages, and the teachers learned the language a day ahead of the pupils.",
+   "Today Hebrew is the mother tongue of millions, with slang, nursery rhymes, swear words and street talk. Linguists say this has happened to no other language, and they are not sure how it happened here. The simple answer: a few stubborn people decided to speak it to their children.",
+   "The Academy of the Hebrew Language still coins words, and the public still ignores most of them. As it should. A living language does not obey."
+  ],
+  "source": {
+   "name": "Academy of the Hebrew Language: Eliezer Ben-Yehuda",
+   "url": "https://hebrew-academy.org.il/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8-%D7%91%D7%9F%D6%BE%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%9E%D7%97%D7%99%D7%94-%D7%94%D7%A9%D7%A4%D7%94-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA/"
+  }
+ },
+ "word": {
+  "fits": "Late September: waiting for the first rain.",
+  "word": "Yoreh",
+  "language": "Hebrew",
+  "pronunciation": "yo-REH",
+  "meaning": "The first rain of the year, usually in October, soaking the soil for sowing. From the root of teaching: the rain that shows the way into winter."
+ },
+ "kindness": {
+  "fits": "Intermediate days, hikes in nature.",
+  "text": "On today’s hike, carry one bag more than your own rubbish. The stream does not know who left what."
+ },
+ "joke": {
+  "fits": "Intermediate days: everyone is outdoors.",
+  "setup": "How do you know the intermediate days have started?",
+  "punchline": "The road north is jammed, the road south is jammed, and everyone is happy."
+ },
+ "riddle": {
+  "fits": "Today’s fact: the revival of Hebrew.",
+  "riddle": "I slept for two thousand years, woke up in Jerusalem, and now I am on every sign around you. What am I?",
+  "hint": "The language of the street.",
+  "answer": "The Hebrew language."
+ }
+}

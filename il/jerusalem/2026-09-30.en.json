@@ -1,0 +1,16 @@
+{
+ "country": "IL",
+ "date": "2026-09-30",
+ "language": "en",
+ "city": "jerusalem",
+ "funFact": {
+  "fits": "The stone that defines the look of the city.",
+  "statement": "In Jerusalem every building must be faced with local stone.",
+  "answer": true,
+  "reveal": "A British rule from 1918, still kept. So the whole city is one colour, gold at sunset, and the stone bears its name.",
+  "source": {
+   "name": "Wikipedia: Jerusalem stone",
+   "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%9F_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%AA"
+  }
+ }
+}

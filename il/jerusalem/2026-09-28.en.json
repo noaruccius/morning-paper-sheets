@@ -1,0 +1,30 @@
+{
+ "country": "IL",
+ "date": "2026-09-28",
+ "language": "en",
+ "city": "jerusalem",
+ "lookForward": {
+  "fits": "The priestly blessing at the Western Wall today, 9:30 and 10:30.",
+  "headline": "The priestly blessing at the Wall, this morning at 9:30",
+  "line": "The plaza will fill to the edges: thousands of kohanim bless the crowd together, twice, at 9:30 and after the additional service at 10:30. Morning prayers begin at 8:45. Walk in through Jaffa Gate; the light rail will be packed.",
+  "source": {
+   "name": "The Western Wall: Priestly Blessing, Sukkot 5787",
+   "url": "https://thekotel.org/he/144229/11/"
+  },
+  "more": [
+   "The priestly blessing is the three-verse blessing written in the Book of Numbers: may the Lord bless you and keep you. In synagogues it is said by the kohanim, descendants of Aaron, standing before the congregation with their hands spread and their faces covered by a prayer shawl. At the Western Wall it is done twice a year as a mass event: during the intermediate days of Passover and of Sukkot.",
+   "This year it falls on Monday 28 September and again on Thursday 1 October. Morning prayers begin at 8:45, the first blessing is at 9:30, and after the additional service the second blessing at 10:30. Thousands of kohanim stand by the Wall, and tens of thousands fill the plaza. The light rail will be packed; whoever can, walks in through Jaffa Gate or Dung Gate.",
+   "Not in Jerusalem? The Western Wall Heritage Foundation streams the ceremony live on its website. Ten minutes, even from the kitchen, is worth it."
+  ]
+ },
+ "goodThing": {
+  "fits": "Jerusalem: a gazelle park in the heart of the city, saved from building by residents.",
+  "headline": "Gazelle Valley: a herd lives in the middle of Jerusalem",
+  "big": "250 dunams",
+  "line": "Residents fought building plans for years; in 2015 Israel’s largest urban nature park opened. About thirty gazelles live in it, between neighbourhoods.",
+  "source": {
+   "name": "Gazelle Valley: urban nature park",
+   "url": "https://www.gazelle-valley.com/"
+  }
+ }
+}

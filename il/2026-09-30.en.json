@@ -1,0 +1,83 @@
+{
+ "country": "IL",
+ "date": "2026-09-30",
+ "language": "en",
+ "lookForward": {
+  "fits": "The last intermediate day before Hoshana Rabbah (Thursday) and Simchat Torah (Shabbat 3 October).",
+  "headline": "Three more days in the sukkah",
+  "line": "Tomorrow is Hoshana Rabbah, the seventh day of Sukkot, and on Shabbat Simchat Torah, the end of the holidays. Then the sukkah comes down. Dinner outside tonight, while you still can, with a small light so people stay longer.",
+  "source": {
+   "name": "Hebcal: Simchat Torah",
+   "url": "https://www.hebcal.com/holidays/simchat-torah"
+  }
+ },
+ "goodThing": {
+  "fits": "Rosh Hashanah 5787: the Central Bureau of Statistics reported more than ten million residents.",
+  "headline": "Ten million people, and counting",
+  "big": "10,000,000+",
+  "line": "When the state was founded, 800,000 people lived here. This year, says the Central Bureau of Statistics, more than ten million. Most were born here.",
+  "source": {
+   "name": "ynet: Israel’s population reaches 10 million",
+   "url": "https://z.ynet.co.il/long/content/specials/10million/"
+  }
+ },
+ "onThisDay": {
+  "fits": "30 September 1928: Elie Wiesel, writer and Nobel Peace laureate, was born.",
+  "year": 1928,
+  "headline": "The boy who decided not to be silent was born",
+  "line": "Elie Wiesel, in Sighet, Romania. Survived Auschwitz at sixteen, first wrote about it in Yiddish, and won the Nobel Peace Prize in 1986.",
+  "source": {
+   "name": "Nobel Prize: Elie Wiesel",
+   "url": "https://www.nobelprize.org/prizes/peace/1986/wiesel/facts/"
+  }
+ },
+ "funFact": {
+  "fits": "30 September 1791: the premiere of The Magic Flute, the most performed opera in the world.",
+  "statement": "Mozart’s Magic Flute won a storm of applause on opening night.",
+  "answer": false,
+  "reveal": "Mozart wrote of quiet applause; one paper reported none. Within weeks it was a hit. Nine weeks after the premiere he was dead.",
+  "source": {
+   "name": "Österreichische Mediathek: Die Zauberflöte (1791)",
+   "url": "https://www.mediathek.at/onlineausstellungen/mozart/die-zauberfloete-1791"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today’s On this day: Elie Wiesel, and what he said about silence.",
+  "title": "The opposite of silence",
+  "teaser": "He was silent for ten years, then wrote a book that has not stopped speaking.",
+  "paragraphs": [
+   "Elie Wiesel was born ninety-eight years ago today in the small town of Sighet, in the Carpathian mountains. At fifteen he was sent with his family to Auschwitz. His mother and little sister were murdered on the day they arrived. His father died beside him in Buchenwald, weeks before the liberation. He was sixteen.",
+   "For ten years he did not write a word about it. He worked as a journalist in Paris, studied, kept silent. Then, on the advice of a French writer he met, he wrote. The first version was in Yiddish, long, and called: And the World Was Silent. The version the world read was called Night, a thin book translated into thirty languages.",
+   "In 1986 he received the Nobel Peace Prize. In his speech he said the sentence that stayed with him: I swear never to be silent whenever human beings endure suffering and humiliation. Indifference, he said, is the opposite of love. Not hate. Indifference.",
+   "For fifty years he travelled, lectured and taught, in Boston and New York, and wrote another fifty books, novels, essays, memoirs. He fought for the Jews of the Soviet Union, for victims in Bosnia and Rwanda, for anyone nobody spoke up for. The boy from Sighet became the voice of people who had none.",
+   "He was not a sad man. His students remember him laughing, singing, telling Hasidic stories about righteous men who danced. Much of what he taught was about joy: that after everything, choosing life is the victory.",
+   "This week, between the sukkah and Simchat Torah, it is a good sentence to hold: not indifference. Something."
+  ],
+  "source": {
+   "name": "Nobel Prize: Elie Wiesel",
+   "url": "https://www.nobelprize.org/prizes/peace/1986/wiesel/facts/"
+  }
+ },
+ "word": {
+  "fits": "The end of the holidays approaches.",
+  "word": "Hoshana",
+  "language": "Hebrew",
+  "pronunciation": "ho-SHA-na",
+  "meaning": "Save us, please: the cry repeated tomorrow, Hoshana Rabbah, with willow branches in hand. In European languages it became the word hosanna."
+ },
+ "kindness": {
+  "fits": "Elie Wiesel: not indifference.",
+  "text": "Today, when you see some small wrong in the street, do not walk past. Say a word, pick it up, help. Not indifference."
+ },
+ "joke": {
+  "fits": "The end of the holidays.",
+  "setup": "What do people in Israel say at the end of the holidays?",
+  "punchline": "After the holidays. Then they discover that is now."
+ },
+ "riddle": {
+  "fits": "The population count.",
+  "riddle": "When the state was founded we were 800,000, today we are over ten million, and we all know someone who knows someone. Who are we?",
+  "hint": "The statisticians counted.",
+  "answer": "The people of Israel."
+ }
+}

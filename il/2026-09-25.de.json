@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "de",
+ "lookForward": {
+  "fits": "Vorabend von Sukkot 5787: Das Fest beginnt heute Abend bei Sonnenuntergang; weil es auf den Schabbat fällt, wird der Lulav erst am Sonntag genommen.",
+  "headline": "Das Fest beginnt heute Abend bei Sonnenuntergang",
+  "line": "Sukkot: sieben Tage Mahlzeiten in der Sukka, einer Laubhütte mit einem Dach aus Zweigen. Heute Abend die erste Mahlzeit draußen, unter dem Laub. Dieses Jahr fällt der erste Tag auf den Schabbat, deshalb warten Lulav und Etrog, die vier Arten, bis Sonntag.",
+  "source": {
+   "name": "Hebcal: Sukkot",
+   "url": "https://www.hebcal.com/holidays/sukkot"
+  }
+ },
+ "goodThing": {
+  "fits": "Die Kraniche im Hulatal kommen in den nächsten Wochen; der Vogelzug ist auf dem Höhepunkt.",
+  "headline": "In ein paar Wochen füllt sich das Hulatal mit Kranichen",
+  "big": "etwa 50.000",
+  "line": "Rund fünfzigtausend Kraniche ziehen jedes Jahr durch den Hulasee, von Finnland und Russland nach Äthiopien. Etwa ein Drittel bleibt über den Winter.",
+  "source": {
+   "name": "Agamon Hula",
+   "url": "https://agamon-hula.co.il/"
+  }
+ },
+ "onThisDay": {
+  "fits": "25. September 1889: Helena Kagan, die erste Kinderärztin im Land Israel, wurde geboren.",
+  "year": 1889,
+  "headline": "Die erste Kinderärztin des Landes wurde geboren",
+  "line": "Helena Kagan kam 1914 nach Jerusalem, als Frauen noch nicht als Ärztinnen arbeiten durften. Sie behandelte sechzig Jahre lang Kinder aller Gemeinschaften.",
+  "source": {
+   "name": "Wikipedia: Helena Kagan",
+   "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%A0%D7%94_%D7%9B%D7%92%D7%9F"
+  }
+ },
+ "funFact": {
+  "fits": "Eine israelische Tatsache: die Erfindung aus dem Negev, die die halbe Welt bewässert.",
+  "statement": "Die Tröpfchenbewässerung wurde in einem Kibbuz im Negev erfunden.",
+  "answer": true,
+  "reveal": "Simcha Blass und sein Sohn, mit dem Kibbuz Chazerim, 1965. Die Erträge stiegen um siebzig Prozent, der Wasserverbrauch halbierte sich. Heute heißt das Netafim, weltweit.",
+  "source": {
+   "name": "Netafim",
+   "url": "https://www.netafim.co.il/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vorabend von Sukkot: woran die Sukka erinnern soll.",
+  "title": "Das Haus, das daran erinnert, dass es kein Haus gibt",
+  "teaser": "Sieben Tage im Jahr ziehen alle nach draußen. Der Grund ist einfacher und tiefer, als es scheint.",
+  "paragraphs": [
+   "Heute Abend, bei Sonnenuntergang, ziehen Hunderttausende Familien in ein Bauwerk, das vor einer Woche nicht existierte und in zwei Wochen nicht mehr existieren wird. Wände aus Stoff oder Holz, ein Dach aus Zweigen, ein Licht. Es ist kein Schuppen und keine Pergola. Es ist ein Zuhause, für sieben Tage.",
+   "Die Regeln der Sukka sind fast das Gegenteil der Regeln jedes anderen Hauses. Das Dach muss dünn genug sein, dass man Sterne hindurch sieht, aber dicht genug, dass es mehr Schatten als Licht gibt. Es muss aus Dingen bestehen, die aus der Erde gewachsen und abgeschnitten wurden: Zweige, Schilf, Palmwedel. Sonst nichts. Über ihm darf nichts Festes sein, kein Dach und kein Baum.",
+   "Die Idee ist, einfach gesagt, diese: Einmal im Jahr, genau am Ende der Ernte, wenn die Speicher voll sind und man sich sicher fühlen kann, verlässt man das Haus und erinnert sich, dass Sicherheit vorübergehend ist. Dass es eine Zeit ohne Wände gab. Dass alles, was man wirklich braucht, ein Tisch ist, ein paar Menschen darum herum und ein Dach, durch das man den Himmel sieht.",
+   "Daher auch der Brauch der Uschpisin, der Gäste: Jeden Abend wird ein symbolischer Gast aus der Vergangenheit in die Sukka eingeladen, und dahinter ein echter aus der Gegenwart. Die Sukka ist ein Haus, in das man leicht hineinkommt, weil es keine Tür hat.",
+   "Also heute Abend: Setzen Sie sich nach draußen. Schauen Sie nach oben. Wenn Sie durch das Dach einen Stern sehen, ist die Sukka koscher, und der Abend ist gut."
+  ],
+  "source": {
+   "name": "Die Westmauer: Sukkot",
+   "url": "https://thekotel.org/he/144229/11/"
+  }
+ },
+ "word": {
+  "fits": "Vorabend von Sukkot.",
+  "word": "Schach",
+  "language": "Hebräisch",
+  "pronunciation": "s’CHACH",
+  "meaning": "Das Dach der Sukka: Zweige, Schilf oder Palmwedel, dünn genug, um Sterne zu sehen. Aus derselben Wurzel wie Sukka selbst: sich im Schatten bergen."
+ },
+ "kindness": {
+  "fits": "Vorabend von Sukkot, dem Fest der Gastfreundschaft.",
+  "text": "Laden Sie in die Sukka, oder an den Tisch, jemanden ein, der dieses Jahr nirgends eingeladen wurde. Sie wissen, wen."
+ },
+ "joke": {
+  "fits": "Vorabend von Sukkot; der Lulav erst ab Sonntag.",
+  "setup": "Was sagte der Etrog zum Lulav, als das Fest auf den Schabbat fiel?",
+  "punchline": "Entspann dich. Wir haben noch einen Tag frei."
+ },
+ "riddle": {
+  "fits": "Vorabend von Sukkot.",
+  "riddle": "Ich bin gelb, duftend und teuer, und die Leute prüfen mich mit der Lupe. Was bin ich?",
+  "hint": "Eine der vier Arten.",
+  "answer": "Ein Etrog, die Zitronatzitrone."
+ }
+}

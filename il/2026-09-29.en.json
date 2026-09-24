@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-29",
+ "language": "en",
+ "lookForward": {
+  "fits": "Simchat Torah 5787 falls on Shabbat 3 October 2026; second hakafot at the Western Wall on Saturday night at 22:00.",
+  "headline": "Simchat Torah on Shabbat",
+  "line": "Four days to go: the day the yearly Torah reading ends and begins again, with dancing with the scrolls and children on shoulders. The end of the holidays. On Saturday night, second hakafot at the Western Wall: dancing with a band, open to all.",
+  "source": {
+   "name": "The Western Wall: Second Hakafot",
+   "url": "https://thekotel.org/en/tag/second-hakafot/"
+  }
+ },
+ "goodThing": {
+  "fits": "Intermediate days, walks in the forests; Israel is among the few countries with more trees today than a century ago.",
+  "headline": "A country with more trees than a hundred years ago",
+  "big": "240,000,000",
+  "line": "Since 1901 the Jewish National Fund has planted 240 million trees. Almost every forest you walk in this week was planted by hand.",
+  "source": {
+   "name": "KKL-JNF: Forest data",
+   "url": "https://www.kkl.org.il/afforestation-and-environment/afforestation/forest-data/forest-data-2017/"
+  }
+ },
+ "onThisDay": {
+  "fits": "29 September 1954: CERN was founded; Israel joined as a full member in 2014.",
+  "year": 1954,
+  "headline": "The laboratory where countries do research together was founded",
+  "line": "Twelve European countries founded CERN near Geneva, nine years after the war. Sixty years later Israel joined, the first member outside the continent.",
+  "source": {
+   "name": "CERN: Our history",
+   "url": "https://home.cern/about/who-we-are/our-history"
+  }
+ },
+ "funFact": {
+  "fits": "The Hebrew year that began two weeks ago.",
+  "statement": "The current Hebrew year, 5787, has thirteen months.",
+  "answer": true,
+  "reveal": "A leap year: in spring there will be two months of Adar. It happens seven times in every nineteen years, so that Passover stays in spring.",
+  "source": {
+   "name": "Wikipedia: Hebrew leap year",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%94_%D7%9E%D7%A2%D7%95%D7%91%D7%A8%D7%AA"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today’s fact: how the Hebrew calendar keeps Passover in spring.",
+  "title": "The year with an extra month",
+  "teaser": "The Hebrew calendar follows the moon, the holidays the sun. An ancient trick closes the gap.",
+  "paragraphs": [
+   "A Hebrew month is one turn of the moon: new moon, full moon, and dark again, about twenty-nine and a half days. Twelve such months make 354 days, eleven days short of the solar year. If nothing were done, Passover would drift backwards, into winter, into autumn, into summer, and go all the way round the year in thirty-three years.",
+   "The word for such a year, me’uberet, comes from the same root as the word for embryo: the year carries an extra month inside it.",
+   "But Passover has to be in spring. The Torah says so explicitly: the month of spring. So a solution was found: every few years a whole month is added, a second Adar, before the regular one. Such a year is called a leap year, as if the calendar were pregnant.",
+   "In the days of the Second Temple it was decided afresh every year, according to the state of the barley in the fields and the rains. If spring was late, Passover was delayed. Since the fourth century a fixed cycle has been followed: in every nineteen years, seven are leap years, the third, sixth, eighth, eleventh, fourteenth, seventeenth and nineteenth. This year is the eleventh in the cycle, which is why it has thirteen months.",
+   "And so, without anyone noticing, Rosh Hashanah stays in autumn, Hanukkah in winter and Passover in spring, for two thousand years now. The calendar corrects itself slowly, quietly, without shouting. There is something to learn in that."
+  ],
+  "source": {
+   "name": "Wikipedia: Hebrew leap year",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%94_%D7%9E%D7%A2%D7%95%D7%91%D7%A8%D7%AA"
+  }
+ },
+ "word": {
+  "fits": "Simchat Torah on Shabbat.",
+  "word": "Hakafot",
+  "language": "Hebrew",
+  "pronunciation": "ha-ka-FOT",
+  "meaning": "The circuits with the Torah scrolls around the reading platform on Simchat Torah, seven of them, with singing and dancing. From the root for encircling: to walk around something precious."
+ },
+ "kindness": {
+  "fits": "Intermediate days, the JNF forests.",
+  "text": "On today’s forest walk, plant something: an acorn, a pip, a seed from your pocket. Most will not take. One will."
+ },
+ "joke": {
+  "fits": "A leap year.",
+  "setup": "Why is this Hebrew year so relaxed?",
+  "punchline": "It has an extra month for everything."
+ },
+ "riddle": {
+  "fits": "A leap year.",
+  "riddle": "This year I have thirteen children, last year I had twelve, and nobody noticed. What am I?",
+  "hint": "5787.",
+  "answer": "The Hebrew year, a leap year."
+ }
+}

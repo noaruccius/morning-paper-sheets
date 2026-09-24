@@ -1,0 +1,16 @@
+{
+ "country": "IL",
+ "date": "2026-09-26",
+ "language": "de",
+ "city": "jerusalem",
+ "funFact": {
+  "fits": "Jerusalem und das Tote Meer: Nachbarn auf völlig verschiedener Höhe.",
+  "statement": "Zwischen Jerusalem und dem Totem Meer liegt mehr als ein Kilometer Höhenunterschied.",
+  "answer": true,
+  "reveal": "Jerusalem liegt auf etwa 800 Metern, das Tote Meer 430 unter dem Meeresspiegel: 1.200 Meter abwärts in weniger als einer Stunde.",
+  "source": {
+   "name": "Wikipedia: Totes Meer",
+   "url": "https://he.wikipedia.org/wiki/%D7%99%D7%9D_%D7%94%D7%9E%D7%9C%D7%97"
+  }
+ }
+}

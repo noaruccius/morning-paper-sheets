@@ -4,18 +4,13 @@
  "language": "de",
  "city": "berlin",
  "lookForward": {
-  "fits": "Kranichsaison in Linum, eine Stunde nördlich von Berlin, seit 18. September 2026; ein echter Ausflug fürs Wochenende.",
-  "headline": "Am Samstagabend Kraniche schauen, eine Stunde nördlich von Berlin",
-  "line": "In Linum, einem Dorf im Havelland, schlafen im Herbst bis zu 90.000 Kraniche in flachen Teichen. In der Abenddämmerung fliegen sie in langen Ketten ein, laut rufend. Hinfahren, gegen 18 Uhr da sein, warm anziehen, zuschauen.",
+  "fits": "Marathon-Wochenende in Berlin: Samstag 26. September 2026 Generali 5K ab Potsdamer Platz und Inlineskating, Sonntag 27. September der Marathon ab 8:30; alles in der Stadt selbst.",
+  "headline": "Marathon-Wochenende: ab Samstag gehört die Straße den Läufern",
+  "line": "Samstag: ein 5-Kilometer-Lauf über das letzte Stück der Strecke ab Potsdamer Platz, danach der Inlineskater-Marathon. Sonntag ab 8:30 der Marathon selbst: 55.000 Läufer, Ziel am Brandenburger Tor. Suchen Sie sich einen Platz am Rand und klatschen Sie.",
   "source": {
-   "name": "NABU Berlin: Kranichsaison in Linum",
-   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
-  },
-  "more": [
-   "Linum ist ein Dorf im Havelland, rund 60 Kilometer nordwestlich von Berlin. Neben dem Dorf liegen alte Fischteiche, flach und weitläufig, und genau dort schlafen die Kraniche: im Wasser stehend, wo kein Fuchs sie ungehört erreicht. Tagsüber fressen sie auf den abgeernteten Maisfeldern ringsum, in der Abenddämmerung fliegen sie in langen Ketten zu den Teichen zurück. Das ist der Moment, für den man kommt.",
-   "Hinkommen: mit dem Auto über die A24 bis Kremmen, dann zehn Minuten Landstraße, etwa eine Stunde ab Stadtmitte. Ohne Auto mit der Regionalbahn nach Nauen und weiter mit dem Bus 663. Seien Sie eine Stunde vor Sonnenuntergang da, an diesem Wochenende also gegen 18 Uhr. Warm anziehen, es ist offenes Land. Ein Fernglas hilft, ist aber nicht nötig.",
-   "Die NABU-Storchenschmiede im Dorf bietet in der Saison abendliche Führungen zu den Teichen an, mit Anmeldung, gegen einen kleinen Beitrag. Ohne Führung: Bleiben Sie auf den Wegen, gehen Sie nicht an die Teiche heran, und lassen Sie den Hund im Auto. Die Vögel haben einen langen Weg vor sich."
-  ]
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "goodThing": {
   "fits": "Berliner Leitungswasser: eine lokale Tatsache, auf die man stolz sein kann.",
@@ -64,30 +59,29 @@
   ]
  },
  "calmRead": {
-  "fits": "Vertieft das Demnächst von heute: die Kraniche in Linum, nördlich von Berlin, in dieser Woche.",
-  "title": "Warum sich der Himmel nördlich von Berlin mit Kranichen füllt",
-  "teaser": "Eine Stunde von der Stadt findet gerade eine der großen Herbstversammlungen Europas statt.",
+  "fits": "Ein Berliner Ort für einen hellen Donnerstagabend Ende September: das Tempelhofer Feld, der Sonnenuntergang auf der Landebahn.",
+  "title": "Der Flughafen, auf dem jetzt Drachen fliegen",
+  "teaser": "Mitten in Berlin liegt ein Feld, so groß wie ein Stadtteil, und niemand darf darauf bauen.",
   "paragraphs": [
-   "Fahren Sie eine Stunde nordwestlich von Berlin, in die flache Teichlandschaft um Linum, und bleiben Sie in der Abenddämmerung stehen. Sie hören es, bevor Sie es sehen: ein rollendes, trompetendes Rufen von sehr weit oben. Dann kommt die erste Kette Kraniche über Sie, die langen Hälse nach vorn, die Beine nach hinten gestreckt, und dahinter die nächste, und die nächste.",
-   "Sie kommen aus Skandinavien und dem Baltikum und sind auf dem Weg nach Spanien und Frankreich. In Linum machen sie Rast. Tagsüber verteilen sie sich über die abgeernteten Felder und suchen, was die Maishäcksler liegen gelassen haben. Nachts stehen sie zusammen in den flachen Teichen, wo kein Fuchs sie erreicht, ohne zu platschen.",
-   "In einem guten Jahr nutzen bis zu 90.000 Kraniche diese Teiche, dazu Zehntausende Wildgänse. Die Saison begann am 18. September. In den nächsten drei Wochen werden es mehr, im Oktober sind es am meisten, dann ziehen sie weiter nach Süden.",
-   "Vor fünfzig Jahren gab es in ganz Deutschland nur noch etwa 800 Brutpaare. Feuchtgebiete wurden trockengelegt, die Vögel gejagt. Der Schutz hat gewirkt. Heute sind es rund 11.000 Paare, und jeden Herbst zeigt der Himmel über Brandenburg, wie das aussieht.",
-   "Die Storchenschmiede des NABU in Linum wacht seit 1991 über die Teiche und bietet Abendführungen an. Oder Sie suchen sich einen stillen Feldweg, bleiben stehen und schauen nach oben."
+   "Fahren Sie heute Abend mit der U6 bis Paradestraße und gehen Sie durch das Tor. Vor Ihnen liegt eine Fläche, die man in einer Stadt nicht erwartet: über 300 Hektar Gras und Beton, zwei Landebahnen, kein Haus, kein Baum, der die Sicht nimmt. Bis 2008 landeten hier Flugzeuge. Seit Mai 2010 ist das Tempelhofer Feld ein Park, einer der größten innerstädtischen Freiräume der Welt.",
+   "Der Flughafen selbst ist Geschichte: das riesige Gebäude am Rand war einmal eines der größten der Welt, und 1948 und 1949, während der Berliner Blockade, landete hier alle paar Minuten ein Flugzeug mit Kohle und Mehl. Die Berliner nannten sie Rosinenbomber. Das Feld erinnert sich daran, aber es lebt heute anders.",
+   "2014 wollte die Stadt an den Rändern bauen. Die Berliner stimmten ab, und fast zwei Drittel sagten Nein. Seitdem schützt ein Gesetz das Feld: keine Häuser, keine Straßen. Auf der Wiese in der Mitte brüten Feldlerchen, deshalb ist sie im Frühjahr eingezäunt. Auf den Landebahnen fahren Skater, Radfahrer und Kinder mit Windrädern, und wer einen Drachen hat, hat hier den besten Wind der Stadt.",
+   "Ende September geht die Sonne kurz nach sieben unter, und auf dem Feld sieht man es von Anfang bis Ende, weil nichts im Weg steht. Nehmen Sie eine Decke und etwas zu trinken mit, setzen Sie sich auf die Landebahn und schauen Sie nach Westen. Um halb acht ist es vorbei, und die ganze Stadt ist eine Stunde ruhiger geworden."
   ],
   "source": {
-   "name": "NABU Berlin: Kranichsaison in der Storchenschmiede Linum",
-   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
+   "name": "Grün Berlin: Tempelhofer Feld",
+   "url": "https://gruen-berlin.de/projekte/parks/tempelhofer-feld"
   }
  },
  "joke": {
-  "fits": "Die Kraniche, die diese Woche in Linum landen.",
-  "setup": "Was sagte der Kranich, als er in Linum landete?",
-  "punchline": "Denselben Tisch wie letztes Jahr, bitte."
+  "fits": "Das Tempelhofer Feld, aus der ruhigen Lektüre von heute.",
+  "setup": "Warum landen in Tempelhof keine Flugzeuge mehr?",
+  "punchline": "Zu viele Drachen in der Einflugschneise."
  },
  "riddle": {
-  "fits": "Die Kraniche in Linum diese Woche.",
-  "riddle": "Ich komme zu Tausenden, schlafe im Stehen im Wasser und fliege im Oktober nach Spanien. Was bin ich?",
-  "hint": "Langer Hals, Trompetenruf.",
-  "answer": "Ein Kranich."
+  "fits": "Das Tempelhofer Feld, aus der ruhigen Lektüre von heute.",
+  "riddle": "Ich habe zwei Landebahnen und kein Flugzeug, ich bin größer als 400 Fußballfelder, und abends gehört mir der ganze Himmel. Was bin ich?",
+  "hint": "Ein ehemaliger Flughafen in Berlin.",
+  "answer": "Das Tempelhofer Feld."
  }
 }

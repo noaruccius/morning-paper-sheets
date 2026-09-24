@@ -1,0 +1,25 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "en",
+ "city": "tel-aviv",
+ "lookForward": {
+  "fits": "Sukkot eve in Tel Aviv: candle lighting and the start of the holiday at 18:15.",
+  "headline": "The holiday begins tonight at 18:15",
+  "line": "Candles are lit in Tel Aviv eighteen minutes before sunset. The sun goes down into the sea and the sukkahs on the balconies light up. First meal outside, no coat. This is Tel Aviv.",
+  "source": {
+   "name": "Hebcal: Candle lighting times for Tel Aviv",
+   "url": "https://www.hebcal.com/shabbat?geonameid=293397"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 2018: the fast line from Jerusalem to the airport opened; since 2019 it reaches Tel Aviv.",
+  "year": 2018,
+  "headline": "The fast train to Jerusalem set off",
+  "line": "It opened from Jerusalem to the airport, free at first. A year later it reached HaHagana station, and Jerusalem has been half an hour away since.",
+  "source": {
+   "name": "mynet Jerusalem: The fast line opens to passengers",
+   "url": "https://jerusalem.mynet.co.il/local_news/article/m_316215"
+  }
+ }
+}

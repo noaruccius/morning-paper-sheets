@@ -4,18 +4,13 @@
  "language": "en",
  "city": "berlin",
  "lookForward": {
-  "fits": "Crane season at Linum, an hour north of Berlin, opened on 18 September 2026; a real outing for this weekend.",
-  "headline": "Watch the cranes on Saturday evening, an hour north of Berlin",
-  "line": "At Linum, a village in the Havelland, up to 90,000 cranes sleep in shallow ponds each autumn. At dusk they fly in, in long lines, calling loudly. Drive out, be there by six, dress warmly, and watch.",
+  "fits": "Marathon weekend in Berlin: Saturday 26 September 2026 the Generali 5K from Potsdamer Platz and the inline-skating marathon, Sunday 27 September the marathon from 8:30; all inside the city.",
+  "headline": "Marathon weekend: from Saturday the streets belong to the runners",
+  "line": "Saturday brings a 5-kilometre run over the last stretch of the course from Potsdamer Platz, then the inline-skating marathon. Sunday from 8:30, the marathon itself: 55,000 runners, finishing at the Brandenburg Gate. Pick a spot on the route and clap.",
   "source": {
-   "name": "NABU Berlin: Kranichsaison in Linum",
-   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
-  },
-  "more": [
-   "Linum is a village in the Havelland, about 60 kilometres north-west of Berlin. Beside it lie old fish ponds, shallow and wide, and that is where the cranes sleep: standing in the water, where no fox can reach them unheard. By day they feed on the harvested maize fields around; at dusk they fly back to the ponds in long lines. That is the moment people come for.",
-   "Getting there: by car along the A24 to Kremmen, then ten minutes of country road, about an hour from the city centre. Without a car, take the regional train to Nauen and bus 663 from there. Be there an hour before sunset, which this weekend means around six. Dress warmly, it is open country. Binoculars help but are not needed.",
-   "The NABU Storchenschmiede in the village runs evening walks to the ponds during the season, booked in advance, for a small fee. Without a guide: stay on the paths, do not walk up to the ponds, and leave the dog in the car. The birds have a long way still to go."
-  ]
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "goodThing": {
   "fits": "Autumn is when Berliners refill their bottles from the tap after a hot summer; a local fact worth being proud of.",
@@ -64,30 +59,29 @@
   ]
  },
  "calmRead": {
-  "fits": "Expands today's look-forward: the crane gathering at Linum, north of Berlin, which is happening this week.",
-  "title": "Why the sky north of Berlin fills with cranes",
-  "teaser": "An hour from the city, one of Europe's great autumn gatherings is under way.",
+  "fits": "A Berlin place for a bright Thursday evening in late September: Tempelhofer Feld, sunset on the runway.",
+  "title": "The airport where kites fly now",
+  "teaser": "A field the size of a district lies in the middle of Berlin. Nobody may build on it.",
   "paragraphs": [
-   "Drive an hour north-west of Berlin, to the flat pond country around Linum, and stop at dusk. You will hear it before you see it: a rolling, trumpeting call from very high up. Then the first line of cranes comes over, long necks forward, legs trailing, and behind it another, and another.",
-   "They have flown in from Scandinavia and the Baltic on their way to Spain and France. Linum is where they stop to rest and eat. By day they spread across the harvested fields and pick over what the maize harvesters left behind. At night they stand together in the shallow ponds, where no fox can reach them without splashing.",
-   "In a good year, up to 90,000 cranes use these ponds, with tens of thousands of wild geese alongside. The season began on 18 September. Numbers build through the next three weeks and peak in October, then thin out as the birds move on south.",
-   "Fifty years ago there were only about 800 breeding pairs of cranes left in the whole of Germany. Wetlands were drained and the birds were hunted. Protection worked. There are now around 11,000 pairs, and every autumn the sky over Brandenburg shows what that looks like.",
-   "The NABU nature centre at Linum, the Storchenschmiede, has watched over the ponds since 1991 and runs evening walks. Or just find a quiet track between the fields, stand still, and look up."
+   "Take the U6 to Paradestraße this evening and walk through the gate. In front of you is something you do not expect in a city: more than 300 hectares of grass and concrete, two runways, no house, no tree in the way. Planes landed here until 2008. Since May 2010 Tempelhofer Feld has been a park, one of the largest open spaces inside any city in the world.",
+   "The airport itself is history: the huge building along the edge was once among the largest in the world, and in 1948 and 1949, during the Berlin Blockade, a plane carrying coal and flour landed here every few minutes. Berliners called them raisin bombers. The field remembers that, but it lives differently now.",
+   "In 2014 the city wanted to build along the edges. Berliners voted, and almost two thirds said no. Since then a law protects the field: no houses, no roads. Skylarks nest in the meadow in the middle, which is why it is fenced off in spring. On the runways there are skaters, cyclists and children with pinwheels, and anyone with a kite has the best wind in the city.",
+   "In late September the sun sets shortly after seven, and on the field you see it from beginning to end, because nothing stands in the way. Bring a blanket and something to drink, sit down on the runway and look west. By half past seven it is over, and the whole city has become an hour quieter."
   ],
   "source": {
-   "name": "NABU Berlin: Kranichsaison in der Storchenschmiede Linum",
-   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
+   "name": "Grün Berlin: Tempelhofer Feld",
+   "url": "https://gruen-berlin.de/en/projects/parks/tempelhofer-feld"
   }
  },
  "joke": {
-  "fits": "The cranes arriving at Linum this week.",
-  "setup": "What did the crane say when it landed at Linum?",
-  "punchline": "Same table as last year, please."
+  "fits": "Tempelhofer Feld, from today’s calm read.",
+  "setup": "Why don’t planes land at Tempelhof any more?",
+  "punchline": "Too many kites on the approach."
  },
  "riddle": {
-  "fits": "The cranes at Linum this week.",
-  "riddle": "I arrive in thousands, sleep standing in water, and leave for Spain in October. What am I?",
-  "hint": "Long neck, trumpet call.",
-  "answer": "A crane."
+  "fits": "Tempelhofer Feld, from today’s calm read.",
+  "riddle": "I have two runways and no planes, I am bigger than 400 football pitches, and in the evening the whole sky is mine. What am I?",
+  "hint": "A former airport in Berlin.",
+  "answer": "Tempelhofer Feld."
  }
 }

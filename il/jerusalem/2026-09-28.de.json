@@ -1,0 +1,30 @@
+{
+ "country": "IL",
+ "date": "2026-09-28",
+ "language": "de",
+ "city": "jerusalem",
+ "lookForward": {
+  "fits": "Priestersegen an der Westmauer heute, 9:30 und 10:30.",
+  "headline": "Der Priestersegen an der Mauer, heute um 9:30",
+  "line": "Der Platz füllt sich bis an die Ränder: Tausende Kohanim segnen gemeinsam die Menge, zweimal, um 9:30 und nach dem Zusatzgebet um 10:30. Das Morgengebet beginnt um 8:45. Gehen Sie zu Fuß durch das Jaffator; die Stadtbahn wird voll sein.",
+  "source": {
+   "name": "Die Westmauer: Priestersegen Sukkot 5787",
+   "url": "https://thekotel.org/he/144229/11/"
+  },
+  "more": [
+   "Der Priestersegen ist der Segen aus drei Versen im Buch Numeri: Der Herr segne dich und behüte dich. In der Synagoge sprechen ihn die Kohanim, die Nachkommen Aarons, vor der Gemeinde stehend, die Hände ausgebreitet, das Gesicht unter dem Gebetsschal. An der Westmauer geschieht das zweimal im Jahr als Massenereignis: an den Zwischenfeiertagen von Pessach und von Sukkot.",
+   "Dieses Jahr fällt es auf Montag, den 28. September, und noch einmal auf Donnerstag, den 1. Oktober. Das Morgengebet beginnt um 8:45, der erste Segen ist um 9:30, nach dem Zusatzgebet der zweite um 10:30. Tausende Kohanim stehen an der Mauer, Zehntausende füllen den Platz. Die Stadtbahn wird voll sein; wer kann, geht zu Fuß durch das Jaffator oder das Misttor hinein.",
+   "Nicht in Jerusalem? Die Stiftung für das Erbe der Westmauer überträgt die Zeremonie live auf ihrer Website. Zehn Minuten, auch aus der Küche, lohnen sich."
+  ]
+ },
+ "goodThing": {
+  "fits": "Jerusalem: ein Gazellenpark mitten in der Stadt, von Anwohnern vor der Bebauung gerettet.",
+  "headline": "Gazellental: Eine Herde lebt mitten in Jerusalem",
+  "big": "250 Dunam",
+  "line": "Anwohner kämpften jahrelang gegen Baupläne; 2015 öffnete Israels größter städtischer Naturpark. Etwa dreißig Gazellen leben darin, zwischen Wohnvierteln.",
+  "source": {
+   "name": "Gazellental: Städtischer Naturpark",
+   "url": "https://www.gazelle-valley.com/"
+  }
+ }
+}

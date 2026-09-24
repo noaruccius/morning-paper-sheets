@@ -1,0 +1,83 @@
+{
+ "country": "IL",
+ "date": "2026-09-30",
+ "language": "de",
+ "lookForward": {
+  "fits": "Der letzte Zwischenfeiertag vor Hoschana Rabba (Donnerstag) und Simchat Tora (Schabbat, 3. Oktober).",
+  "headline": "Noch drei Tage in der Sukka",
+  "line": "Morgen ist Hoschana Rabba, der siebte Tag von Sukkot, und am Schabbat Simchat Tora, das Ende der Feiertage. Danach wird die Sukka abgebaut. Heute Abend draußen essen, solange es geht, mit einem kleinen Licht, damit alle länger sitzen bleiben.",
+  "source": {
+   "name": "Hebcal: Simchat Torah",
+   "url": "https://www.hebcal.com/holidays/simchat-torah"
+  }
+ },
+ "goodThing": {
+  "fits": "Rosch ha-Schana 5787: Das Statistikamt meldete mehr als zehn Millionen Einwohner.",
+  "headline": "Zehn Millionen Menschen, und es werden mehr",
+  "big": "10.000.000+",
+  "line": "Bei der Staatsgründung lebten hier 800.000 Menschen. Dieses Jahr, sagt das Zentrale Statistikamt, mehr als zehn Millionen. Die meisten hier geboren.",
+  "source": {
+   "name": "ynet: Israels Bevölkerung erreicht 10 Millionen",
+   "url": "https://z.ynet.co.il/long/content/specials/10million/"
+  }
+ },
+ "onThisDay": {
+  "fits": "30. September 1928: Elie Wiesel, Schriftsteller und Friedensnobelpreisträger, wurde geboren.",
+  "year": 1928,
+  "headline": "Der Junge, der beschloss, nicht zu schweigen, wurde geboren",
+  "line": "Elie Wiesel, in Sighet, Rumänien. Überlebte Auschwitz mit sechzehn, schrieb zuerst auf Jiddisch darüber und erhielt 1986 den Friedensnobelpreis.",
+  "source": {
+   "name": "Nobelpreis: Elie Wiesel",
+   "url": "https://www.nobelprize.org/prizes/peace/1986/wiesel/facts/"
+  }
+ },
+ "funFact": {
+  "fits": "30. September 1791: Uraufführung der Zauberflöte, der meistgespielten Oper der Welt.",
+  "statement": "Mozarts Zauberflöte erntete am Premierenabend stürmischen Applaus.",
+  "answer": false,
+  "reveal": "Mozart schrieb von stillem Beifall, eine Zeitung meldete gar keinen. Binnen Wochen ein Erfolg. Neun Wochen nach der Premiere war er tot.",
+  "source": {
+   "name": "Österreichische Mediathek: Die Zauberflöte (1791)",
+   "url": "https://www.mediathek.at/onlineausstellungen/mozart/die-zauberfloete-1791"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das An diesem Tag von heute: Elie Wiesel, und was er über das Schweigen sagte.",
+  "title": "Das Gegenteil von Schweigen",
+  "teaser": "Er schwieg zehn Jahre, dann schrieb er ein Buch, das nicht aufgehört hat zu sprechen.",
+  "paragraphs": [
+   "Elie Wiesel wurde heute vor achtundneunzig Jahren in der kleinen Stadt Sighet in den Karpaten geboren. Mit fünfzehn wurde er mit seiner Familie nach Auschwitz deportiert. Seine Mutter und seine kleine Schwester wurden am Tag der Ankunft ermordet. Sein Vater starb neben ihm in Buchenwald, Wochen vor der Befreiung. Er war sechzehn.",
+   "Zehn Jahre lang schrieb er kein Wort darüber. Er arbeitete als Journalist in Paris, studierte, schwieg. Dann, auf den Rat eines französischen Schriftstellers, den er kennenlernte, schrieb er. Die erste Fassung war auf Jiddisch, lang, und hieß: Und die Welt schwieg. Die Fassung, die die Welt las, hieß Die Nacht, ein dünnes Buch, in dreißig Sprachen übersetzt.",
+   "1986 erhielt er den Friedensnobelpreis. In seiner Rede sagte er den Satz, der ihm blieb: Ich schwöre, niemals zu schweigen, wo immer Menschen leiden und gedemütigt werden. Gleichgültigkeit, sagte er, sei das Gegenteil von Liebe. Nicht Hass. Gleichgültigkeit.",
+   "Fünfzig Jahre lang reiste er, hielt Vorträge und lehrte, in Boston und New York, und schrieb weitere fünfzig Bücher, Romane, Essays, Erinnerungen. Er kämpfte für die Juden der Sowjetunion, für die Opfer in Bosnien und Ruanda, für alle, für die niemand sprach. Der Junge aus Sighet wurde zur Stimme von Menschen, die keine hatten.",
+   "Er war kein trauriger Mensch. Seine Studenten erinnern sich an ihn lachend, singend, chassidische Geschichten über tanzende Gerechte erzählend. Vieles, was er lehrte, handelte von Freude: dass nach allem die Entscheidung für das Leben der Sieg ist.",
+   "Diese Woche, zwischen Sukka und Simchat Tora, ist das ein guter Satz zum Festhalten: keine Gleichgültigkeit. Irgendetwas."
+  ],
+  "source": {
+   "name": "Nobelpreis: Elie Wiesel",
+   "url": "https://www.nobelprize.org/prizes/peace/1986/wiesel/facts/"
+  }
+ },
+ "word": {
+  "fits": "Das Ende der Feiertage naht.",
+  "word": "Hoschana",
+  "language": "Hebräisch",
+  "pronunciation": "ho-SCHA-na",
+  "meaning": "Rette doch, bitte: der Ruf, der morgen, an Hoschana Rabba, mit Weidenzweigen in der Hand wiederholt wird. In den Sprachen Europas wurde daraus das Wort Hosianna."
+ },
+ "kindness": {
+  "fits": "Elie Wiesel: keine Gleichgültigkeit.",
+  "text": "Wenn Sie heute auf der Straße etwas Kleines sehen, das nicht in Ordnung ist, gehen Sie nicht vorbei. Ein Wort, ein Aufheben, eine Hilfe. Keine Gleichgültigkeit."
+ },
+ "joke": {
+  "fits": "Das Ende der Feiertage.",
+  "setup": "Was sagt man in Israel am Ende der Feiertage?",
+  "punchline": "Nach den Feiertagen. Und dann merkt man, dass das jetzt ist."
+ },
+ "riddle": {
+  "fits": "Die Volkszählung.",
+  "riddle": "Bei der Staatsgründung waren wir 800.000, heute sind wir über zehn Millionen, und jeder kennt jemanden, der jemanden kennt. Wer sind wir?",
+  "hint": "Das Statistikamt hat gezählt.",
+  "answer": "Die Einwohner Israels."
+ }
+}

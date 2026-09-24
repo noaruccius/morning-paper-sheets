@@ -1,0 +1,82 @@
+{
+ "country": "IL",
+ "date": "2026-09-24",
+ "language": "en",
+ "lookForward": {
+  "fits": "Sukkot 5787 begins on Friday evening, 25 September 2026; today is the last day to build a sukkah.",
+  "headline": "Sukkot begins tomorrow evening",
+  "line": "A week of eating outdoors in a sukkah, a temporary hut with a roof of branches, recalling the years of wandering in the desert. It starts tomorrow, Friday, at sunset. Today is the last day to build: branches for the roof, decorations, one small light.",
+  "source": {
+   "name": "Hebcal: Sukkot",
+   "url": "https://www.hebcal.com/holidays/sukkot"
+  }
+ },
+ "goodThing": {
+  "fits": "Migration season peaks in late September; Israel is the bottleneck of bird migration between three continents.",
+  "headline": "Half a billion birds are passing over you right now",
+  "big": "500,000,000",
+  "line": "Every autumn, and again every spring. Israel is the only land bridge between Europe, Asia and Africa, and the birds know it.",
+  "source": {
+   "name": "Israel Ornithological Center: Bird migration in Israel",
+   "url": "https://www.birds.org.il/he/article/%D7%9B%D7%AA%D7%91%D7%94-%D7%A0%D7%93%D7%91-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%A0%D7%93%D7%99%D7%93%D7%AA-%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"
+  }
+ },
+ "onThisDay": {
+  "fits": "24 September 1950: Galei Tzahal, army radio, went on air.",
+  "year": 1950,
+  "headline": "The radio station the whole country hears went on air",
+  "line": "Galei Tzahal, army radio, began broadcasting. Seventy-six years on, still the voice in cars and kitchens, and the news on the hour.",
+  "source": {
+   "name": "Galei Tzahal",
+   "url": "https://glz.co.il/"
+  }
+ },
+ "funFact": {
+  "fits": "An everyday fact about Israel: the tap.",
+  "statement": "Most of Israel’s drinking water was in the Mediterranean a few weeks ago.",
+  "answer": true,
+  "reveal": "About seventy to eighty percent comes from six desalination plants on the coast, from Hadera to Ashkelon.",
+  "source": {
+   "name": "Calcalist: Desalination in Israel",
+   "url": "https://www.calcalist.co.il/local_news/article/skhdgapbf"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today’s good thing: the great migration over Israel, now at its peak.",
+  "title": "Why half a billion birds choose to cross exactly here",
+  "teaser": "Look up today. Something big is happening above you, and it happens every autumn.",
+  "paragraphs": [
+   "In late September, if you stop for a moment in an open field or on a city roof and look up, you can see them: storks in flocks, pelicans in lines, birds of prey turning in slow circles. They have not come to visit. They are passing through.",
+   "The reason is a map. Large birds, like storks and eagles, do not like crossing the sea. They glide on columns of warm air rising from the land, and over water there are no such columns. To the west is the Mediterranean, to the east the great desert. Between them remains a narrow strip of land, and that is Israel. Anyone going from Europe to Africa without exhausting themselves has to pass here.",
+   "So over a very small country half a billion birds pass every autumn, and half a billion again in spring. It is one of the busiest migration routes in the world. In the Hula Valley, a few weeks from now, the cranes will land: in a normal year about fifty thousand pass through, and a third stay for the winter.",
+   "This route is older than the state, the cities and the language. The birds came through when there were forests here and when there was desert, and they come now over roads and towers, in the same weeks, with no map and no calendar.",
+   "Usually you do not need to travel far. This morning, between eight and ten, as the air warms, the birds of prey begin to rise. Look for black dots turning very high, slowly, without flapping. That is the whole point: they do not strain. They let the land lift them."
+  ],
+  "source": {
+   "name": "Israel Ornithological Center: Bird migration in Israel",
+   "url": "https://www.birds.org.il/he/article/%D7%9B%D7%AA%D7%91%D7%94-%D7%A0%D7%93%D7%91-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%A0%D7%93%D7%99%D7%93%D7%AA-%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"
+  }
+ },
+ "word": {
+  "fits": "Sukkot eve: the Aramaic word for the guests invited into the sukkah.",
+  "word": "Ushpizin",
+  "language": "Aramaic",
+  "pronunciation": "oosh-pee-ZEEN",
+  "meaning": "Guests, in Aramaic. The seven symbolic guests invited into the sukkah each evening, and behind them the simple idea: an open house."
+ },
+ "kindness": {
+  "fits": "The day before Sukkot, the holiday of hospitality.",
+  "text": "Have a sukkah? Invite someone who has none. No sukkah? Today there is still time to help someone build one."
+ },
+ "joke": {
+  "fits": "Building the sukkah today.",
+  "setup": "Why does the sukkah never complain about the flat?",
+  "punchline": "It has a roof with a view of the stars, and neighbours only one week a year."
+ },
+ "riddle": {
+  "fits": "Building the sukkah today.",
+  "riddle": "I have walls but no door, a roof you can see the stars through, and I stand for only a week. What am I?",
+  "hint": "You build me today.",
+  "answer": "A sukkah."
+ }
+}

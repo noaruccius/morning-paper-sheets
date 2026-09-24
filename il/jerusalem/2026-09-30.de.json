@@ -1,0 +1,16 @@
+{
+ "country": "IL",
+ "date": "2026-09-30",
+ "language": "de",
+ "city": "jerusalem",
+ "funFact": {
+  "fits": "Der Stein, der das Gesicht der Stadt bestimmt.",
+  "statement": "In Jerusalem muss jedes Gebäude mit örtlichem Stein verkleidet sein.",
+  "answer": true,
+  "reveal": "Eine britische Vorschrift von 1918, bis heute gültig. Deshalb hat die ganze Stadt eine Farbe, gold im Abendlicht, und der Stein trägt ihren Namen.",
+  "source": {
+   "name": "Wikipedia: Jerusalemer Stein",
+   "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%9F_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%AA"
+  }
+ }
+}

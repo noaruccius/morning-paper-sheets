@@ -1,0 +1,83 @@
+{
+ "country": "IL",
+ "date": "2026-09-26",
+ "language": "en",
+ "lookForward": {
+  "fits": "The first day of Sukkot 5787 falls on Shabbat; the lulav is first taken on Sunday 27 September.",
+  "headline": "Tomorrow: lulav and etrog, for the first time this year",
+  "line": "The four species, a palm frond, a citron, myrtle and willow, are waved during morning prayers every day of Sukkot except Shabbat. The holiday fell on Shabbat, so it starts tomorrow. This morning: sukkah, a meal, a nap. Allowed.",
+  "source": {
+   "name": "Hebcal: Sukkot",
+   "url": "https://www.hebcal.com/holidays/sukkot"
+  }
+ },
+ "goodThing": {
+  "fits": "Peak bird migration; Israel’s national bird was chosen by public vote.",
+  "headline": "A whole country chose itself a bird",
+  "big": "155,000 voters",
+  "line": "In 2008, for the state’s sixtieth birthday, Israelis voted for a national bird. The hoopoe won with 35 percent. President Peres announced it.",
+  "source": {
+   "name": "Israel Nature and Parks Authority: National animals",
+   "url": "https://www.parks.org.il/new/national-animals/"
+  }
+ },
+ "onThisDay": {
+  "fits": "26 September 1892: the Jaffa–Jerusalem railway, the first in the country, was inaugurated.",
+  "year": 1892,
+  "headline": "The country’s first train ran from Jaffa to Jerusalem",
+  "line": "The Jaffa–Jerusalem railway was officially opened. The trip took about four hours instead of a full day by cart. The country shrank overnight.",
+  "source": {
+   "name": "Wikipedia: Jaffa–Jerusalem railway",
+   "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%99%D7%9C%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%99%D7%A4%D7%95%E2%80%93%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D"
+  }
+ },
+ "funFact": {
+  "fits": "The intermediate days begin tomorrow; the Dead Sea is the classic trip.",
+  "statement": "The lowest place on dry land in the world is in Israel.",
+  "answer": true,
+  "reveal": "The Dead Sea shore, about 430 metres below sea level. More oxygen in the air, less sunburn. An hour from Jerusalem.",
+  "source": {
+   "name": "Wikipedia: Dead Sea",
+   "url": "https://he.wikipedia.org/wiki/%D7%99%D7%9D_%D7%94%D7%9E%D7%9C%D7%97"
+  }
+ },
+ "calmRead": {
+  "fits": "First day of Sukkot; the four species taken from tomorrow.",
+  "title": "Why exactly four",
+  "teaser": "Palm, citron, myrtle, willow. Four different plants, and one story about people.",
+  "paragraphs": [
+   "Tomorrow morning, for the first time this year, hundreds of thousands of people will hold in one hand a long palm frond, three sprigs of myrtle and two of willow, and in the other a citron, and wave them in six directions. From outside it looks strange. From inside it is one of the loveliest explanations there is of why people need each other.",
+   "The ancient midrash explains it like this: the citron has taste and also scent. The date palm has taste but no scent. Myrtle has scent and no taste. And the willow has neither. Taste is learning, scent is good deeds. Some people have both, some have one, and some have neither.",
+   "And what do you do? You bind them all together. The blessing is not said over a citron alone, however perfect. It is said only when all four are held together, including the willow that has nothing. Without the willow, there is no commandment.",
+   "And the reverse is true too: the citron, beautiful and fragrant, is worth nothing on its own. The blessing is said over the bundle, not the individual. There are days when it is easy to feel like a willow. On such a day it is worth remembering that without the willow there is no bundle.",
+   "There is something in this that is easy to forget the rest of the year: a whole group is not a group of the perfect. It is everyone who is there, bound together, waving in the same directions.",
+   "So tomorrow, if you see someone with a lulav in the street, that is what they are holding: not four plants. A reminder."
+  ],
+  "source": {
+   "name": "The Western Wall: Sukkot",
+   "url": "https://thekotel.org/he/144229/11/"
+  }
+ },
+ "word": {
+  "fits": "First day of Sukkot; taken from tomorrow.",
+  "word": "Lulav",
+  "language": "Hebrew",
+  "pronunciation": "loo-LAV",
+  "meaning": "The young, closed frond of the date palm, before its leaves open. From the word for heart, they say: the branch that is still all heart."
+ },
+ "kindness": {
+  "fits": "Shabbat and a holiday: a day when lonely people are especially lonely.",
+  "text": "A holiday and Shabbat together. Someone you know is sitting alone today. A ten-minute call is worth more than you think."
+ },
+ "joke": {
+  "fits": "Lulav and etrog tomorrow.",
+  "setup": "Why does the lulav always stand up straight?",
+  "punchline": "It knows the etrog next to it is watching."
+ },
+ "riddle": {
+  "fits": "The four species.",
+  "riddle": "We are four, completely different, and the blessing is said over us only when we are together. Who are we?",
+  "hint": "One of us is yellow.",
+  "answer": "The four species: lulav, etrog, myrtle and willow."
+ }
+}

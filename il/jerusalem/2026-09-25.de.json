@@ -1,0 +1,25 @@
+{
+ "country": "IL",
+ "date": "2026-09-25",
+ "language": "de",
+ "city": "jerusalem",
+ "lookForward": {
+  "fits": "Vorabend von Sukkot in Jerusalem: Das Fest beginnt um 17:52.",
+  "headline": "Das Fest beginnt heute Abend um 17:52",
+  "line": "In Jerusalem werden die Kerzen vierzig Minuten vor Sonnenuntergang gezündet, früher als überall sonst im Land. Laubhütten auf jedem Balkon, Stein, der die Wärme des Tages zurückgibt, und ein erster Abend draußen ohne Pullover. Fast.",
+  "source": {
+   "name": "Hebcal: Kerzenzünden in Jerusalem",
+   "url": "https://www.hebcal.com/shabbat?geonameid=281184"
+  }
+ },
+ "onThisDay": {
+  "fits": "25. September 2018: Die Schnellbahn von Jerusalem zum Flughafen wurde für Fahrgäste eröffnet.",
+  "year": 2018,
+  "headline": "Die Schnellbahn aus Jerusalem fuhr los",
+  "line": "Vom Bahnhof Navon, hundert Meter unter der Straße, in zwanzig Minuten zum Flughafen. In den ersten Monaten kostenlos. Ein Jahr später erreichte sie Tel Aviv.",
+  "source": {
+   "name": "mynet Jerusalem: Die Schnellbahn nimmt den Betrieb auf",
+   "url": "https://jerusalem.mynet.co.il/local_news/article/m_316215"
+  }
+ }
+}
