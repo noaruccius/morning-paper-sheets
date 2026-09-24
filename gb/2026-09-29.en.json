@@ -1,0 +1,67 @@
+{
+ "country": "GB",
+ "date": "2026-09-29",
+ "language": "en",
+ "lookForward": {
+  "fits": "Michaelmas, 29 September: quarter day, goose day, the start of the law and university year.",
+  "headline": "Michaelmas today",
+  "line": "The old quarter day. Rents were paid, geese were eaten and the Oxford term began. The blackberries are now the devil's. The law courts open on Thursday."
+ },
+ "onThisDay": {
+  "fits": "29 September 1829: the first constables of the Metropolitan Police went on patrol in London.",
+  "year": 1829,
+  "headline": "The first bobbies walked out onto London’s streets",
+  "line": "A thousand men in blue tailcoats and top hats, at six in the evening. Peel’s idea: prevent crime, not just punish it.",
+  "source": {
+   "name": "Historic UK: Sir Robert Peel and his bobbies",
+   "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Sir-Robert-Peel/"
+  }
+ },
+ "funFact": {
+  "fits": "Michaelmas.",
+  "statement": "Eating goose on Michaelmas was said to keep you in money for a year.",
+  "answer": true,
+  "reveal": "An old English saying. Geese were fat from the stubble fields, and the rent was due the same day. Convenient.",
+  "source": {
+   "name": "National Geographic: Michaelmas folklore",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the first police force, London, 1829.",
+  "title": "A thousand men in top hats",
+  "teaser": "The police were invented in London on this evening in 1829, designed to look unlike soldiers.",
+  "paragraphs": [
+   "At six o'clock on the evening of 29 September 1829, about a thousand men walked out of stations across London wearing blue tailcoats and top hats and carrying nothing but a wooden rattle and a short stick. Nobody had seen anything like them. Within a year everyone had a name for them: bobbies, or peelers, after Robert Peel, the Home Secretary who had spent years persuading Parliament to let him try.",
+   "The idea was new. Until then London was watched by parish constables, private thief-takers and, when things got bad, the army. Peel wanted something else: a force whose success was measured by the absence of crime, not by the number of arrests. His men were told to be civil, to use as little force as possible, and to remember that they were members of the public who happened to be paid to do full-time what every citizen was supposed to do.",
+   "The uniform was deliberate. Blue, not red, because red was the army. A top hat, because gentlemen wore top hats. No swords, no guns. Londoners were suspicious of them for years, and the first constable killed on duty, Joseph Grantham, died in 1830. But the murder rate fell, the riots got smaller, and by the 1850s every town in Britain had been told to set up a force of its own.",
+   "Peel's principles are still printed in police training manuals around the world. The one most quoted: the police are the public and the public are the police."
+  ],
+  "source": {
+   "name": "Historic UK: Sir Robert Peel and his bobbies",
+   "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Sir-Robert-Peel/"
+  }
+ },
+ "word": {
+  "fits": "The first police, today in 1829.",
+  "word": "Bobby",
+  "language": "English",
+  "pronunciation": "BOB-ee",
+  "meaning": "A police officer, after Robert Peel, who invented them. The affectionate version. The other version, peeler, did not survive."
+ },
+ "kindness": {
+  "fits": "Michaelmas, the old rent day.",
+  "text": "Settle something small you owe today: a fiver, a favour, a thank-you. It is the old quarter day. Start the quarter clean."
+ },
+ "joke": {
+  "fits": "Michaelmas goose.",
+  "setup": "Why was the goose nervous on Michaelmas?",
+  "punchline": "Everyone kept saying it looked prosperous."
+ },
+ "riddle": {
+  "fits": "The first police.",
+  "riddle": "I wore a top hat, carried a rattle, and walked out at six o'clock in 1829. What was I?",
+  "hint": "Named after Robert.",
+  "answer": "A bobby, one of the first police constables."
+ }
+}

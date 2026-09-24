@@ -1,0 +1,35 @@
+{
+ "country": "GB",
+ "date": "2026-09-28",
+ "language": "en",
+ "lookForward": {
+  "fits": "National Poetry Day is Thursday 1 October 2026.",
+  "headline": "National Poetry Day on Thursday",
+  "line": "Poems on the radio, in schools and stuck to lampposts. Find one you liked at fourteen and read it again on Thursday. It has probably improved."
+ },
+ "onThisDay": {
+  "fits": "28 September 1928: Alexander Fleming discovered penicillin at St Mary's Hospital, London.",
+  "year": 1928,
+  "headline": "Penicillin was discovered in a London hospital, by accident",
+  "line": "Fleming returned to St Mary’s, Paddington, to a mouldy dish with a clear ring where bacteria had died. He looked instead of washing up.",
+  "source": {
+   "name": "The Nobel Prize: Alexander Fleming",
+   "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+  }
+ },
+ "kindness": {
+  "fits": "Monday; Poetry Day on Thursday.",
+  "text": "Write four lines for someone this week. They do not have to rhyme. They have to be about them."
+ },
+ "joke": {
+  "fits": "Fleming's dirty dish.",
+  "setup": "What did Fleming say to the mouldy dish?",
+  "punchline": "You're not going in the sink. You're going to Stockholm."
+ },
+ "riddle": {
+  "fits": "Penicillin.",
+  "riddle": "I grew on a forgotten dish in London, and I have saved more lives than any doctor. What am I?",
+  "hint": "Green and fuzzy.",
+  "answer": "Penicillin mould."
+ }
+}

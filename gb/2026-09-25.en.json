@@ -1,0 +1,77 @@
+{
+ "country": "GB",
+ "date": "2026-09-25",
+ "language": "en",
+ "lookForward": {
+  "fits": "The Harvest Moon is full on Saturday 26 September 2026 and rises near Saturn.",
+  "headline": "Harvest Moon tomorrow evening",
+  "line": "The full moon nearest the equinox. It rises at sunset for several nights running, huge and orange, with Saturn beside it. Look east after tea."
+ },
+ "goodThing": {
+  "fits": "Late September: red kites are everywhere over southern England; they were nearly extinct here in 1989.",
+  "headline": "The bird that came back from a dozen pairs",
+  "big": "4,400 pairs",
+  "line": "In 1989 they survived only in a corner of Wales. Chicks were released in the Chilterns. Now they hang over half of England.",
+  "source": {
+   "name": "British Birds: The Red Kite reintroduction, 30 years on",
+   "url": "https://britishbirds.co.uk/journal/article/bb-eye-red-kite-reintroduction-30-years"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 1956: the first transatlantic telephone cable, from Oban in Scotland to Newfoundland, opened.",
+  "year": 1956,
+  "headline": "The first Atlantic phone cable started at Oban",
+  "line": "From a small Scottish town to Newfoundland: 36 calls at once. Before it, a call to America went by radio, when it went at all.",
+  "source": {
+   "name": "Science Museum Group: specimen of the first transatlantic telephone cable",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co33334/specimen-of-the-first-transatlantic-telephone-cable-1956"
+  }
+ },
+ "funFact": {
+  "fits": "A British record.",
+  "statement": "The world's shortest scheduled flight is in Scotland and takes about ninety seconds.",
+  "answer": true,
+  "reveal": "Westray to Papa Westray in Orkney, 2.7 kilometres. Take-off to landing in under two minutes; 53 seconds on a good day.",
+  "source": {
+   "name": "Loganair: Orkney inter-isles flights",
+   "url": "https://www.loganair.co.uk/discover/orkney-inter-isles/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's good news: red kites.",
+  "title": "Look up on the motorway",
+  "teaser": "Thirty-seven years ago a few Swedish chicks were let go in the Chilterns. Now there are thousands.",
+  "paragraphs": [
+   "Next time you are a passenger on the M40 through the Chilterns, look up. Above the cutting, almost always, there is a large bird with a forked tail hanging in the air, tilting, not flapping. That is a red kite, and in 1989 you would have had to drive to mid-Wales to see one.",
+   "Kites were once as common as crows in British towns. Shakespeare mentions them stealing washing. Then gamekeepers and egg collectors got to work, and by the twentieth century a few dozen pairs were left in the Welsh hills. In 1989 the RSPB and the government tried something new: they took chicks from Sweden and Spain, reared them in pens in the Chilterns and the Black Isle, and opened the doors.",
+   "It worked faster than anyone expected. The first wild-hatched chicks flew in 1992. By 1996 there were 37 pairs in southern England. Today there are thought to be around 4,400 pairs across Britain, and the Chiltern birds have been used to seed Yorkshire, the Midlands and beyond. The population grew by more than two thousand percent in under thirty years.",
+   "A kite is not a fierce hunter. It eats worms, carrion and whatever it can pick up, which is why it hangs over roads. It is a scavenger with a beautiful tail, and it is one of the best things British conservation has ever done."
+  ],
+  "source": {
+   "name": "British Birds: The Red Kite reintroduction, 30 years on",
+   "url": "https://britishbirds.co.uk/journal/article/bb-eye-red-kite-reintroduction-30-years"
+  }
+ },
+ "word": {
+  "fits": "Autumn weather, Scottish word.",
+  "word": "Smirr",
+  "language": "Scots",
+  "pronunciation": "SMIRR",
+  "meaning": "Fine, drifting drizzle, too light to be rain and too wet to ignore. The kind you walk through without an umbrella and arrive soaked anyway."
+ },
+ "kindness": {
+  "fits": "Friday.",
+  "text": "Leave work on time today and walk the long way home. Say good evening to three people. It is Friday; that counts."
+ },
+ "joke": {
+  "fits": "Red kites and the shortest flight.",
+  "setup": "Why did the red kite refuse the Orkney flight?",
+  "punchline": "Ninety seconds? It could hang there longer than that without trying."
+ },
+ "riddle": {
+  "fits": "The shortest flight.",
+  "riddle": "I take off, I land, and you barely have time to be nervous. What am I?",
+  "hint": "Orkney.",
+  "answer": "The Westray to Papa Westray flight."
+ }
+}

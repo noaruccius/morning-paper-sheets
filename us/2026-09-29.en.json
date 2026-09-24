@@ -1,0 +1,35 @@
+{
+ "country": "US",
+ "date": "2026-09-29",
+ "language": "en",
+ "lookForward": {
+  "fits": "Fat Bear Week champion crowned today, 29 September 2026.",
+  "headline": "Fat Bear Week champion crowned today",
+  "line": "The final vote closes and Katmai names its fattest bear. The winner gets nothing and needs nothing. It has a den to get to."
+ },
+ "funFact": {
+  "fits": "Fat Bear Week champion.",
+  "statement": "A Katmai bear can lose a third of its weight in hibernation.",
+  "answer": true,
+  "reveal": "Five months without food or water, living on fat. In at a thousand pounds, out at seven hundred. The fatter, the safer.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  }
+ },
+ "kindness": {
+  "fits": "Tuesday; a bear wins for being well fed.",
+  "text": "Feed someone today. Bring lunch for a colleague, or cook for the person who usually cooks."
+ },
+ "joke": {
+  "fits": "Fat Bear champion.",
+  "setup": "What did the Fat Bear champion say in its acceptance speech?",
+  "punchline": "Nothing. It was asleep by November."
+ },
+ "riddle": {
+  "fits": "Fat Bear Week.",
+  "riddle": "The rounder I am, the more likely I am to see spring. What am I?",
+  "hint": "Alaska.",
+  "answer": "A brown bear before hibernation."
+ }
+}

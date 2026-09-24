@@ -1,0 +1,16 @@
+{
+ "country": "US",
+ "date": "2026-09-24",
+ "language": "en",
+ "city": "new-york",
+ "funFact": {
+  "fits": "New York's subway, which never closes.",
+  "statement": "The New York subway has over 400 stations and never closes.",
+  "answer": true,
+  "reveal": "472 stations, 665 miles of track, 24 hours a day, every day. Few systems in the world never close. This is the biggest.",
+  "source": {
+   "name": "MTA: How to ride the subway",
+   "url": "https://www.mta.info/guides/riding-the-subway"
+  }
+ }
+}

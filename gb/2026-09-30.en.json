@@ -1,0 +1,60 @@
+{
+ "country": "GB",
+ "date": "2026-09-30",
+ "language": "en",
+ "lookForward": {
+  "fits": "October starts tomorrow; Black History Month in the UK and National Poetry Day on Thursday.",
+  "headline": "October tomorrow: poems on Thursday, leaves all month",
+  "line": "The beeches go gold first, then the maples, then the oaks in late October. Black History Month begins tomorrow and National Poetry Day is Thursday."
+ },
+ "onThisDay": {
+  "fits": "30 September 2024: Britain's last coal-fired power station closed.",
+  "year": 2024,
+  "headline": "Britain switched off coal for good",
+  "line": "Ratcliffe-on-Soar shut down, the last of them. The country that lit the first coal power station in 1882 was first to close its last.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "funFact": {
+  "fits": "Two years since coal power ended.",
+  "statement": "Britain built the world's first coal-fired public power station.",
+  "answer": true,
+  "reveal": "Holborn Viaduct, London, 1882, lighting the street lamps. 142 years later, the last coal station closed. Both firsts.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the end of coal power in Britain, two years ago today.",
+  "title": "The last shift at Ratcliffe",
+  "teaser": "Two years ago tonight the country that invented coal power turned it off.",
+  "paragraphs": [
+   "At the end of the evening shift on 30 September 2024, the staff at Ratcliffe-on-Soar power station in Nottinghamshire shut down the last coal-burning unit in Britain. The eight cooling towers by the M1, a landmark to every driver heading north, went cold. There was a small ceremony, some tears, and then a silence that had not been heard in this country since Queen Victoria.",
+   "Coal power began here. In January 1882 the Edison company lit the street lamps of Holborn Viaduct in London from a coal-fired generator, the first public power station in the world. For a century after that, coal was Britain: the pits, the strikes, the smog, the trains. As late as 2012 it still made two fifths of the country's electricity.",
+   "Then it fell off a cliff. Gas got cheaper, wind farms went up in the North Sea, a carbon price made coal expensive, and the government set a date. By 2020 coal made under two percent. Ratcliffe, opened in 1967, ran its four units together for the last time in January 2024 and took its final delivery of coal in June.",
+   "Britain was the first major economy to stop, and it did so without the lights going out. The station is being demolished; the plan is to build something new on the site. The cooling towers will go. Drivers on the M1 will notice a gap, for a while."
+  ],
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "kindness": {
+  "fits": "Last day of September.",
+  "text": "Say thank you to whoever kept the lights on for you this month. The engineer, the cleaner, the person who filled the kettle."
+ },
+ "joke": {
+  "fits": "The end of coal.",
+  "setup": "What did the last coal station say when it closed?",
+  "punchline": "I had a good run. About 142 years. Time to cool off."
+ },
+ "riddle": {
+  "fits": "October tomorrow.",
+  "riddle": "I turn gold, I let go, and I am the reason you sweep the path in November. What am I?",
+  "hint": "Beech first.",
+  "answer": "A leaf."
+ }
+}

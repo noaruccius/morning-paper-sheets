@@ -1,0 +1,67 @@
+{
+ "country": "US",
+ "date": "2026-09-30",
+ "language": "en",
+ "lookForward": {
+  "fits": "October begins tomorrow; peak fall color in northern New England in early October.",
+  "headline": "October tomorrow: the leaves are turning north of you",
+  "line": "Northern Maine, Vermont and the Adirondacks peak in the first week of October, then the color rolls south a hundred miles a week."
+ },
+ "onThisDay": {
+  "fits": "30 September 1882: the first hydroelectric power plant in the US began operating on the Fox River in Appleton, Wisconsin.",
+  "year": 1882,
+  "headline": "A river lit a house for the first time",
+  "line": "In Appleton, Wisconsin, a water wheel on the Fox River turned an Edison dynamo and lit two paper mills and a home.",
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "funFact": {
+  "fits": "The first hydro plant, today in 1882.",
+  "statement": "The first hydroelectric plant in America powered a whole town.",
+  "answer": false,
+  "reveal": "It lit two paper mills and the owner’s house, about twelve kilowatts. Hydro now makes about six percent of US electricity.",
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the first hydroelectric plant, Appleton, 1882.",
+  "title": "The night the river turned on the lights",
+  "teaser": "Twenty-six days after Edison lit Manhattan, a paper-mill owner in Wisconsin did it with water.",
+  "paragraphs": [
+   "H. J. Rogers owned a paper mill on the Fox River in Appleton, Wisconsin, and he had read about Thomas Edison. In the summer of 1882 he bought one of Edison's new dynamos, the kind meant to be turned by a steam engine, and did something Edison had not tried. He hooked it to the water wheel that already drove his mill.",
+   "On the evening of 30 September 1882 it worked. The dynamo lit the mill, a second mill down the river, and Rogers's own house, a big stone place called Hearthstone that still stands. About twelve kilowatts, enough for a few hundred of Edison's new bulbs. It was the first hydroelectric central station in the United States, and it came online just twenty-six days after Edison's coal-fired Pearl Street plant in New York.",
+   "The early months were comic. When the river ran fast the lights burned too bright and popped; when it ran slow they dimmed to orange. There was no regulator. Rogers's wife is said to have complained that the lamps in the parlor flickered whenever the mill upstream started a machine. But it was cheaper than steam, and it needed no coal.",
+   "Today about six percent of American electricity comes from falling water, and the great dams of the West, Hoover and Grand Coulee, are its grandchildren. They all descend from a paper mill, a water wheel and a man who read the newspaper."
+  ],
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "word": {
+  "fits": "Fall color.",
+  "word": "Foliage",
+  "language": "English",
+  "pronunciation": "FOH-lee-ij",
+  "meaning": "Leaves, all of them together. In New England in October it is a season, an industry and a reason to sit in traffic on a country road."
+ },
+ "kindness": {
+  "fits": "Last day of September.",
+  "text": "Book the leaf drive now, with someone who has never seen a New England October. It goes fast."
+ },
+ "joke": {
+  "fits": "The first hydro plant.",
+  "setup": "Why did the first hydroelectric lights keep flickering?",
+  "punchline": "The river had not read the manual."
+ },
+ "riddle": {
+  "fits": "October tomorrow.",
+  "riddle": "I am red in Vermont, gold in Colorado, and gone by Thanksgiving. What am I?",
+  "hint": "Peak next week.",
+  "answer": "Fall foliage."
+ }
+}

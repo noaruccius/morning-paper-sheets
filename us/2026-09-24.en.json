@@ -1,0 +1,77 @@
+{
+ "country": "US",
+ "date": "2026-09-24",
+ "language": "en",
+ "lookForward": {
+  "fits": "Fat Bear Week 2026 at Katmai National Park, voting 22 to 29 September, champion crowned Tuesday.",
+  "headline": "Fat Bear Week: vote by Tuesday",
+  "line": "Katmai's brown bears have spent the summer eating salmon and are now magnificently round. The public picks the fattest at fatbearweek.org. The champion is crowned Tuesday."
+ },
+ "goodThing": {
+  "fits": "September and October are monarch butterfly migration months across the eastern United States.",
+  "headline": "Monarchs are flying to Mexico right now",
+  "big": "3,000 miles",
+  "line": "Butterflies lighter than a paperclip are riding cold fronts south, up to 80 miles a day, to the mountain forests their great-grandparents left in spring.",
+  "source": {
+   "name": "U.S. Fish & Wildlife Service: Five super stops on the monarch migration trail",
+   "url": "https://www.fws.gov/story/five-super-stops-monarch-migration-trail"
+  }
+ },
+ "onThisDay": {
+  "fits": "24 September 1789: President Washington signed the Judiciary Act, creating the Supreme Court.",
+  "year": 1789,
+  "headline": "The Supreme Court was created, with six judges",
+  "line": "Washington signed the Judiciary Act and nominated John Jay as Chief Justice the same day. Six justices then, nine now.",
+  "source": {
+   "name": "United States Courts: Celebrating 230 years of U.S. courts",
+   "url": "https://www.uscourts.gov/data-news/judiciary-news/2019/09/24/celebrating-230-years-us-courts"
+  }
+ },
+ "funFact": {
+  "fits": "Fat Bear Week.",
+  "statement": "A Katmai bear can eat 40 salmon in a day.",
+  "answer": true,
+  "reveal": "A big male at Brooks Falls eats dozens a day at the peak. By winter he may weigh a thousand pounds. Then he sleeps.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's look-forward: Fat Bear Week at Katmai.",
+  "title": "The most honest contest in America",
+  "teaser": "Every autumn, Alaska's bears compete for a title they know nothing about.",
+  "paragraphs": [
+   "On a river in southern Alaska, brown bears stand at the top of a small waterfall and catch salmon in their mouths as the fish leap upstream. They have done this for thousands of years. Since 2014, a webcam has watched them, and once a year the internet votes on which bear has got fattest. This is Fat Bear Week, and it is the best thing the National Park Service does.",
+   "The fat is not vanity. A Katmai bear must put on enough weight between June and October to sleep through an Alaskan winter without eating or drinking. A big male can go into his den at over a thousand pounds and come out in spring a third lighter. Fat is survival, and the fattest bear is the one who has done the year's work best.",
+   "So every September, Katmai's rangers pick a dozen bears, post before-and-after photos, and the public votes in a bracket, two bears at a time, until one is crowned on the last Tuesday of the month. Voters argue about the bears by number and nickname. Past champions have included a bear called Otis, who won four times by doing almost nothing but sitting in the best spot, and a mother bear called Grazer who beat the biggest male in the river.",
+   "The bears are unaware of all this. They keep fishing. That is the point of it, really: a contest with no losers, judged by strangers, where the prize is winter."
+  ],
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  }
+ },
+ "word": {
+  "fits": "The first cool rain of the fall.",
+  "word": "Petrichor",
+  "language": "English",
+  "pronunciation": "PET-ri-kor",
+  "meaning": "The smell of rain on dry ground. Coined in 1964 from the Greek for stone and for the blood of the gods. Fall's first cold front brings it."
+ },
+ "kindness": {
+  "fits": "Monarchs migrating.",
+  "text": "Leave the last flowers in your garden standing this week. A monarch on its way to Mexico needs the fuel."
+ },
+ "joke": {
+  "fits": "Fat Bear Week.",
+  "setup": "How does a Katmai bear prepare for winter?",
+  "punchline": "Salmon, salmon, salmon, nap. Same as a Sunday, only longer."
+ },
+ "riddle": {
+  "fits": "Fat Bear Week.",
+  "riddle": "I win by eating, I lose nothing, and I sleep through the celebration. What am I?",
+  "hint": "Katmai.",
+  "answer": "A Fat Bear Week champion."
+ }
+}

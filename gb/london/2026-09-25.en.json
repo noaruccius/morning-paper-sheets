@@ -1,0 +1,16 @@
+{
+ "country": "GB",
+ "date": "2026-09-25",
+ "language": "en",
+ "city": "london",
+ "funFact": {
+  "fits": "London's trees, as the leaves begin to turn.",
+  "statement": "London has roughly one tree for every person living in it.",
+  "answer": true,
+  "reveal": "About 8.4 million trees for 8.6 million people, a fifth in private gardens. By the UN definition, the city is a forest.",
+  "source": {
+   "name": "Greater London Authority: Trees and woodlands",
+   "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/parks-green-spaces-and-biodiversity/trees-and-woodlands"
+  }
+ }
+}

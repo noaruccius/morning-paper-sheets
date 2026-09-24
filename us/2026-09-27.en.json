@@ -1,0 +1,67 @@
+{
+ "country": "US",
+ "date": "2026-09-27",
+ "language": "en",
+ "lookForward": {
+  "fits": "Fat Bear Week voting ends Tuesday 29 September 2026.",
+  "headline": "Two days left to vote for a bear",
+  "line": "The Fat Bear bracket closes Tuesday. Pick a bear, argue with a stranger about it, and watch the live cam while the salmon last."
+ },
+ "onThisDay": {
+  "fits": "27 September 1908: the first Model T left the Piquette Avenue plant in Detroit.",
+  "year": 1908,
+  "headline": "The first Model T rolled out of Detroit",
+  "line": "Car number one, from Ford’s Piquette Avenue plant. Fifteen million followed. The first car ordinary families could afford.",
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "funFact": {
+  "fits": "The Model T anniversary.",
+  "statement": "The Model T was only ever sold in black.",
+  "answer": false,
+  "reveal": "The first ones came in grey, green, blue and red. Black became the only colour in 1914, because it dried fastest on the line.",
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the Model T, 1908.",
+  "title": "The car that emptied the farms",
+  "teaser": "On this day in 1908 the first Model T left Detroit. America changed shape.",
+  "paragraphs": [
+   "The car that rolled out of the Piquette Avenue plant on 27 September 1908 did not look like a revolution. It was tall and thin, with brass lamps and wooden wheels, and it cost 825 dollars, about what a teacher earned in a year. But it had one idea in it that no car had had before: it was built to be built cheaply, by the thousand, so that farmers could buy it.",
+   "Henry Ford had grown up on a farm in Michigan and hated the work. His Model T was made for mud roads: high off the ground, simple to fix with a wrench and a hammer, and light enough to be pulled out of a ditch by a horse. Farmers used it to get to town, to power saws and pumps off the back wheel, and, when the roads were too bad, to drive along the railroad tracks.",
+   "In 1913 Ford moved production to a new plant with a moving assembly line, and the price fell every year: 550 dollars, 440, 290. By 1927 fifteen million had been sold, and half the cars on earth were Model Ts. Black became the only colour in 1914 because black paint dried fastest.",
+   "What it changed was distance. A farm family that had seen town twice a year now saw it every week. Rural schools consolidated, country doctors made calls, young people left. The suburbs, the road trip, the drive-in and the parking lot all start with car number one, on this day, in Detroit."
+  ],
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "word": {
+  "fits": "The Model T.",
+  "word": "Jalopy",
+  "language": "American English",
+  "pronunciation": "juh-LOP-ee",
+  "meaning": "An old, battered car that still runs. Nobody knows where the word came from; it appeared in the 1920s, when the first Model Ts got old."
+ },
+ "kindness": {
+  "fits": "Sunday.",
+  "text": "Drive someone somewhere today who cannot drive themselves. Or offer to. The offer is most of it."
+ },
+ "joke": {
+  "fits": "Model T.",
+  "setup": "Why did the Model T never get lost?",
+  "punchline": "There was only one road. And it was mud."
+ },
+ "riddle": {
+  "fits": "Model T.",
+  "riddle": "I came in colours, then only black, and fifteen million of me changed where you live. What am I?",
+  "hint": "Detroit, 1908.",
+  "answer": "The Model T Ford."
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "country": "GB",
+ "date": "2026-09-28",
+ "language": "en",
+ "city": "london",
+ "funFact": {
+  "fits": "Penicillin was found in Paddington, today in 1928.",
+  "statement": "The laboratory where penicillin was discovered is still there, above a London hospital.",
+  "answer": true,
+  "reveal": "Fleming’s lab at St Mary’s Hospital, Paddington, is a small museum: the dish, the window, the desk. On Praed Street.",
+  "source": {
+   "name": "The Nobel Prize: Alexander Fleming",
+   "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+  }
+ }
+}

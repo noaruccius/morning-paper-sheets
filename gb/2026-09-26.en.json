@@ -1,0 +1,77 @@
+{
+ "country": "GB",
+ "date": "2026-09-26",
+ "language": "en",
+ "lookForward": {
+  "fits": "The Harvest Moon is full today, Saturday 26 September 2026, rising near Saturn at dusk.",
+  "headline": "Harvest Moon tonight",
+  "line": "Full this afternoon, rising in the east at sunset with Saturn beside it. It looks enormous near the horizon. A trick of the eye, and a good one."
+ },
+ "goodThing": {
+  "fits": "Late summer is seal counting season on the Thames; the river was declared biologically dead in 1957.",
+  "headline": "The Thames has thousands of seals",
+  "big": "3,600+",
+  "line": "About 2,900 grey and 800 harbour seals live in the estuary, counted by the Zoological Society each August. In 1957 the river was declared biologically dead.",
+  "source": {
+   "name": "ZSL: Thames Marine Mammal Conservation",
+   "url": "https://www.zsl.org/what-we-do/projects/thames-marine-mammal-conservation"
+  }
+ },
+ "onThisDay": {
+  "fits": "26 September 1934: the Queen Mary was launched at Clydebank.",
+  "year": 1934,
+  "headline": "The Queen Mary slid into the Clyde",
+  "line": "Britain’s biggest ship, launched at John Brown’s yard with the King watching. Thirty years on the Atlantic. Now a hotel in California.",
+  "source": {
+   "name": "Clyde Naval Heritage: The Queen Mary",
+   "url": "https://clydenaval.org/the-queen-mary/"
+  }
+ },
+ "funFact": {
+  "fits": "Britain's national bird, chosen by public vote.",
+  "statement": "Britain chose a national bird by public vote, and the robin won.",
+  "answer": true,
+  "reveal": "In 2015, 224,000 people voted. The robin took 34 percent, the barn owl 12, the blackbird 11. Nobody made it official.",
+  "source": {
+   "name": "British Birds: Robin voted Britain's national bird",
+   "url": "https://britishbirds.co.uk/journal/article/robin-voted-britains-national-bird"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's good news: the seals of the Thames.",
+  "title": "The river that came back to life",
+  "teaser": "Sixty years ago the Thames was declared dead. Now seals sunbathe on its sandbanks.",
+  "paragraphs": [
+   "In 1957 scientists from the Natural History Museum tested the Thames through London and found nothing alive in it. No fish, almost no oxygen, a smell that made MPs hang wet sheets over the windows of Parliament. They declared the river biologically dead. It was not an exaggeration.",
+   "What changed was slow and unglamorous: sewage works were rebuilt, factories were made to clean what they poured in, and the tide did the rest. Fish came first, then birds to eat the fish. By the 1990s there were salmon again. Then, in the 2000s, people on the Thames path began reporting something that looked like a dog with no ears watching them from the water.",
+   "Seals. Two kinds: harbour seals, smaller, with a face like a spaniel, and grey seals, bigger, with a nose like a horse. Every August, when the harbour seals haul out to moult, the Zoological Society of London counts them from boats, from the shore and from the air, between Felixstowe and Deal. The latest count found about 800 harbour seals and 2,900 grey ones. They have been seen as far up as Richmond.",
+   "Numbers go up and down; the last count was a little lower than 2019, and the scientists watch the trend rather than the year. But the direction over sixty years is not in doubt. A river that had nothing in it now has enough fish to feed three and a half thousand seals."
+  ],
+  "source": {
+   "name": "ZSL: Thames Marine Mammal Conservation",
+   "url": "https://www.zsl.org/what-we-do/projects/thames-marine-mammal-conservation"
+  }
+ },
+ "word": {
+  "fits": "Autumn sea fog on the east coast.",
+  "word": "Haar",
+  "language": "Scots and Northern English",
+  "pronunciation": "HAR",
+  "meaning": "The cold sea fog that rolls in off the North Sea and swallows a coastal town in minutes, on a day that was sunny inland."
+ },
+ "kindness": {
+  "fits": "Saturday.",
+  "text": "Take someone to see the moon rise tonight. It costs nothing, it is huge, and they will remember it."
+ },
+ "joke": {
+  "fits": "The seals of the Thames.",
+  "setup": "Why do the Thames seals never get lost?",
+  "punchline": "They just follow the river. It has been going the same way for a while."
+ },
+ "riddle": {
+  "fits": "The Harvest Moon.",
+  "riddle": "I am full tonight, I rise as the sun sets, and I look bigger than I am. What am I?",
+  "hint": "Saturn is next to me.",
+  "answer": "The Harvest Moon."
+ }
+}

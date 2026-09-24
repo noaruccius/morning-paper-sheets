@@ -1,0 +1,77 @@
+{
+ "country": "GB",
+ "date": "2026-09-24",
+ "language": "en",
+ "lookForward": {
+  "fits": "The red deer rut runs through late September and October in Britain's deer parks.",
+  "headline": "The stags are starting to roar",
+  "line": "In deer parks across the country the red stags are bellowing and locking antlers. Go at dawn, keep fifty metres back, and leave the dog at home."
+ },
+ "goodThing": {
+  "fits": "In 2025 England licensed wild beaver releases for the first time in 400 years; autumn is when they build.",
+  "headline": "Beavers are back in the wild in England",
+  "big": "After 400 years",
+  "line": "Licensed wild releases began in 2025; the first pairs went into Purbeck. Their dams slow floods and hold water in droughts.",
+  "source": {
+   "name": "Natural England: Beaver wild release, a milestone for nature recovery",
+   "url": "https://naturalengland.blog.gov.uk/2025/02/28/beaver-wild-release-a-milestone-for-nature-recovery-in-england/"
+  }
+ },
+ "onThisDay": {
+  "fits": "24 September 1975: Doug Scott and Dougal Haston reached the summit of Everest by the south-west face.",
+  "year": 1975,
+  "headline": "Two Britons climbed Everest the hard way",
+  "line": "Doug Scott and Dougal Haston went up the south-west face, the steep one everyone had failed on, and spent a night near the top without oxygen.",
+  "source": {
+   "name": "Wikipedia: 1975 British Mount Everest Southwest Face expedition",
+   "url": "https://en.wikipedia.org/wiki/1975_British_Mount_Everest_Southwest_Face_expedition"
+  }
+ },
+ "funFact": {
+  "fits": "A British fact everyone half knows.",
+  "statement": "Big Ben is the name of the clock tower.",
+  "answer": false,
+  "reveal": "Big Ben is the bell, thirteen and a half tonnes of it. The tower is the Elizabeth Tower, renamed in 2012. Nobody calls it that.",
+  "source": {
+   "name": "UK Parliament: Big Ben",
+   "url": "https://www.parliament.uk/bigben"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's good news: the return of wild beavers to England.",
+  "title": "The engineers are back",
+  "teaser": "Four hundred years after the last one was killed, beavers are building in English rivers again.",
+  "paragraphs": [
+   "Somewhere in Dorset this evening, as the light goes, a beaver will slide into a stream and start work. It will fell a sapling with its teeth, drag it across the current, and wedge it against yesterday's saplings. By spring there will be a pond where there was a ditch. This is legal now. For four hundred years it was not possible at all.",
+   "Beavers were hunted out of Britain in the sixteenth century for their fur and for a gland used in medicine. The rivers forgot them. Then, in the 2000s, a few escaped or were quietly released in Scotland and Devon, and something odd happened: the land around them got better. Ponds filled with frogs and dragonflies. Water that used to rush downstream in a storm was held back by dams. In the 2022 drought, beaver wetlands stayed green.",
+   "In February 2025 the government changed the rules, and Natural England began licensing releases into the wild. The first two pairs went into Purbeck in Dorset in March, followed by Somerset. More sites are lined up. A hundred animals were expected to be released in 2026.",
+   "You will probably not see one. They work at night and dislike company. What you will see, if you walk a beaver stream in a year or two, is water where there was none, and a great deal of life in it."
+  ],
+  "source": {
+   "name": "Natural England: Beaver wild release, a milestone for nature recovery",
+   "url": "https://naturalengland.blog.gov.uk/2025/02/28/beaver-wild-release-a-milestone-for-nature-recovery-in-england/"
+  }
+ },
+ "word": {
+  "fits": "The evenings are drawing in; a Scots word for exactly this light.",
+  "word": "Gloaming",
+  "language": "Scots",
+  "pronunciation": "GLOH-ming",
+  "meaning": "Dusk: the soft half-light after the sun has gone and before it is dark. From the Old English for glow. Best enjoyed slowly."
+ },
+ "kindness": {
+  "fits": "The robin in the garden stays all winter.",
+  "text": "Put out a little food for the birds today. The robin you see now is the one who will sing to you in January."
+ },
+ "joke": {
+  "fits": "The deer rut.",
+  "setup": "Why did the stag keep losing arguments?",
+  "punchline": "He never had a point. Then he grew fourteen."
+ },
+ "riddle": {
+  "fits": "The deer rut.",
+  "riddle": "I roar but I am not a lion, I wear a crown but I am not a king, and I drop it every spring. What am I?",
+  "hint": "Richmond Park, dawn.",
+  "answer": "A red stag."
+ }
+}

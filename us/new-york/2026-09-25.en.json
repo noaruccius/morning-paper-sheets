@@ -1,0 +1,16 @@
+{
+ "country": "US",
+ "date": "2026-09-25",
+ "language": "en",
+ "city": "new-york",
+ "goodThing": {
+  "fits": "Fall is oyster planting season in New York Harbor; the Billion Oyster Project reports more than 180 million restored.",
+  "headline": "New York Harbor has its oysters back",
+  "big": "180,000,000+",
+  "line": "Restaurants send shells to Governors Island; students grow oysters on them and sink them as reefs. Each filters fifty gallons a day.",
+  "source": {
+   "name": "Billion Oyster Project: Oyster restoration",
+   "url": "https://www.billionoysterproject.org/restoration"
+  }
+ }
+}

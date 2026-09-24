@@ -1,0 +1,77 @@
+{
+ "country": "GB",
+ "date": "2026-09-27",
+ "language": "en",
+ "lookForward": {
+  "fits": "Michaelmas is Tuesday 29 September; British folklore says blackberries are not to be picked after it.",
+  "headline": "Last two days for blackberries, says the devil",
+  "line": "By old English folklore, blackberries picked after Michaelmas on Tuesday belong to the devil. Go and get the last ones today. Take a tub."
+ },
+ "goodThing": {
+  "fits": "Britain became the first major economy to end coal power, on 30 September 2024.",
+  "headline": "Britain’s lights no longer burn coal",
+  "big": "142 years, over",
+  "line": "On 30 September 2024 the last coal station, Ratcliffe-on-Soar, shut down. The country that started the coal age left it first.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "onThisDay": {
+  "fits": "27 September 1825: the Stockton and Darlington Railway opened, the first public steam railway.",
+  "year": 1825,
+  "headline": "The first passenger steam railway opened, in County Durham",
+  "line": "Stockton to Darlington, with Locomotion No. 1 pulling 600 people, most of them in coal wagons. The world has not slowed down since.",
+  "source": {
+   "name": "National Railway Museum blog",
+   "url": "https://blog.railwaymuseum.org.uk/85/"
+  }
+ },
+ "funFact": {
+  "fits": "Michaelmas folklore, this week.",
+  "statement": "By English folklore, blackberries picked after 29 September are cursed.",
+  "answer": true,
+  "reveal": "The devil fell from heaven on Michaelmas into a bramble and spat on the berries. The real reason: after the frosts they go mouldy.",
+  "source": {
+   "name": "National Geographic: Michaelmas, the day the devil spit on your blackberries",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "calmRead": {
+  "fits": "Michaelmas on Tuesday: the folklore behind the blackberry deadline.",
+  "title": "Why the devil spits on blackberries",
+  "teaser": "An old English story that happens to be good advice.",
+  "paragraphs": [
+   "Michaelmas, the feast of St Michael on 29 September, was once one of the four days the English year turned on. Rents were paid, servants were hired, geese were eaten, and the university terms began. It still marks the start of the law year and of the Oxford term. And it comes with a warning: do not pick blackberries after Michaelmas.",
+   "The story goes that when St Michael threw Lucifer out of heaven, the devil fell to earth and landed in a bramble bush. He did not enjoy it. Depending on which county tells the tale, he cursed the berries, stamped on them, spat on them or did something less polite, and he does it again every year on the anniversary. In some places the date is Old Michaelmas, 10 October, because the calendar moved in 1752 and the devil apparently did not.",
+   "Underneath the story is plain sense. By the end of September the good blackberries are gone. The ones left are small, wet, and starting to grow grey mould; the first frosts turn them to mush. A rule that says the devil has been at them is easier to pass on to a child than a lecture on fungal spores.",
+   "So this weekend is the last chance. Find a hedge away from the road, pick the fat ones at the tip of the stem, and leave the rest for the birds and the devil. Then make a crumble and let Tuesday come."
+  ],
+  "source": {
+   "name": "National Geographic: Michaelmas, the day the devil spit on your blackberries",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "word": {
+  "fits": "Blackberry season's end.",
+  "word": "Bramble",
+  "language": "English",
+  "pronunciation": "BRAM-bul",
+  "meaning": "The blackberry bush, thorns and all. In Scotland and the north the fruit is a bramble too, and picking them is brambling."
+ },
+ "kindness": {
+  "fits": "Blackberries before Michaelmas.",
+  "text": "Pick more blackberries than you need today and leave a tub on a neighbour's step. The season ends on Tuesday, by law of the devil."
+ },
+ "joke": {
+  "fits": "Blackberries and Michaelmas.",
+  "setup": "Why did the blackberry stop worrying about Michaelmas?",
+  "punchline": "It had already been picked. Problem solved, jam made."
+ },
+ "riddle": {
+  "fits": "Blackberries.",
+  "riddle": "I am free, I am purple, I stain everything, and after Tuesday I belong to the devil. What am I?",
+  "hint": "In the hedge.",
+  "answer": "A blackberry."
+ }
+}

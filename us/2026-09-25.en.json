@@ -1,0 +1,77 @@
+{
+ "country": "US",
+ "date": "2026-09-25",
+ "language": "en",
+ "lookForward": {
+  "fits": "National Public Lands Day is Saturday 26 September 2026, the fourth Saturday in September; volunteer events nationwide.",
+  "headline": "Public Lands Day tomorrow",
+  "line": "The country's biggest one-day volunteer effort, since 1994. Trail work, tree planting and beach cleanups at parks near you. This year's theme: caring for our shared America."
+ },
+ "goodThing": {
+  "fits": "Fall is when bald eagles begin gathering along rivers; the species was nearly lost in the 1960s.",
+  "headline": "Bald eagles are back",
+  "big": "417 → 71,000",
+  "line": "Nesting pairs in the US, 1963 versus 2019. A pesticide ban, a lot of patience, and now they nest in every mainland state.",
+  "source": {
+   "name": "U.S. Fish & Wildlife Service: Bald eagle",
+   "url": "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
+  }
+ },
+ "onThisDay": {
+  "fits": "25 September 1789: Congress proposed twelve amendments to the Constitution; ten became the Bill of Rights.",
+  "year": 1789,
+  "headline": "Congress proposed the Bill of Rights",
+  "line": "Twelve amendments went to the states. Ten were ratified in 1791. One more was ratified in 1992, 203 years late. One is still waiting.",
+  "source": {
+   "name": "National Archives: The Bill of Rights",
+   "url": "https://www.archives.gov/founding-docs/bill-of-rights"
+  }
+ },
+ "funFact": {
+  "fits": "Public Lands Day tomorrow.",
+  "statement": "The United States has 63 national parks.",
+  "answer": true,
+  "reveal": "Sixty-three with the words National Park in the name, from Yellowstone in 1872 to New River Gorge in 2020. The wider system has more than 430 sites.",
+  "source": {
+   "name": "National Park Service: The national park system",
+   "url": "https://www.nps.gov/aboutus/national-park-system.htm"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the Bill of Rights, proposed today in 1789.",
+  "title": "Twelve amendments, ten survivors",
+  "teaser": "The Bill of Rights had no name when Congress sent it out on this day in 1789.",
+  "paragraphs": [
+   "On 25 September 1789, in New York, the first Congress voted to send twelve proposed amendments to the states. There was no name for them yet. James Madison had wanted to weave them into the text of the Constitution; Congress decided to add them at the end instead, which is why they are numbered.",
+   "The states took their time. By December 1791, three quarters of them had approved ten of the twelve, and those ten became the Bill of Rights: speech, religion, assembly, arms, no soldiers in your house, no unreasonable searches, fair trials, no cruel punishments. The one everybody quotes was not first on the list. It was third. The first two proposals, about the size of Congress and about congressional pay, were left behind.",
+   "One of them did not stay behind. In 1982 a student at the University of Texas wrote a paper pointing out that the pay amendment had no deadline and was still technically open. He got a C. He then spent ten years writing to state legislatures, and in 1992 Michigan became the thirty-eighth state to ratify. It is now the Twenty-seventh Amendment, 203 years after Congress proposed it. The university later changed his grade to an A.",
+   "The first of the twelve, on how many people each member of Congress should represent, is still out there, waiting for twenty-seven more states. Nobody is holding their breath."
+  ],
+  "source": {
+   "name": "National Archives: The Bill of Rights",
+   "url": "https://www.archives.gov/founding-docs/bill-of-rights"
+  }
+ },
+ "word": {
+  "fits": "Friday, the weekend's public lands.",
+  "word": "Wilderness",
+  "language": "English",
+  "pronunciation": "WIL-der-ness",
+  "meaning": "Land where nature is left alone. From the Old English for the place of wild deer. The US protects 111 million acres of it by law."
+ },
+ "kindness": {
+  "fits": "Public Lands Day tomorrow.",
+  "text": "Give an hour to a park or a trail tomorrow. If you cannot, pick up ten pieces of litter on your street instead."
+ },
+ "joke": {
+  "fits": "The Bill of Rights.",
+  "setup": "Why did the Twenty-seventh Amendment take 203 years?",
+  "punchline": "It was about congressional pay. Nobody was in a hurry."
+ },
+ "riddle": {
+  "fits": "Public Lands Day.",
+  "riddle": "I belong to everyone, I charge nothing to be beautiful, and tomorrow people will pick up trash for me. What am I?",
+  "hint": "Yellowstone was the first.",
+  "answer": "A national park."
+ }
+}

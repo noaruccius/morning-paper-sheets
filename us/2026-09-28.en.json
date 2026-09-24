@@ -1,0 +1,35 @@
+{
+ "country": "US",
+ "date": "2026-09-28",
+ "language": "en",
+ "lookForward": {
+  "fits": "Fat Bear Week champion crowned tomorrow, Tuesday 29 September 2026.",
+  "headline": "A champion bear is crowned tomorrow",
+  "line": "Last day of Fat Bear Week voting. Somewhere in Alaska a very round animal is about to win the internet without noticing."
+ },
+ "onThisDay": {
+  "fits": "28 September 1924: US Army fliers completed the first flight around the world, landing in Seattle.",
+  "year": 1924,
+  "headline": "The first flight around the world ended in Seattle",
+  "line": "Four open-cockpit biplanes left Seattle in April; two came back, 175 days and 27,000 miles later. The planes are in the Smithsonian.",
+  "source": {
+   "name": "Smithsonian National Air and Space Museum",
+   "url": "https://airandspace.si.edu/"
+  }
+ },
+ "kindness": {
+  "fits": "Monday.",
+  "text": "Send someone a photo of the Harvest Moon from the weekend, if you took one. If you did not, describe it to them."
+ },
+ "joke": {
+  "fits": "Fat Bear Week.",
+  "setup": "What is a bear's campaign slogan for Fat Bear Week?",
+  "punchline": "I have done nothing but eat, and I am proud of it."
+ },
+ "riddle": {
+  "fits": "The 1924 world flight.",
+  "riddle": "I left Seattle in April, came back in September, and never left the ground for long. What am I?",
+  "hint": "Two out of four made it.",
+  "answer": "The first round-the-world flight."
+ }
+}

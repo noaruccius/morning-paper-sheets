@@ -1,0 +1,77 @@
+{
+ "country": "US",
+ "date": "2026-09-26",
+ "language": "en",
+ "lookForward": {
+  "fits": "The Harvest Moon is full on Saturday 26 September 2026 at 12:49 pm Eastern and rises near Saturn at dusk.",
+  "headline": "Harvest Moon tonight",
+  "line": "Full at midday, rising huge and orange in the east at sunset, with Saturn beside it. It rises at nearly the same time for three nights running."
+ },
+ "goodThing": {
+  "fits": "National Public Lands Day, the fourth Saturday of September.",
+  "headline": "Today, the country's biggest volunteer day",
+  "big": "Since 1994",
+  "line": "National Public Lands Day: tens of thousands of people planting, clearing and building trails at parks and forests today. Now in its 32nd year.",
+  "source": {
+   "name": "National Park Service: National Public Lands Day",
+   "url": "https://www.nps.gov/subjects/npscelebrates/public-lands-day.htm"
+  }
+ },
+ "onThisDay": {
+  "fits": "26 September 1960: the first televised presidential debate, Kennedy and Nixon, in Chicago.",
+  "year": 1960,
+  "headline": "Politics went on television for the first time",
+  "line": "Kennedy and Nixon debated in a Chicago studio. Radio listeners thought Nixon won. Seventy million viewers saw a pale man sweating beside a tanned one.",
+  "source": {
+   "name": "JFK Library: The Kennedy-Nixon debates",
+   "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/kennedy-nixon-debates"
+  }
+ },
+ "funFact": {
+  "fits": "The Harvest Moon tonight.",
+  "statement": "The Harvest Moon rises at about the same time several nights running.",
+  "answer": true,
+  "reveal": "Usually moonrise comes 50 minutes later each night. Near the fall equinox the path is shallow: only 25 minutes later.",
+  "source": {
+   "name": "The Old Farmer's Almanac: Full Harvest Moon",
+   "url": "https://www.almanac.com/content/full-moon-september"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands tonight's Harvest Moon.",
+  "title": "Why the Harvest Moon is different",
+  "teaser": "Tonight's full moon does something the others do not. It waits for you.",
+  "paragraphs": [
+   "Every full moon rises at sunset; that is what full means, the sun on one side of the Earth and the moon on the other. What is special about the one closest to the autumn equinox is what happens on the nights before and after. Usually the moon rises about fifty minutes later each night. This week, in the northern United States, it rises only about twenty-five minutes later. Three or four evenings in a row, a big moon comes up just as the light goes.",
+   "The reason is geometry. The moon travels along a path in the sky that, in September, meets the eastern horizon at a shallow angle. A shallow angle means that a day's movement along the path barely changes the rising time. In March the same path stands steep, and the moonrise jumps by more than an hour a night.",
+   "Before electric light this mattered. A farmer bringing in corn or wheat could keep working after sunset, night after night, by moonlight. Hence the name. The English called it the Harvest Moon; the Algonquin peoples called September's full moon the Corn Moon; both were talking about the same thing.",
+   "Tonight it rises with Saturn beside it, a steady yellow point. Near the horizon it will look enormous. It is not; hold a coin at arm's length and it covers the moon at any height. The size is a trick your brain plays with the trees and rooftops. Enjoy the trick."
+  ],
+  "source": {
+   "name": "The Old Farmer's Almanac: Full Harvest Moon",
+   "url": "https://www.almanac.com/content/full-moon-september"
+  }
+ },
+ "word": {
+  "fits": "Harvest Moon.",
+  "word": "Gibbous",
+  "language": "English",
+  "pronunciation": "GIB-us",
+  "meaning": "The moon when it is more than half lit but not yet full, the shape it had all week. From the Latin for hump."
+ },
+ "kindness": {
+  "fits": "Public Lands Day and the moon.",
+  "text": "Work outside for someone today, then sit with them and watch the moon come up. Both count."
+ },
+ "joke": {
+  "fits": "The first TV debate.",
+  "setup": "Why did Nixon lose the first TV debate?",
+  "punchline": "He prepared for the questions. Kennedy prepared for the lighting."
+ },
+ "riddle": {
+  "fits": "Harvest Moon.",
+  "riddle": "I am the same size all night, but you will swear I shrink as I climb. What am I?",
+  "hint": "Tonight, at dusk.",
+  "answer": "The Harvest Moon."
+ }
+}
