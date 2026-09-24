@@ -15,7 +15,11 @@
  },
  "lookForward": {
   "fits": "Der Kranichzug läuft Ende September in ganz Deutschland; die großen Rastplätze füllen sich bis Oktober.",
-  "headline": "Kraniche über dem ganzen Land, diese Woche",
-  "line": "Zehntausende ziehen gerade über Deutschland nach Süden. Achten Sie auf einen Trompetenruf von weit oben, dann suchen Sie das lange V."
+  "headline": "Kraniche ziehen diese Woche über Deutschland",
+  "line": "Kraniche sind große graue Zugvögel mit rotem Scheitel. Zehntausende fliegen jetzt von Skandinavien nach Spanien, tagsüber, in langen V-Ketten, und rufen laut wie eine Trompete. Wenn Sie das hören: stehen bleiben, nach oben schauen.",
+  "source": {
+   "name": "NABU: Vogelporträt Kranich",
+   "url": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/"
+  }
  }
 }

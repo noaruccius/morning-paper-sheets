@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "Erntedank, the German harvest festival, is next Sunday, 4 October 2026, in churches across the country.",
-  "headline": "Harvest festival next Sunday",
-  "line": "Erntedank, 4 October. Churches fill with pumpkins, bread and apples, and give it all away afterwards. Worth a look even if you never go."
+  "headline": "Harvest festival on Sunday: the churches fill with fruit",
+  "line": "On 4 October churches across Germany hold Erntedank, harvest thanksgiving: the altar is piled with pumpkins, bread, apples and grapes, and it all goes to the food bank afterwards. Step into any church on Sunday morning and look, no service needed.",
+  "source": {
+   "name": "EKD: Erntedank",
+   "url": "https://www.ekd.de/erntedank-10832.htm"
+  }
  },
  "goodThing": {
   "fits": "Autumn is when beavers are busiest along German rivers; the species was nearly gone and is back.",

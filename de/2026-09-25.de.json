@@ -4,8 +4,17 @@
  "language": "de",
  "lookForward": {
   "fits": "Tag der Deutschen Einheit in acht Tagen, Samstag 3. Oktober 2026; Bremen richtet die zentrale Feier aus.",
-  "headline": "Tag der Deutschen Einheit, Samstag in einer Woche",
-  "line": "3. Oktober, ein Feiertag. Die offizielle Feier ist dieses Jahr in Bremen. Sechsunddreißig Jahre, seit aus zwei Ländern eines wurde."
+  "headline": "Samstag in einer Woche ist Feiertag: Tag der Deutschen Einheit",
+  "line": "Am 3. Oktober 1990 wurden Ost und West wieder ein Land. Der Tag ist ein gesetzlicher Feiertag: Läden zu, Bahnen nach Sonntagsplan. Die große Feier ist dieses Jahr in Bremen, drei Tage Bürgerfest, Eintritt frei.",
+  "source": {
+   "name": "Tag der Deutschen Einheit 2026: Bürgerfest in Bremen",
+   "url": "https://www.tag-der-deutschen-einheit.de/de/bremen"
+  },
+  "more": [
+   "Der 3. Oktober ist der Nationalfeiertag der Bundesrepublik. An diesem Tag 1990 trat die DDR dem Grundgesetz bei, und aus zwei deutschen Staaten wurde wieder einer, elf Monate nachdem sich die Mauer geöffnet hatte. Der Tag ist ein gesetzlicher Feiertag im ganzen Land: Läden und Ämter sind geschlossen, Busse und Bahnen fahren nach Sonntagsplan.",
+   "Die offizielle Feier wandert jedes Jahr in ein anderes Bundesland, immer in das, das gerade den Vorsitz im Bundesrat hat. 2026 ist das Bremen. Vom 2. bis 4. Oktober gibt es dort ein Bürgerfest in der Altstadt und am Weserufer, mit Bühnen, Ständen aller sechzehn Länder und freiem Eintritt. Der Festakt selbst findet am Samstagvormittag statt, mit dem Bundespräsidenten.",
+   "Für alle anderen ist es ein freier Samstag mit geschlossenen Läden. Wer etwas braucht, kauft es am Freitag. Wer nichts braucht, geht spazieren."
+  ]
  },
  "goodThing": {
   "fits": "Die Kraniche über Brandenburg in dieser Woche sind eine Erfolgsgeschichte des Naturschutzes.",

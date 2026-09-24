@@ -5,7 +5,11 @@
  "lookForward": {
   "fits": "The red deer rut runs through late September and October in Britain's deer parks.",
   "headline": "The stags are starting to roar",
-  "line": "In deer parks across the country the red stags are bellowing and locking antlers. Go at dawn, keep fifty metres back, and leave the dog at home."
+  "line": "It is the red deer rut, the autumn mating season: in deer parks across the country the stags bellow and clash antlers at dawn and dusk. Find your nearest park with deer, go early, keep fifty metres back, and leave the dog at home.",
+  "source": {
+   "name": "The Royal Parks: Deer in Richmond Park",
+   "url": "https://www.royalparks.org.uk/visit/parks/richmond-park/deer-richmond-park"
+  }
  },
  "goodThing": {
   "fits": "In 2025 England licensed wild beaver releases for the first time in 400 years; autumn is when they build.",

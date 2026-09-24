@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "October starts tomorrow; Black History Month in the UK and National Poetry Day on Thursday.",
-  "headline": "October tomorrow: poems on Thursday, leaves all month",
-  "line": "The beeches go gold first, then the maples, then the oaks in late October. Black History Month begins tomorrow and National Poetry Day is Thursday."
+  "headline": "October tomorrow: the trees begin to turn",
+  "line": "The beeches go gold first, then the maples, then the oaks late in the month. Pick one tree on your usual route tomorrow and watch it change through October. It happens faster than you think.",
+  "source": {
+   "name": "Forestry England: Autumn",
+   "url": "https://www.forestryengland.uk/autumn"
+  }
  },
  "onThisDay": {
   "fits": "30 September 2024: Britain's last coal-fired power station closed.",

@@ -5,7 +5,11 @@
  "lookForward": {
   "fits": "National Poetry Day is Thursday 1 October 2026.",
   "headline": "National Poetry Day on Thursday",
-  "line": "Poems on the radio, in schools and stuck to lampposts. Find one you liked at fourteen and read it again on Thursday. It has probably improved."
+  "line": "Every year on the first Thursday of October, poems turn up on the radio, in schools and stuck to lampposts. Nothing to buy or book. Find one you liked at fourteen and read it again on Thursday. It has probably improved.",
+  "source": {
+   "name": "National Poetry Day",
+   "url": "https://nationalpoetryday.co.uk/"
+  }
  },
  "onThisDay": {
   "fits": "28 September 1928: Alexander Fleming discovered penicillin at St Mary's Hospital, London.",

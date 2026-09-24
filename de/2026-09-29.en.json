@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "The Oktoberfest in Munich runs 19 September to 4 October 2026; the last weekend is coming.",
-  "headline": "Last weekend of the Oktoberfest",
-  "line": "Munich's beer festival ends on Sunday, 4 October. Six days left for the tents, the rides and the roast chicken. The rest of Germany watches on TV."
+  "headline": "Six days left of the Oktoberfest",
+  "line": "The largest folk festival in the world runs in Munich until Sunday 4 October: fourteen big beer tents, fairground rides and roast chicken on the Theresienwiese fairground, no entry fee. If you go: weekdays are far quieter than the weekend.",
+  "source": {
+   "name": "oktoberfest.de",
+   "url": "https://www.oktoberfest.de/"
+  }
  },
  "onThisDay": {
   "fits": "29 September 1900: the new Bavarian National Museum opened on Prinzregentenstraße in Munich.",

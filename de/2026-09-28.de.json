@@ -4,8 +4,12 @@
  "language": "de",
  "lookForward": {
   "fits": "Erntedank ist am kommenden Sonntag, 4. Oktober 2026, in Kirchen im ganzen Land.",
-  "headline": "Erntedank am Sonntag",
-  "line": "4. Oktober. Die Kirchen füllen sich mit Kürbissen, Brot und Äpfeln, und hinterher wird alles verschenkt. Einen Blick wert, auch wenn Sie sonst nie hingehen."
+  "headline": "Erntedank am Sonntag: die Kirchen sind voller Obst",
+  "line": "Am 4. Oktober feiern die Kirchen in Deutschland das Erntedankfest: Der Altar wird mit Kürbissen, Brot, Äpfeln und Trauben geschmückt, danach geht alles an die Tafel. Gehen Sie am Sonntagvormittag in irgendeine Kirche hinein und schauen Sie, auch ohne Gottesdienst.",
+  "source": {
+   "name": "EKD: Erntedank",
+   "url": "https://www.ekd.de/erntedank-10832.htm"
+  }
  },
  "goodThing": {
   "fits": "Im Herbst sind Biber an deutschen Flüssen am fleißigsten; die Art war fast verschwunden und ist zurück.",

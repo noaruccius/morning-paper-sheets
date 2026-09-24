@@ -4,8 +4,17 @@
  "language": "en",
  "lookForward": {
   "fits": "German Unity Day, a public holiday, is eight days away: Saturday 3 October 2026. Bremen hosts the official celebrations this year.",
-  "headline": "German Unity Day a week on Saturday",
-  "line": "3 October, a holiday. The official party is in Bremen this year. Thirty-six years since two countries became one."
+  "headline": "A week on Saturday is a holiday: German Unity Day",
+  "line": "On 3 October 1990 East and West became one country again. The date is a public holiday: shops shut, trains on a Sunday timetable. This year the national party is in Bremen, three days of festival, free to enter.",
+  "source": {
+   "name": "Tag der Deutschen Einheit 2026: Bürgerfest in Bremen",
+   "url": "https://www.tag-der-deutschen-einheit.de/de/bremen"
+  },
+  "more": [
+   "The 3rd of October is Germany’s national day. On that date in 1990 East Germany joined the Federal Republic, and two German states became one again, eleven months after the Wall opened. It is a public holiday across the whole country: shops and offices are shut, buses and trains run a Sunday timetable.",
+   "The official celebration moves to a different federal state every year, always the one that currently chairs the Bundesrat. In 2026 that is Bremen. From 2 to 4 October the city holds a citizens’ festival in the old town and along the river Weser, with stages, stands from all sixteen states and free entry. The formal ceremony is on Saturday morning, with the Federal President.",
+   "For everyone else it is a free Saturday with the shops closed. If you need something, buy it on Friday. If you need nothing, go for a walk."
+  ]
  },
  "goodThing": {
   "fits": "The cranes gathering over Brandenburg this week are a conservation success story for Germany.",

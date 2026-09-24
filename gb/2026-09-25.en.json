@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "The Harvest Moon is full on Saturday 26 September 2026 and rises near Saturn.",
-  "headline": "Harvest Moon tomorrow evening",
-  "line": "The full moon nearest the equinox. It rises at sunset for several nights running, huge and orange, with Saturn beside it. Look east after tea."
+  "headline": "The Harvest Moon rises tomorrow evening",
+  "line": "The full moon nearest the autumn equinox rises at sunset, huge and orange, low in the east, with the planet Saturn beside it. Tomorrow after tea, find an east-facing window or a hill and look. It does the same for several nights running.",
+  "source": {
+   "name": "Royal Observatory Greenwich: Full moon calendar",
+   "url": "https://www.rmg.co.uk/stories/topics/full-moon-calendar"
+  }
  },
  "goodThing": {
   "fits": "Late September: red kites are everywhere over southern England; they were nearly extinct here in 1989.",

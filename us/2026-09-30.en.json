@@ -5,7 +5,11 @@
  "lookForward": {
   "fits": "October begins tomorrow; peak fall color in northern New England in early October.",
   "headline": "October tomorrow: the leaves are turning north of you",
-  "line": "Northern Maine, Vermont and the Adirondacks peak in the first week of October, then the color rolls south a hundred miles a week."
+  "line": "Northern Maine, Vermont and the Adirondacks peak in the first week of October, then the color rolls south about a hundred miles a week. Check the Forest Service map for your state and plan one walk under trees this month.",
+  "source": {
+   "name": "US Forest Service: Fall colors",
+   "url": "https://www.fs.usda.gov/visit/fall-colors"
+  }
  },
  "onThisDay": {
   "fits": "30 September 1882: the first hydroelectric power plant in the US began operating on the Fox River in Appleton, Wisconsin.",

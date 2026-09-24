@@ -5,8 +5,12 @@
  "city": "berlin",
  "lookForward": {
   "fits": "Berlin Marathon day: Sunday 27 September 2026, start 8:30, about 55,000 runners; the leaders finish around 10:30.",
-  "headline": "Marathon Sunday in Berlin",
-  "line": "First runners off at 8:30, the fastest home just after ten. Find a spot on the route, clap for strangers, stay for the slow ones."
+  "headline": "Today is marathon Sunday in Berlin",
+  "line": "From 8:30, 55,000 people run 42 kilometres through the city; the fastest finish at the Brandenburg Gate just after ten. The route is closed to cars, the U-Bahn and S-Bahn run as usual. Go, clap for strangers, stay for the slow ones.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "funFact": {
   "fits": "Marathon day in Berlin.",

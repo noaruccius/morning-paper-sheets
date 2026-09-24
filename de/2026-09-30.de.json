@@ -4,8 +4,17 @@
  "language": "de",
  "lookForward": {
   "fits": "Tag der Deutschen Einheit am Samstag, 3. Oktober 2026; Bremen richtet die zentrale Feier und das Bürgerfest aus.",
-  "headline": "Ein Feiertag am Samstag",
-  "line": "Tag der Deutschen Einheit, 3. Oktober. Bremen feiert dieses Jahr für alle, mit einem Bürgerfest in der Altstadt. Überall sonst: ein stiller Tag, Läden zu, ein langer Spaziergang."
+  "headline": "Samstag ist Feiertag: Tag der Deutschen Einheit",
+  "line": "Am 3. Oktober ist das ganze Land frei: Läden zu, Ämter zu, Bahnen nach Sonntagsplan. Kaufen Sie ein, was Sie brauchen, am Freitag. Bremen richtet dieses Jahr das Bürgerfest aus, von Freitag bis Sonntag, Eintritt frei.",
+  "source": {
+   "name": "Tag der Deutschen Einheit 2026: Bürgerfest in Bremen",
+   "url": "https://www.tag-der-deutschen-einheit.de/de/bremen"
+  },
+  "more": [
+   "Der 3. Oktober ist der Nationalfeiertag der Bundesrepublik. An diesem Tag 1990 trat die DDR dem Grundgesetz bei, und aus zwei deutschen Staaten wurde wieder einer, elf Monate nachdem sich die Mauer geöffnet hatte. Der Tag ist ein gesetzlicher Feiertag im ganzen Land: Läden und Ämter sind geschlossen, Busse und Bahnen fahren nach Sonntagsplan.",
+   "Die offizielle Feier wandert jedes Jahr in ein anderes Bundesland, immer in das, das gerade den Vorsitz im Bundesrat hat. 2026 ist das Bremen. Vom 2. bis 4. Oktober gibt es dort ein Bürgerfest in der Altstadt und am Weserufer, mit Bühnen, Ständen aller sechzehn Länder und freiem Eintritt. Der Festakt selbst findet am Samstagvormittag statt, mit dem Bundespräsidenten.",
+   "Für alle anderen ist es ein freier Samstag mit geschlossenen Läden. Wer etwas braucht, kauft es am Freitag. Wer nichts braucht, geht spazieren."
+  ]
  },
  "goodThing": {
   "fits": "Ende September: Die Störche sind gerade nach Afrika aufgebrochen, und es waren so viele wie seit hundert Jahren nicht.",

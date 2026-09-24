@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "Michaelmas, 29 September: quarter day, goose day, the start of the law and university year.",
-  "headline": "Michaelmas today",
-  "line": "The old quarter day. Rents were paid, geese were eaten and the Oxford term began. The blackberries are now the devil's. The law courts open on Thursday."
+  "headline": "Michaelmas today: the old start of autumn business",
+  "line": "29 September is the feast of St Michael, an old quarter day when rents were paid and the Oxford term began; it still names Oxford’s autumn term. Have blackberries today: from tomorrow, folklore says, they belong to the devil.",
+  "source": {
+   "name": "University of Oxford: Dates of term",
+   "url": "https://www.ox.ac.uk/about/the-university/facts-and-figures/dates-of-term"
+  }
  },
  "onThisDay": {
   "fits": "29 September 1829: the first constables of the Metropolitan Police went on patrol in London.",

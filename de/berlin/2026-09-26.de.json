@@ -5,8 +5,12 @@
  "city": "berlin",
  "lookForward": {
   "fits": "Der BMW Berlin-Marathon ist morgen, Sonntag 27. September 2026, Start 8:30, rund 55.000 Läufer.",
-  "headline": "Berlin-Marathon, morgen früh",
-  "line": "55.000 Läufer ab 8:30, Ziel hinter dem Brandenburger Tor. Die schnellste Strecke der Welt. Straßen gesperrt, Anfeuern erwünscht."
+  "headline": "Morgen früh läuft der Berlin-Marathon durch die Stadt",
+  "line": "55.000 Läufer starten ab 8:30 an der Straße des 17. Juni, laufen 42 Kilometer durch alle Innenstadtbezirke und kommen durchs Brandenburger Tor ins Ziel. Die Strecke ist gesperrt; stellen Sie sich an den Rand, zum Beispiel am Kurfürstendamm, und klatschen Sie.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "funFact": {
   "fits": "Berlins Wahrzeichen an einem klaren Herbstsamstag, wenn man am weitesten sieht.",

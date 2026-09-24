@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "National Public Lands Day is Saturday 26 September 2026, the fourth Saturday in September; volunteer events nationwide.",
-  "headline": "Public Lands Day tomorrow",
-  "line": "The country's biggest one-day volunteer effort, since 1994. Trail work, tree planting and beach cleanups at parks near you. This year's theme: caring for our shared America."
+  "headline": "Public Lands Day tomorrow: parks are free",
+  "line": "The fourth Saturday of September is the country’s biggest one-day volunteer effort: trail work, tree planting and beach cleanups at parks near you, and every national park waives its entry fee. Find an event at neefusa.org, or just go and walk.",
+  "source": {
+   "name": "NEEF: National Public Lands Day",
+   "url": "https://www.neefusa.org/public-lands-day"
+  }
  },
  "goodThing": {
   "fits": "Fall is when bald eagles begin gathering along rivers; the species was nearly lost in the 1960s.",

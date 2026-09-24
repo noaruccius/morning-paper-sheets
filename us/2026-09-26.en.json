@@ -5,7 +5,11 @@
  "lookForward": {
   "fits": "The Harvest Moon is full on Saturday 26 September 2026 at 12:49 pm Eastern and rises near Saturn at dusk.",
   "headline": "Harvest Moon tonight",
-  "line": "Full at midday, rising huge and orange in the east at sunset, with Saturn beside it. It rises at nearly the same time for three nights running."
+  "line": "The full moon nearest the autumn equinox rises in the east at sunset, huge and orange near the horizon, with the planet Saturn as a steady dot beside it. It rises at nearly the same time three nights running. Go out after dinner and look east.",
+  "source": {
+   "name": "NASA: Skywatching",
+   "url": "https://science.nasa.gov/skywatching/"
+  }
  },
  "goodThing": {
   "fits": "National Public Lands Day, the fourth Saturday of September.",

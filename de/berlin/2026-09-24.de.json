@@ -5,8 +5,17 @@
  "city": "berlin",
  "lookForward": {
   "fits": "Kranichsaison in Linum, eine Stunde nördlich von Berlin, seit 18. September 2026; ein echter Ausflug fürs Wochenende.",
-  "headline": "Kraniche in der Abenddämmerung, dieses Wochenende",
-  "line": "Zehntausende sammeln sich in Linum, eine Stunde nördlich von Berlin. Samstagabend hinfahren. Erst hören, dann schauen."
+  "headline": "Am Samstagabend Kraniche schauen, eine Stunde nördlich von Berlin",
+  "line": "In Linum, einem Dorf im Havelland, schlafen im Herbst bis zu 90.000 Kraniche in flachen Teichen. In der Abenddämmerung fliegen sie in langen Ketten ein, laut rufend. Hinfahren, gegen 18 Uhr da sein, warm anziehen, zuschauen.",
+  "source": {
+   "name": "NABU Berlin: Kranichsaison in Linum",
+   "url": "https://berlin.nabu.de/stadt-und-natur/projekte-nabu-berlin/storchenschmiede-linum/kranichsaison/index.html"
+  },
+  "more": [
+   "Linum ist ein Dorf im Havelland, rund 60 Kilometer nordwestlich von Berlin. Neben dem Dorf liegen alte Fischteiche, flach und weitläufig, und genau dort schlafen die Kraniche: im Wasser stehend, wo kein Fuchs sie ungehört erreicht. Tagsüber fressen sie auf den abgeernteten Maisfeldern ringsum, in der Abenddämmerung fliegen sie in langen Ketten zu den Teichen zurück. Das ist der Moment, für den man kommt.",
+   "Hinkommen: mit dem Auto über die A24 bis Kremmen, dann zehn Minuten Landstraße, etwa eine Stunde ab Stadtmitte. Ohne Auto mit der Regionalbahn nach Nauen und weiter mit dem Bus 663. Seien Sie eine Stunde vor Sonnenuntergang da, an diesem Wochenende also gegen 18 Uhr. Warm anziehen, es ist offenes Land. Ein Fernglas hilft, ist aber nicht nötig.",
+   "Die NABU-Storchenschmiede im Dorf bietet in der Saison abendliche Führungen zu den Teichen an, mit Anmeldung, gegen einen kleinen Beitrag. Ohne Führung: Bleiben Sie auf den Wegen, gehen Sie nicht an die Teiche heran, und lassen Sie den Hund im Auto. Die Vögel haben einen langen Weg vor sich."
+  ]
  },
  "goodThing": {
   "fits": "Berliner Leitungswasser: eine lokale Tatsache, auf die man stolz sein kann.",

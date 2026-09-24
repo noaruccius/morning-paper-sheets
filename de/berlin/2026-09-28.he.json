@@ -1,0 +1,16 @@
+{
+ "country": "DE",
+ "date": "2026-09-28",
+ "language": "he",
+ "city": "berlin",
+ "funFact": {
+  "fits": "עובדה ברלינאית לטיול של יום שני.",
+  "statement": "כמעט רבע מברלין הוא יער ומים.",
+  "answer": true,
+  "reveal": "כ-16 אחוז יער ו-6 אחוז מים, ועוד 11 אחוז פארקים. כמעט אף עיר גדולה לא מתקרבת לזה.",
+  "source": {
+   "name": "Berlin.de: Daten und Fakten, Grünflächen",
+   "url": "https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/daten-und-fakten/gruenflaechen-gruenanlagen/"
+  }
+ }
+}

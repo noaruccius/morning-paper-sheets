@@ -15,7 +15,11 @@
  },
  "lookForward": {
   "fits": "Crane migration is under way across Germany in late September; the big roosts fill through October.",
-  "headline": "Cranes over the whole country this week",
-  "line": "Tens of thousands are crossing Germany on their way south. Listen for a trumpet call from high up, then look for the long V."
+  "headline": "Cranes are crossing Germany this week",
+  "line": "Cranes are tall grey migrating birds with a red cap. Tens of thousands are flying from Scandinavia to Spain right now, by day, in long V-shaped lines, calling loudly like a trumpet. If you hear that: stop and look up.",
+  "source": {
+   "name": "NABU: Vogelporträt Kranich",
+   "url": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/"
+  }
  }
 }

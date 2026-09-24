@@ -4,8 +4,12 @@
  "language": "en",
  "lookForward": {
   "fits": "Michaelmas is Tuesday 29 September; British folklore says blackberries are not to be picked after it.",
-  "headline": "Last two days for blackberries, says the devil",
-  "line": "By old English folklore, blackberries picked after Michaelmas on Tuesday belong to the devil. Go and get the last ones today. Take a tub."
+  "headline": "Last days for blackberries, says the devil",
+  "line": "Brambles are heavy along every hedgerow and railway path right now. By old English folklore, blackberries picked after Michaelmas on Tuesday belong to the devil. Take a tub on your walk today, pick the dark, soft ones, and rinse them at home.",
+  "source": {
+   "name": "Woodland Trust: Bramble",
+   "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/bramble/"
+  }
  },
  "goodThing": {
   "fits": "Britain became the first major economy to end coal power, on 30 September 2024.",

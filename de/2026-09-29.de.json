@@ -4,8 +4,12 @@
  "language": "de",
  "lookForward": {
   "fits": "Das Oktoberfest in München läuft vom 19. September bis 4. Oktober 2026; das letzte Wochenende kommt.",
-  "headline": "Letztes Wochenende auf der Wiesn",
-  "line": "Das Oktoberfest endet am Sonntag, 4. Oktober. Noch sechs Tage Zelte, Fahrgeschäfte und Hendl. Der Rest Deutschlands schaut im Fernsehen zu."
+  "headline": "Das Oktoberfest hat noch sechs Tage",
+  "line": "Das größte Volksfest der Welt läuft in München bis Sonntag, 4. Oktober: 14 große Bierzelte, Fahrgeschäfte und gebratene Hendl auf der Theresienwiese, Eintritt frei. Wer nicht hinfährt: Unter der Woche ist es leerer als am Wochenende.",
+  "source": {
+   "name": "oktoberfest.de",
+   "url": "https://www.oktoberfest.de/"
+  }
  },
  "onThisDay": {
   "fits": "29. September 1900: Das neue Bayerische Nationalmuseum an der Prinzregentenstraße in München wurde eröffnet.",

@@ -5,8 +5,12 @@
  "city": "berlin",
  "lookForward": {
   "fits": "Marathontag in Berlin: Sonntag 27. September 2026, Start 8:30, rund 55.000 Läufer; die Spitze kommt gegen 10:30 ins Ziel.",
-  "headline": "Marathon-Sonntag in Berlin",
-  "line": "Die ersten starten um 8:30, die schnellsten sind kurz nach zehn im Ziel. Suchen Sie sich einen Platz an der Strecke, klatschen Sie für Fremde, bleiben Sie für die Langsamen."
+  "headline": "Heute ist Marathon-Sonntag in Berlin",
+  "line": "Ab 8:30 laufen 55.000 Menschen 42 Kilometer durch die Stadt, die Schnellsten sind kurz nach zehn im Ziel am Brandenburger Tor. Die Strecke ist für Autos gesperrt, U- und S-Bahn fahren. Gehen Sie hin, klatschen Sie für Fremde, bleiben Sie für die Langsamen.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "funFact": {
   "fits": "Marathontag in Berlin.",

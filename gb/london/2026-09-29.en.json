@@ -1,2 +1,15 @@
-{"country":"GB","date":"2026-09-29","language":"en","city":"london",
-"lookForward":{"fits":"The Met's first patrol went out at 6 pm on 29 September 1829.","headline":"At six this evening, 197 years of bobbies","line":"The first thousand constables walked out of London's stations at six o'clock tonight in 1829. Say good evening to one on the way home."}}
+{
+ "country": "GB",
+ "date": "2026-09-29",
+ "language": "en",
+ "city": "london",
+ "lookForward": {
+  "fits": "The Met's first patrol went out at 6 pm on 29 September 1829.",
+  "headline": "At six this evening, 197 years of bobbies",
+  "line": "On 29 September 1829, at six o’clock, the first thousand constables of the new Metropolitan Police walked out of their stations in blue tailcoats and top hats: the world’s first modern police force. Say good evening to one on the way home.",
+  "source": {
+   "name": "UK Parliament: The Metropolitan Police",
+   "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/metropolitanpolice/"
+  }
+ }
+}

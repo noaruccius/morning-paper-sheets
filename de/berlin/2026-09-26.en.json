@@ -5,8 +5,12 @@
  "city": "berlin",
  "lookForward": {
   "fits": "The BMW Berlin Marathon is tomorrow, Sunday 27 September 2026, 8:30 start, about 55,000 runners.",
-  "headline": "Berlin Marathon tomorrow morning",
-  "line": "55,000 runners from 8:30, finishing through the Brandenburg Gate. The fastest course in the world. Roads closed, cheering welcome."
+  "headline": "Tomorrow morning the Berlin Marathon runs through the city",
+  "line": "55,000 runners set off from 8:30 on Straße des 17. Juni, cover 42 kilometres through every inner district and finish through the Brandenburg Gate. The route is closed to cars; stand at the edge, on Kurfürstendamm for example, and clap.",
+  "source": {
+   "name": "BMW Berlin-Marathon",
+   "url": "https://www.bmw-berlin-marathon.com/en/"
+  }
  },
  "funFact": {
   "fits": "Berlin's landmark, on a clear autumn Saturday when the view from the top reaches furthest.",
