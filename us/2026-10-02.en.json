@@ -1,0 +1,94 @@
+{
+ "country": "US",
+ "date": "2026-10-02",
+ "language": "en",
+ "lookForward": {
+  "fits": "Tomorrow the Division Series begins, the round after the Wild Card, with four games on one day across the country.",
+  "headline": "Tomorrow: baseball's Division Series begins, four games",
+  "line": "Saturday brings four Division Series openers, two in each league, each best-of-five. Games run afternoon into night on Fox and TBS/truTV. No ticket needed: watch from home, or catch one at a sports bar with the hometown crowd.",
+  "source": {
+   "name": "MLB.com: Postseason bracket and schedule",
+   "url": "https://www.mlb.com/postseason/bracket-schedule"
+  },
+  "more": [
+   "The Division Series is the second round of the MLB playoffs, after the short Wild Card round. Eight teams are down to eight; by the end of this round, only four remain. Each series is best-of-five, so a team can be eliminated in as few as three games.",
+   "Four games open the round on Saturday: two American League matchups and two National League matchups, spread across the afternoon and evening. Coverage splits between Fox and its channels for one league and TBS and truTV for the other, so check local listings for your specific matchup.",
+   "You do not need tickets to take part. Bars near any ballpark fill up on these days, and plenty of towns without a team in it still have a bar that leans toward whoever is left standing from their region.",
+   "The League Championship Series, one round further, starts no earlier than 11 October, with the World Series to follow later in the month."
+  ]
+ },
+ "goodThing": {
+  "fits": "Early October is peak monarch butterfly migration across much of the country, from the Mid-Atlantic to the Southern Plains.",
+  "headline": "Millions of orange wings are heading south",
+  "big": "Millions",
+  "line": "Monarch butterflies are crossing the country now, heading to Mexico for winter. Peak week hits New Jersey, Kansas, Colorado, Oklahoma and North Carolina.",
+  "source": {
+   "name": "Monarch Watch, University of Kansas: Migration",
+   "url": "https://www.monarchwatch.org/migration/"
+  },
+  "more": [
+   "Monarch butterflies east of the Rocky Mountains make one of the longest insect migrations known, flying up to 3,000 miles from southern Canada and the northern United States to a small patch of oyamel fir forest in central Mexico, where they spend the winter clustered on tree trunks by the million.",
+   "The wave moves south through the country roughly with the calendar: late August in the far north, then progressively later through September, reaching the Mid-Atlantic, Kansas, Colorado, Oklahoma and North Carolina right around now, in early October.",
+   "Monarch Watch, a research and conservation program at the University of Kansas, has spent decades tagging butterflies with small stickers to track exactly where they go and how fast, turning a folk observation into real data on the migration's timing and health.",
+   "None of the individual butterflies flying south this week will make the return trip; that happens two or three generations later, in spring. The one flying past your window today was likely born only weeks ago, and somehow still knows the way to a forest it has never seen."
+  ]
+ },
+ "onThisDay": {
+  "fits": "2 October 1967: Thurgood Marshall took the judicial oath as the first Black justice of the Supreme Court, in Washington.",
+  "year": 1967,
+  "headline": "The first Black justice took his oath on the Court",
+  "line": "Thurgood Marshall, who argued Brown v. Board of Education, was sworn in as the Court's first Black justice at its opening session.",
+  "source": {
+   "name": "Supreme Court of the United States: Oath Firsts and Other Trivia",
+   "url": "https://www.supremecourt.gov/about/oath/supremecourtoathfirstsandtrivia.aspx"
+  }
+ },
+ "funFact": {
+  "fits": "October is the country's pumpkin month, and almost none of the canned kind comes from where people guess.",
+  "statement": "America's canned pumpkin comes from all over the country equally.",
+  "answer": false,
+  "reveal": "About 85 percent of the world's canned pumpkin is packed at one plant in Morton, Illinois, the self-declared Pumpkin Capital of the World.",
+  "source": {
+   "name": "USDA Economic Research Service: Pumpkin production",
+   "url": "https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105045"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: Thurgood Marshall's oath, 2 October 1967, and the case that got him there.",
+  "title": "The lawyer who argued his way onto the bench",
+  "teaser": "Fifty-nine years ago today, the man who ended legal school segregation took his own seat on the Court.",
+  "paragraphs": [
+   "On the morning of 2 October 1967, the Supreme Court opened its new term as it always does, with a short ceremony in its Washington courtroom. This time it included something new: Thurgood Marshall, sixty years old, the great-grandson of an enslaved man, took the judicial oath and became the Court's first Black justice.",
+   "Marshall had not come up through the usual quiet path of clerkships and law school faculties. For more than two decades he had travelled the country as a lawyer for the NAACP, often into towns where his safety was not guaranteed, building the legal case against school segregation piece by piece. That work reached the Supreme Court in 1954 as Brown v. Board of Education, which Marshall argued and won, ending the doctrine that had allowed separate schools for Black and white children.",
+   "President Lyndon Johnson nominated him to the Court in June 1967, telling reporters it was 'the right thing to do, the right time to do it, the right man and the right place.' The Senate confirmed him in August by a vote of 69 to 11, and Chief Justice Earl Warren administered his oath on the Court's opening day in October.",
+   "Marshall served for twenty-four years, becoming known for opinions that pushed the Court toward protecting the rights of people with little power to protect themselves: defendants, prisoners, the poor. He retired in 1991 and was succeeded, but his seat's first occupant is the one still remembered on this date.",
+   "The Court still opens its term the same way every year, on the first Monday in October, a formal little ceremony that this year, in 1967, happened to make history."
+  ],
+  "source": {
+   "name": "Supreme Court of the United States: Oath Firsts and Other Trivia",
+   "url": "https://www.supremecourt.gov/about/oath/supremecourtoathfirstsandtrivia.aspx"
+  }
+ },
+ "word": {
+  "fits": "The formal act at the center of today's On this day, and every justice's first day.",
+  "word": "Judicial oath",
+  "language": "English",
+  "pronunciation": "joo-DISH-ul ohth",
+  "meaning": "The pledge a new justice takes before hearing cases, promising to 'administer justice without respect to persons' and to the poor and rich alike."
+ },
+ "kindness": {
+  "fits": "Marshall spent years representing people who had no other lawyer willing to take their case.",
+  "text": "Look up one free legal aid clinic in your area today, even if you never need it. Someone near you might, tomorrow."
+ },
+ "joke": {
+  "fits": "Tomorrow's Division Series, and the long path a team has just to get there.",
+  "setup": "Why did the Wild Card team bring a map to the Division Series?",
+  "punchline": "Because it barely knew the way past round one, and now it needs directions to October."
+ },
+ "riddle": {
+  "fits": "The monarch butterflies passing through this week on their way south.",
+  "riddle": "I have never made this trip, yet I fly thousands of miles to a forest I've never seen, then rest with a million others. What am I?",
+  "hint": "Orange wings, heading to Mexico.",
+  "answer": "Monarch butterfly."
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "country": "GB",
+ "date": "2026-09-27",
+ "language": "de",
+ "lookForward": {
+  "fits": "Michaelis ist Dienstag, 29. September; die englische Folklore sagt, danach gehören Brombeeren dem Teufel.",
+  "headline": "Letzte Tage für Brombeeren, sagt der Teufel",
+  "line": "Die Hecken und Bahndämme hängen jetzt voller Brombeeren. Nach altem englischem Aberglauben gehören sie ab Dienstag, Michaelis, dem Teufel. Nehmen Sie heute einen Eimer mit, pflücken Sie die dunklen, weichen, und waschen Sie sie zu Hause.",
+  "source": {
+   "name": "Woodland Trust: Bramble",
+   "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/bramble/"
+  }
+ },
+ "goodThing": {
+  "fits": "Großbritannien war die erste große Volkswirtschaft, die Kohlestrom ganz beendete, am 30. September 2024.",
+  "headline": "Britanniens Lichter brennen keine Kohle mehr",
+  "big": "142 Jahre vorbei",
+  "line": "Am 30. September 2024 schloss das letzte Kohlekraftwerk, Ratcliffe-on-Soar. Das Land, das das Kohlezeitalter begann, beendete es als erstes.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "onThisDay": {
+  "fits": "27. September 1825: die Stockton and Darlington Railway eröffnet, die erste öffentliche Dampfeisenbahn.",
+  "year": 1825,
+  "headline": "Die erste Personen-Dampfbahn eröffnete, in County Durham",
+  "line": "Stockton nach Darlington, mit Lokomotive Nr. 1 und 600 Menschen, die meisten in Kohlewaggons. Seitdem wurde die Welt nicht mehr langsamer.",
+  "source": {
+   "name": "National Railway Museum blog",
+   "url": "https://blog.railwaymuseum.org.uk/85/"
+  }
+ },
+ "funFact": {
+  "fits": "Der Michaelis-Aberglaube, diese Woche.",
+  "statement": "Nach englischer Folklore sind Brombeeren nach dem 29. September verflucht.",
+  "answer": true,
+  "reveal": "Der Teufel fiel an Michaelis vom Himmel in einen Brombeerstrauch und spuckte auf die Beeren. Der wahre Grund: nach dem Frost werden sie schimmelig.",
+  "source": {
+   "name": "National Geographic: Michaelmas, the day the devil spit on your blackberries",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "calmRead": {
+  "fits": "Michaelis am Dienstag: die Folklore hinter der Brombeer-Frist.",
+  "title": "Warum der Teufel auf Brombeeren spuckt",
+  "teaser": "Eine alte englische Geschichte, die zufällig guter Rat ist.",
+  "paragraphs": [
+   "Michaelis, das Fest des Erzengels Michael am 29. September, war einst einer der vier Tage, um die sich das englische Jahr drehte. Mieten wurden fällig, Dienstboten neu eingestellt, Gänse gegessen, und die Universitäten begannen ihr Semester. Bis heute markiert der Tag den Beginn des Rechtsjahres und des Oxford-Semesters. Und er bringt eine Warnung mit: keine Brombeeren mehr nach Michaelis.",
+   "Die Geschichte erzählt, dass der Teufel, als der Erzengel Michael Luzifer aus dem Himmel warf, in einem Brombeerstrauch landete. Das gefiel ihm nicht. Je nach Grafschaft verfluchte er die Beeren, trat auf sie, spuckte darauf oder tat etwas weniger Höfliches, und er tut es jedes Jahr am Jahrestag wieder. Anderswo gilt das alte Michaelis, der 10. Oktober, weil sich der Kalender 1752 änderte und der Teufel offenbar nicht.",
+   "Unter der Geschichte steckt schlichte Vernunft. Ende September sind die guten Brombeeren meist weg. Was übrig bleibt, ist klein, nass und beginnt zu schimmeln; der erste Frost macht daraus Matsch. Eine Regel, die den Teufel verantwortlich macht, lässt sich einem Kind leichter erklären als ein Vortrag über Schimmelpilze.",
+   "Also ist dieses Wochenende die letzte Chance. Suchen Sie eine Hecke abseits der Straße, pflücken Sie die dicken Beeren an der Triebspitze, und lassen Sie den Rest den Vögeln und dem Teufel. Dann machen Sie einen Crumble, und der Dienstag kann kommen."
+  ],
+  "source": {
+   "name": "National Geographic: Michaelmas, the day the devil spit on your blackberries",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "word": {
+  "fits": "Das Ende der Brombeersaison.",
+  "word": "Bramble",
+  "language": "Englisch",
+  "pronunciation": "BRAM-bul",
+  "meaning": "Der Brombeerstrauch, Dornen inklusive. In Schottland und Nordengland heißt auch die Frucht bramble, und sie zu pflücken ist brambling."
+ },
+ "kindness": {
+  "fits": "Brombeeren vor Michaelis.",
+  "text": "Pflücken Sie heute mehr Brombeeren als Sie brauchen, und stellen Sie einem Nachbarn einen Eimer vor die Tür. Die Saison endet am Dienstag, laut Gesetz des Teufels."
+ },
+ "joke": {
+  "fits": "Brombeeren und Michaelis.",
+  "setup": "Warum machte sich die Brombeere keine Sorgen um Michaelis?",
+  "punchline": "Sie war schon gepflückt. Problem gelöst, Marmelade gemacht."
+ },
+ "riddle": {
+  "fits": "Brombeeren.",
+  "riddle": "Ich bin kostenlos, ich bin violett, ich färbe alles ab, und nach Dienstag gehöre ich dem Teufel. Was bin ich?",
+  "hint": "In der Hecke.",
+  "answer": "Eine Brombeere."
+ }
+}

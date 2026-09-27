@@ -1,0 +1,76 @@
+{
+ "country": "US",
+ "date": "2026-09-27",
+ "language": "de",
+ "lookForward": {
+  "fits": "Die Abstimmung zur Fat Bear Week endet am Dienstag, 29. September 2026.",
+  "headline": "Noch zwei Tage, um für einen Bären zu stimmen",
+  "line": "Fat Bear Week: Der Katmai-Nationalpark in Alaska lässt die Öffentlichkeit wählen, welcher Braunbär sich vor dem Winter am dicksten gefressen hat. Die Abstimmung schließt Dienstag. Kostenlos wählen auf fatbearweek.org, mit Fremden darüber streiten, und die Live-Kamera anschauen.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  },
+  "more": [
+   "Der Katmai-Nationalpark liegt auf der Alaska-Halbinsel, einem Ort mit mehr Braunbären als Menschen. Im Spätsommer stehen die Bären im Brooks River und fangen Rotlachse, die die Wasserfälle hochspringen, und fressen so viel sie können vor dem Winter. Ein Bär, der im Oktober in seine Höhle geht, frisst erst im Frühling wieder, also gilt: je dicker, desto besser.",
+   "Fat Bear Week macht daraus ein Spiel. Der Park wählt etwa zwölf Bären aus, zeigt von jedem ein Foto aus dem Juli und eines aus dem September, und stellt sie in einem K.-o.-Turnier gegeneinander. Jeder kann einmal täglich kostenlos auf fatbearweek.org abstimmen, ohne Konto. Die Abstimmung läuft von Dienstag, 22. September, bis Dienstag, 29. September 2026, wenn der Sieger feststeht. Dem Bären sagt es niemand.",
+   "Die Live-Kameras auf explore.org zeigen die Brooks Falls den ganzen Tag. Schauen Sie eine Weile zu; es ist sehr beruhigend, und die Lachse schwimmen noch."
+  ]
+ },
+ "onThisDay": {
+  "fits": "27. September 1908: Das erste Model T verließ das Piquette-Avenue-Werk in Detroit.",
+  "year": 1908,
+  "headline": "Das erste Model T rollte aus Detroit",
+  "line": "Wagen Nummer eins, aus Fords Werk an der Piquette Avenue. Fünfzehn Millionen folgten. Das erste Auto, das sich normale Familien leisten konnten.",
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "funFact": {
+  "fits": "Der Jahrestag des Model T.",
+  "statement": "Das Model T gab es nur in Schwarz.",
+  "answer": false,
+  "reveal": "Die ersten kamen in Grau, Grün, Blau und Rot. Schwarz wurde 1914 die einzige Farbe, weil sie am Fließband am schnellsten trocknete.",
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das An diesem Tag von heute: das Model T, 1908.",
+  "title": "Das Auto, das die Höfe leerte",
+  "teaser": "Heute vor 118 Jahren rollte das erste Model T aus Detroit. Amerika veränderte seine Form.",
+  "paragraphs": [
+   "Der Wagen, der am 27. September 1908 aus dem Piquette-Avenue-Werk rollte, sah nicht nach Revolution aus. Er war hoch und schmal, mit Messinglampen und Holzrädern, und kostete 825 Dollar, ungefähr das Jahresgehalt einer Lehrerin. Aber er trug eine Idee in sich, die kein Auto zuvor hatte: billig gebaut, tausendfach, damit auch Farmer ihn kaufen konnten.",
+   "Henry Ford war auf einem Bauernhof in Michigan aufgewachsen und hatte die Arbeit gehasst. Sein Model T war für Schlammwege gemacht: hoch über dem Boden, einfach mit Schraubenschlüssel und Hammer zu reparieren, leicht genug, um von einem Pferd aus dem Graben gezogen zu werden. Farmer fuhren damit in die Stadt, trieben Sägen und Pumpen über das Hinterrad an, und fuhren, wenn die Straßen zu schlecht waren, einfach auf den Bahngleisen.",
+   "1913 verlegte Ford die Produktion in ein neues Werk mit laufendem Fließband, und der Preis fiel jedes Jahr: 550 Dollar, 440, 290. Bis 1927 waren fünfzehn Millionen verkauft, und die Hälfte aller Autos der Welt war ein Model T. Schwarz wurde 1914 die einzige Farbe, weil schwarze Farbe am schnellsten trocknete.",
+   "Was sich änderte, war die Entfernung. Eine Bauernfamilie, die die Stadt bisher zweimal im Jahr gesehen hatte, sah sie jetzt jede Woche. Landschulen schlossen sich zusammen, Landärzte fuhren Hausbesuche, junge Leute zogen weg. Die Vorstadt, der Roadtrip, das Drive-in und der Parkplatz beginnen alle mit Wagen Nummer eins, an diesem Tag, in Detroit."
+  ],
+  "source": {
+   "name": "Ford Piquette Avenue Plant: Our history",
+   "url": "https://www.fordpiquetteplant.org/about/history/"
+  }
+ },
+ "word": {
+  "fits": "Das Model T.",
+  "word": "Jalopy",
+  "language": "Amerikanisches Englisch",
+  "pronunciation": "dschuh-LOP-i",
+  "meaning": "Ein altes, ramponiertes Auto, das trotzdem noch fährt. Niemand weiß, woher das Wort kommt; es tauchte in den 1920ern auf, als die ersten Model Ts alt wurden."
+ },
+ "kindness": {
+  "fits": "Sonntag.",
+  "text": "Fahren Sie heute jemanden irgendwohin, der selbst nicht fahren kann. Oder bieten Sie es an. Das Angebot ist schon fast alles."
+ },
+ "joke": {
+  "fits": "Model T.",
+  "setup": "Warum verfuhr sich das Model T nie?",
+  "punchline": "Es gab nur eine Straße. Und die war aus Schlamm."
+ },
+ "riddle": {
+  "fits": "Model T.",
+  "riddle": "Ich kam in Farben, dann nur noch schwarz, und fünfzehn Millionen von mir veränderten, wo man wohnte. Was bin ich?",
+  "hint": "Detroit, 1908.",
+  "answer": "Das Ford Model T."
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "country": "GB",
+ "date": "2026-09-28",
+ "language": "de",
+ "lookForward": {
+  "fits": "Der Nationale Poesietag ist Donnerstag, 1. Oktober 2026.",
+  "headline": "Am Donnerstag ist Nationaler Poesietag",
+  "line": "Jedes Jahr am ersten Donnerstag im Oktober tauchen Gedichte im Radio, in Schulen und an Laternenpfählen auf. Nichts zu kaufen oder zu buchen. Suchen Sie eines, das Sie mit vierzehn mochten, und lesen Sie es am Donnerstag noch einmal. Es hat sich vermutlich verbessert.",
+  "source": {
+   "name": "National Poetry Day",
+   "url": "https://nationalpoetryday.co.uk/"
+  }
+ },
+ "onThisDay": {
+  "fits": "28. September 1928: Alexander Fleming entdeckte Penicillin im St Mary's Hospital in London.",
+  "year": 1928,
+  "headline": "Penicillin wurde im Krankenhaus entdeckt, aus Versehen",
+  "line": "Fleming kam zurück ins St Mary's, Paddington, zu einer verschimmelten Schale mit einem klaren Ring, wo Bakterien gestorben waren. Er sah hin, statt zu spülen.",
+  "source": {
+   "name": "The Nobel Prize: Alexander Fleming",
+   "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+  }
+ },
+ "kindness": {
+  "fits": "Montag; Poesietag am Donnerstag.",
+  "text": "Schreiben Sie diese Woche vier Zeilen für jemanden. Sie müssen sich nicht reimen. Sie müssen von dieser Person handeln."
+ },
+ "joke": {
+  "fits": "Flemings schmutzige Schale.",
+  "setup": "Was sagte Fleming zur verschimmelten Schale?",
+  "punchline": "Du kommst nicht in die Spüle. Du kommst nach Stockholm."
+ },
+ "riddle": {
+  "fits": "Penicillin.",
+  "riddle": "Ich wuchs auf einer vergessenen Schale in London, und ich habe mehr Leben gerettet als jeder Arzt. Was bin ich?",
+  "hint": "Grün und flauschig.",
+  "answer": "Penicillinschimmel."
+ }
+}

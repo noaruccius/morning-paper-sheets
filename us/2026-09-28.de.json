@@ -1,0 +1,44 @@
+{
+ "country": "US",
+ "date": "2026-09-28",
+ "language": "de",
+ "lookForward": {
+  "fits": "Der Champion der Fat Bear Week wird morgen gekürt, Dienstag, 29. September 2026.",
+  "headline": "Morgen wird ein Champion-Bär gekürt",
+  "line": "Letzter Tag der Fat-Bear-Week-Abstimmung: Der Katmai-Nationalpark in Alaska fragt die Öffentlichkeit, welcher Braunbär sich am besten für den Winter angefressen hat. Heute noch auf fatbearweek.org abstimmen. Irgendwo in Alaska gewinnt gleich ein sehr rundes Tier das Internet, ohne es zu merken.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  },
+  "more": [
+   "Der Katmai-Nationalpark liegt auf der Alaska-Halbinsel, einem Ort mit mehr Braunbären als Menschen. Im Spätsommer stehen die Bären im Brooks River und fangen Rotlachse, die die Wasserfälle hochspringen, und fressen so viel sie können vor dem Winter. Ein Bär, der im Oktober in seine Höhle geht, frisst erst im Frühling wieder, also gilt: je dicker, desto besser.",
+   "Fat Bear Week macht daraus ein Spiel. Der Park wählt etwa zwölf Bären aus, zeigt von jedem ein Foto aus dem Juli und eines aus dem September, und stellt sie in einem K.-o.-Turnier gegeneinander. Jeder kann einmal täglich kostenlos auf fatbearweek.org abstimmen, ohne Konto. Die Abstimmung läuft von Dienstag, 22. September, bis Dienstag, 29. September 2026, wenn der Sieger feststeht. Dem Bären sagt es niemand.",
+   "Die Live-Kameras auf explore.org zeigen die Brooks Falls den ganzen Tag. Schauen Sie eine Weile zu; es ist sehr beruhigend, und die Lachse schwimmen noch."
+  ]
+ },
+ "onThisDay": {
+  "fits": "28. September 1924: US-Armeeflieger vollendeten den ersten Flug um die Welt, mit Landung in Seattle.",
+  "year": 1924,
+  "headline": "Der erste Flug um die Welt endete in Seattle",
+  "line": "Vier offene Doppeldecker starteten im April in Seattle; zwei kehrten zurück, nach 175 Tagen und 27.000 Meilen. Die Flugzeuge stehen heute im Smithsonian.",
+  "source": {
+   "name": "Smithsonian National Air and Space Museum",
+   "url": "https://airandspace.si.edu/"
+  }
+ },
+ "kindness": {
+  "fits": "Montag.",
+  "text": "Schicken Sie jemandem ein Foto vom Erntemond vom Wochenende, falls Sie eins gemacht haben. Wenn nicht, beschreiben Sie ihn."
+ },
+ "joke": {
+  "fits": "Fat Bear Week.",
+  "setup": "Was ist der Wahlspruch eines Bären zur Fat Bear Week?",
+  "punchline": "Ich habe nichts getan außer essen, und darauf bin ich stolz."
+ },
+ "riddle": {
+  "fits": "Der Weltflug von 1924.",
+  "riddle": "Ich verließ Seattle im April, kam im September zurück, und war nie lange am Boden. Was bin ich?",
+  "hint": "Zwei von vier schafften es.",
+  "answer": "Der erste Flug um die Welt."
+ }
+}

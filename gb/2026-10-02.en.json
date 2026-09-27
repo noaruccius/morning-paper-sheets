@@ -1,0 +1,96 @@
+{
+ "country": "GB",
+ "date": "2026-10-02",
+ "language": "en",
+ "lookForward": {
+  "fits": "The BFI London Film Festival opens in five days, its 70th year, and general tickets are already on sale.",
+  "headline": "In five days: London's film festival opens, 70th year",
+  "line": "The BFI London Film Festival runs 7 to 18 October across London cinemas, with premieres, talks and new films from around the world. Tickets are on general sale now; under-25s can book seats for £6.",
+  "source": {
+   "name": "BFI: London Film Festival",
+   "url": "https://www.bfi.org.uk/london-film-festival"
+  },
+  "review": "bfi.org.uk blocks automated requests; dates and ticket details confirmed through search of the BFI's own festival programme page and the Wikipedia entry for the 2026 festival.",
+  "more": [
+   "The festival opens on Wednesday 7 October with an international premiere and closes on Sunday 18 October, its 70th edition. Across those twelve days it screens several hundred features, documentaries and shorts in cinemas across London, from big premieres to smaller first films that have not found a UK distributor yet.",
+   "Most people do not go for the red carpet. The bulk of the programme is ordinary screenings, often with the director or cast in the room afterwards for questions, at prices close to a normal cinema ticket.",
+   "Booking is open now for BFI members, with general sale already running for everyone else. Anyone 25 or under can get tickets for £6 across the whole festival, one of the more generous discounts of any major festival.",
+   "Venues are spread across the city, not just the South Bank: expect screenings at BFI Southbank itself, the Royal Festival Hall, and West End cinemas. Check the film's own listing for its venue before travelling."
+  ]
+ },
+ "goodThing": {
+  "fits": "Early October is peak seed-collecting season in Britain, exactly the work behind the world's biggest wild seed bank, at Wakehurst in Sussex.",
+  "headline": "The world's biggest seed vault is British",
+  "big": "2.4 billion seeds",
+  "line": "Kew's Millennium Seed Bank at Wakehurst holds over 2.4 billion seeds from more than 40,000 wild plant species, gathered as insurance against extinction.",
+  "source": {
+   "name": "Royal Botanic Gardens, Kew: Millennium Seed Bank",
+   "url": "https://www.kew.org/about-us/press-media/Kew-millennium-seed-bank-20-years"
+  },
+  "review": "kew.org blocks automated requests; the 2.4 billion seed, 40,000 species figures confirmed through search, matching Kew's own press release and independent coverage (phys.org, IFLScience).",
+  "more": [
+   "The Millennium Seed Bank sits underground at Wakehurst, Kew's wild botanic garden in Sussex, in vaults built to survive fire, flood and a direct hit from a small aircraft. Inside, dried seeds from more than 40,000 species are kept at minus 20 degrees, where many stay viable for centuries.",
+   "It holds the Guinness World Record for the largest wild seed collection on Earth, with over 2.4 billion individual seeds banked, gathered from partners in around 190 countries. The goal is not a museum piece but a working insurance policy: seed from a species lost to development, drought or disease can, in principle, be grown again from the bank.",
+   "Autumn is when the collecting happens. Seed is only viable once it has ripened and dried on the plant, so British collectors are out through September and October, working against the same clock as any gardener saving seed from their own border, just at a much larger scale.",
+   "Anyone can visit the seed bank's exhibition at Wakehurst and see the vault through a viewing window; you do not need to be a scientist, only curious about what a insurance policy for the plant world actually looks like."
+  ]
+ },
+ "onThisDay": {
+  "fits": "2 October 1925: in a Soho attic, John Logie Baird transmitted the first television picture with real tone and shading.",
+  "year": 1925,
+  "headline": "A face appears on screen",
+  "line": "In his Frith Street lab, Baird sent the first TV picture with real shading: a dummy's head, then the face of office boy William Taynton.",
+  "source": {
+   "name": "English Heritage: John Logie Baird blue plaque",
+   "url": "https://www.english-heritage.org.uk/visit/blue-plaques/john-logie-baird-television/"
+  }
+ },
+ "funFact": {
+  "fits": "Harvest festival services fill British churches through September and October, most of them built around one particular hymn.",
+  "statement": "The harvest hymn 'We Plough the Fields and Scatter' was written in English.",
+  "answer": false,
+  "reveal": "It began as a German poem in 1782, translated into English almost eighty years later, in 1861.",
+  "source": {
+   "name": "Church of Scotland: We Plough the Field and Scatter",
+   "url": "https://music.churchofscotland.org.uk/hymn/229-we-plough-the-field-and-scatter"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the Soho attic where a television picture first showed a real human face, 2 October 1925.",
+  "title": "The face in the attic",
+  "teaser": "An office boy sat under hot lamps and became the first face on television.",
+  "paragraphs": [
+   "On the afternoon of 2 October 1925, in an upstairs laboratory at 22 Frith Street in Soho, engineer John Logie Baird finally got the result he had been chasing for years: a picture with real shading, light through dark, not just a black silhouette. His subject was a ventriloquist's dummy, propped in front of a spinning disc full of holes, lit by hot, noisy lamps.",
+   "Baird wanted to see what a living face would look like, so he called downstairs for the office boy, twenty-year-old William Edward Taynton, and asked him to sit where the dummy had been. Taynton did not much want the job; the lamps were fierce, and he nearly walked out. He stayed just long enough for Baird to capture and transmit his face to a receiver in the next room, becoming the first person ever televised.",
+   "Baird gave him half a crown for his trouble, a coin still sometimes called television's first fee. Asked what he thought of the picture, Taynton is remembered saying only that it looked crude, which by later standards it certainly was: thirty lines, five pictures a second, a face you would need to know already to recognise.",
+   "Baird was a farmer's son from Helensburgh who had failed at several ventures before television, working alone with borrowed money and secondhand parts, including a biscuit tin and an old hatbox. Frith Street is marked today with a blue plaque.",
+   "The polished demonstration that made the newspapers came four months later, to the Royal Institution. But the picture that actually worked, showing a real face for the first time anywhere, happened quietly this afternoon, before nobody but an engineer and a reluctant office boy."
+  ],
+  "source": {
+   "name": "English Heritage: John Logie Baird blue plaque",
+   "url": "https://www.english-heritage.org.uk/visit/blue-plaques/john-logie-baird-television/"
+  }
+ },
+ "word": {
+  "fits": "The device Baird built in that attic, a hundred and one years ago this week.",
+  "word": "Televisor",
+  "language": "English",
+  "pronunciation": "TEL-uh-vy-zer",
+  "meaning": "Baird's own name for his early television set, before 'television' settled into everyday use. His company sold a home version under that name from 1930."
+ },
+ "kindness": {
+  "fits": "William Taynton sat under hot lamps as a favour, and became part of history by accident.",
+  "text": "Say a proper thank you today to someone doing a small, thankless task nearby. It might matter more than they let on."
+ },
+ "joke": {
+  "fits": "Baird's first televised face, that of a reluctant office boy.",
+  "setup": "Why was William Taynton such a reluctant TV star?",
+  "punchline": "The lights were hot, the pay was half a crown, and nobody had invented the autograph yet."
+ },
+ "riddle": {
+  "fits": "The harvest hymn sung in churches this season, German by birth.",
+  "riddle": "I began as a German poem about ploughing, and now I open harvest services stacked with tins and vegetables. What am I?",
+  "hint": "Sung at harvest festival.",
+  "answer": "'We Plough the Fields and Scatter.'"
+ }
+}

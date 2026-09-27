@@ -1,0 +1,84 @@
+{
+ "country": "DE",
+ "date": "2026-10-03",
+ "language": "de",
+ "lookForward": {
+  "fits": "Heute, am Feiertag selbst, läuft das Bürgerfest in Bremen den ganzen Tag, mit dem großen Konzertabend am Abend.",
+  "headline": "Heute Abend an der Weser: großes Konzert, frei zugänglich",
+  "line": "Das Bürgerfest zum Tag der Deutschen Einheit füllt Bremens Innenstadt bis Sonntag, Eintritt frei. Höhepunkt heute: Die Fantastischen Vier um 19:30 Uhr, danach eine Licht- und Feuershow am Weserufer um 20:30 Uhr.",
+  "source": {
+   "name": "Tag der Deutschen Einheit 2026 in Bremen: Programm",
+   "url": "https://tagderdeutscheneinheit.de/programm/"
+  },
+  "more": [
+   "Das Bürgerfest ist der öffentliche Teil der Feier: Bühnen, Essensstände und die Ländermeile, auf der jedes der 16 Bundesländer einen eigenen Pavillon zeigt, verteilt über die Bremer Innenstadt und den Marktplatz. Alles ist kostenlos, ohne Anmeldung.",
+   "Heute, Samstag, ist der Haupttag. Ab dem Nachmittag spielen Bands auf mehreren Bühnen, um 19:30 Uhr tritt die Band Die Fantastischen Vier auf. Um 20:30 Uhr folgt am Weserufer eine Abendinszenierung mit Licht, Musik und Feuerwerk unter dem Motto des Jahres, 'Viele Stärken, ein Land'.",
+   "Wer hin will: Bremens Innenstadt ist an dem Wochenende autofrei für den Festbereich, am besten mit Bahn oder Straßenbahn anreisen. Die Bühnen und die Ländermeile liegen fußläufig zueinander, zwischen Marktplatz, Domshof und Schlachte an der Weser.",
+   "Das Fest geht bis Sonntagabend weiter, mit einem ruhigeren, familienfreundlichen Programm."
+  ]
+ },
+ "goodThing": {
+  "fits": "Am Tag der Deutschen Einheit pflanzt Deutschland seit einigen Jahren Bäume, einer der ruhigeren Bräuche des Feiertags.",
+  "headline": "Heute pflanzt das Land wieder Bäume",
+  "big": "450.000 Bäume",
+  "line": "Einheitsbuddeln: eine Aktion aus Schleswig-Holstein, inzwischen bundesweit. Am 3. Oktober pflanzt jeder, der will, einen Baum, im eigenen Garten oder bei einer öffentlichen Aktion.",
+  "source": {
+   "name": "Einheitsbuddeln: Die Tradition zum Tag der Deutschen Einheit",
+   "url": "https://einheitsbuddeln.org/"
+  },
+  "more": [
+   "Einheitsbuddeln began 2019 in Schleswig-Holstein als kleine Idee zum 30. Jahrestag der deutschen Einheit: ein Baum für jeden Menschen im Land, gepflanzt am Feiertag. Bekannt wurde die Aktion vor allem durch den Comic-Zeichner Ralph Ruthe, der sie öffentlich unterstützte.",
+   "Mitmachen kann jeder, im eigenen Garten mit einem einzelnen Setzling oder bei einer der organisierten Pflanzaktionen, die Kommunen, Vereine und Baumschulen am 3. Oktober anbieten. Ministerpräsidenten mehrerer Länder haben die Schirmherrschaft übernommen.",
+   "In den bisherigen Jahren kamen so rund 450.000 gepflanzte Bäume und etwa 480.000 Euro an Spenden für Aufforstungsprojekte zusammen, nach Angaben der Initiative.",
+   "Der Gedanke dahinter ist einfach: ein Feiertag, der an das Zusammenwachsen von zwei Landesteilen erinnert, bekommt so jedes Jahr ein sichtbares, wachsendes Zeichen dazu, das lange nach dem Feuerwerk noch steht."
+  ]
+ },
+ "funFact": {
+  "fits": "Der heutige Feiertag hatte nicht immer dieses Datum; bis 1990 hieß ein ganz anderer Tag Tag der Deutschen Einheit.",
+  "statement": "Vor 1990 war der 17. Juni der Tag der Deutschen Einheit.",
+  "answer": true,
+  "reveal": "Ab 1953 erinnerte der 17. Juni an den Volksaufstand in der DDR; 1990 übernahm der 3. Oktober den Namen.",
+  "source": {
+   "name": "bpb: Warum wird der 3. Oktober gefeiert?",
+   "url": "https://www.bpb.de/themen/deutschlandarchiv/340959/warum-wird-der-3-oktober-gefeiert/"
+  }
+ },
+ "calmRead": {
+  "fits": "Erklärt, warum das Bürgerfest heute ausgerechnet in Bremen steht, und was heute noch hinter den Kulissen passiert.",
+  "title": "Warum Bremen, und wer als Nächstes",
+  "teaser": "Ein Land feiert immer dort, wo gerade der Vorsitz liegt, und heute wechselt er weiter.",
+  "paragraphs": [
+   "Wer sich fragt, warum die große Feier zum Tag der Deutschen Einheit ausgerechnet dieses Jahr in Bremen stattfindet und nächstes Jahr woanders, findet die Antwort im Bundesrat, der Vertretung der 16 Bundesländer in Berlin.",
+   "Der Vorsitz des Bundesrats wechselt jedes Jahr am 1. November zwischen den Ländern, nach einer festen Reihenfolge, die grob der Einwohnerzahl folgt und bereits bis zum Jahr 2041 feststeht. Seit dem 1. November 2025 hat Bremen den Vorsitz, mit Bürgermeister Andreas Bovenschulte als Bundesratspräsident. Deshalb ist die kleinste Stadt unter den Bundesländern in diesem Jahr Gastgeberin für die größte Feier des Landes.",
+   "Das bringt eine hübsche Nebensache mit sich: Genau heute, am Tag der Feier selbst, übergibt Bovenschulte den Bundesratsvorsitz symbolisch an seinen Nachfolger, Ministerpräsident Hendrik Wüst aus Nordrhein-Westfalen. Die förmliche Wahl im Bundesrat folgt erst am 16. Oktober, aber der symbolische Moment gehört traditionell zum Fest.",
+   "Die Tradition, den Feiertag jedes Jahr in einem anderen Bundesland zu feiern, gibt es erst seit der Wiedervereinigung. Sie soll zeigen, dass die Einheit kein Berliner Ereignis ist, sondern eines, das dem ganzen Land gehört, ob in einer Großstadt oder, wie dieses Jahr, in Bremen mit seinen rund 570.000 Einwohnern.",
+   "Nächstes Jahr zieht die Feier weiter, in das Bundesland, das dann turnusgemäß an der Reihe ist. Bremen behält dafür die Erinnerung an ein Wochenende, an dem die ganze Republik zu Gast war."
+  ],
+  "source": {
+   "name": "Bundesrat: Tag der Deutschen Einheit – Deutschland zu Gast in Bremen",
+   "url": "https://www.bundesrat.de/DE/termine/veranstaltungen-termine/tag-dt-einheit/dt-einheit-inhalt-26.html"
+  }
+ },
+ "word": {
+  "fits": "Der heutige Feiertag und sein diesjähriges Motto in Bremen.",
+  "word": "Bürgerfest",
+  "language": "Deutsch",
+  "pronunciation": "BÜR-ger-fest",
+  "meaning": "Ein Fest für alle Bürgerinnen und Bürger, ohne Eintritt. Am 3. Oktober bezeichnet es die öffentliche Feier in der Gastgeberstadt, offen für jeden."
+ },
+ "kindness": {
+  "fits": "Der Tag, an dem zwei Landesteile zusammenfanden.",
+  "text": "Fragen Sie heute jemanden aus einer anderen Ecke des Landes, wie der 3. Oktober bei ihm oder ihr zu Hause gefeiert wird."
+ },
+ "joke": {
+  "fits": "Die Bundesratspräsidentschaft, die heute von Bremen weiterwandert.",
+  "setup": "Warum ist der Bundesratsvorsitz wie ein Staffelstab?",
+  "punchline": "Man hält ihn ein Jahr lang stolz in der Hand und gibt ihn dann ab, bevor man ihn verliert."
+ },
+ "riddle": {
+  "fits": "Die Ländermeile beim Bürgerfest, mit einem Pavillon pro Bundesland.",
+  "riddle": "Ich bin ein Zelt, aber ich gehöre keinem Zirkus. Sechzehnmal stehe ich heute nebeneinander, jedes Mal mit einem anderen Wappen. Was bin ich?",
+  "hint": "Auf der Ländermeile in Bremen.",
+  "answer": "Ein Länder-Pavillon."
+ }
+}
