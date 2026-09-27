@@ -1,0 +1,44 @@
+{
+ "country": "US",
+ "date": "2026-09-29",
+ "language": "de",
+ "lookForward": {
+  "fits": "Die Fat-Bear-Week-Siegerin wird heute gekürt, am 29. September 2026.",
+  "headline": "Heute wird die Fat-Bear-Week-Siegerin gekürt",
+  "line": "Die letzte Abstimmung auf fatbearweek.org endet heute Abend, und der Katmai-Nationalpark kürt seinen dicksten Braunbären des Jahres 2026. Die Gewinnerin bekommt nichts und braucht nichts. Sie hat noch eine Höhle zu erreichen.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  },
+  "more": [
+   "Der Katmai-Nationalpark liegt auf der Alaska-Halbinsel, einem Ort mit mehr Braunbären als Menschen. Im Spätsommer stehen die Bären im Brooks River und fangen Rotlachse, die die Wasserfälle hinaufspringen, und fressen so viel wie möglich vor dem Winter. Ein Bär, der im Oktober in seine Höhle geht, frisst bis zum Frühling nichts mehr, also gilt: je dicker, desto besser.",
+   "Fat Bear Week macht daraus ein Spiel. Der Park wählt etwa zwölf Bären, zeigt von jedem ein Foto aus dem Juli und eines aus dem September und stellt sie in einem K.-o.-System gegeneinander. Jeder kann einmal täglich auf fatbearweek.org abstimmen, kostenlos, ohne Konto. Die Abstimmung lief von Dienstag, 22. September, bis Dienstag, 29. September 2026, wenn die Siegerin gekürt wird. Dem Bären sagt es niemand.",
+   "Die Live-Kameras auf explore.org zeigen die Brooks Falls den ganzen Tag. Schauen Sie eine Weile zu; es ist sehr beruhigend, und die Lachse laufen noch."
+  ]
+ },
+ "funFact": {
+  "fits": "Fat-Bear-Week-Siegerin.",
+  "statement": "Ein Katmai-Bär kann im Winterschlaf ein Drittel seines Gewichts verlieren.",
+  "answer": true,
+  "reveal": "Fünf Monate ohne Nahrung und Wasser, allein vom Fett lebend. Mit gut 450 Kilo hinein, mit etwa 320 Kilo heraus. Je dicker, desto sicherer.",
+  "source": {
+   "name": "National Park Service: Fat Bear Week 2026",
+   "url": "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+  }
+ },
+ "kindness": {
+  "fits": "Dienstag; ein Bär gewinnt, weil er gut gefüttert ist.",
+  "text": "Füttern Sie heute jemanden. Bringen Sie einer Kollegin Mittagessen mit, oder kochen Sie für die Person, die sonst immer kocht."
+ },
+ "joke": {
+  "fits": "Die Fat-Bear-Siegerin.",
+  "setup": "Was sagte die Fat-Bear-Siegerin in ihrer Dankesrede?",
+  "punchline": "Nichts. Sie schlief schon im November."
+ },
+ "riddle": {
+  "fits": "Fat Bear Week.",
+  "riddle": "Je runder ich bin, desto größer meine Chance, den Frühling zu sehen. Was bin ich?",
+  "hint": "Alaska.",
+  "answer": "Ein Braunbär vor dem Winterschlaf."
+ }
+}

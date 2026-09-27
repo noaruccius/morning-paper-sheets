@@ -1,0 +1,81 @@
+{
+ "country": "DE",
+ "date": "2026-10-04",
+ "language": "de",
+ "lookForward": {
+  "fits": "Nach dem Erntedank in der Kirche heute zieht der Dank fürs Feld nächstes Wochenende auf die Straße: der Zwiebelmarkt in Weimar.",
+  "headline": "Nächstes Wochenende in Weimar: der Zwiebelmarkt",
+  "line": "Der Zwiebelmarkt ist Thüringens größtes Volksfest, seit 373 Ausgaben: drei Tage lang, vom 9. bis 11. Oktober, in der Innenstadt. Rund um den Markt gibt es geflochtene Zwiebelzöpfe, Zwiebelkuchen und Livemusik auf mehreren Bühnen.",
+  "source": {
+   "name": "Stadt Weimar: Zwiebelmarkt",
+   "url": "https://www.weimar.de/kultur/veranstaltungen/maerkte-und-feste/zwiebelmarkt/"
+  },
+  "more": [
+   "Der Zwiebelmarkt ist Thüringens größtes Volksfest und einer der ältesten Märkte Deutschlands: Die erste Ausgabe wird bereits für das 17. Jahrhundert überliefert, 2026 findet die 373. statt.",
+   "Los geht es Freitagmittag, 9. Oktober, mit dem traditionellen Anschnitt des Zwiebelkuchens auf dem Marktplatz. Danach ziehen sich Marktstände durch die ganze Innenstadt, mit geflochtenen Zwiebelzöpfen, Zwiebelbrot und Zwiebelwein, dazu Livemusik auf mehreren Bühnen und ein Programm für Kinder.",
+   "Wer hinfährt: Weimar liegt mit dem Zug etwa eine Stunde von Erfurt oder Jena entfernt, der historische Marktplatz ist vom Bahnhof aus zu Fuß in gut zwanzig Minuten erreichbar. Der Markt geht bis Sonntagabend, 11. Oktober."
+  ]
+ },
+ "goodThing": {
+  "fits": "Erntedank dankt für die Ernte; die Streuobstwiese mit ihren alten Apfel- und Birnbäumen trägt diesen Dank das ganze Jahr über, nicht nur heute.",
+  "headline": "Streuobstwiesen sind jetzt Kulturerbe",
+  "big": "1,3 Mio. Unterstützer",
+  "line": "Seit 2021 zählt der Streuobstanbau zum immateriellen Kulturerbe Deutschlands. Über 1,3 Millionen Menschen unterstützten den Antrag für die alten Apfel- und Birnbäume.",
+  "source": {
+   "name": "Hochstamm Deutschland: Streuobstanbau als Kulturerbe",
+   "url": "https://www.hochstamm-deutschland.de/streuobst-bewahren/immaterielles-kulturerbe"
+  },
+  "more": [
+   "Eine Streuobstwiese ist eine Wiese mit hochgewachsenen, weit auseinanderstehenden Obstbäumen, oft alten Apfel-, Birn- und Kirschsorten, die es im Supermarkt längst nicht mehr gibt. Solche Wiesen zählen zu den artenreichsten Lebensräumen Mitteleuropas.",
+   "2021 entschied die Kultusministerkonferenz, den Streuobstanbau in das Bundesweite Verzeichnis des immateriellen Kulturerbes aufzunehmen, auf Antrag des Vereins Hochstamm Deutschland. Über 1,3 Millionen Menschen unterstützten den Antrag zuvor mit ihrer Unterschrift.",
+   "Anerkannt wurde damit nicht ein Ort oder ein Ding, sondern ein Wissen: wie man solche Bäume pflanzt, pflegt, beerntet und ihre Früchte zu Saft, Most oder Mus verarbeitet, oft über Generationen weitergegeben."
+  ]
+ },
+ "funFact": {
+  "fits": "Auch heute, zu Erntedank, hängt in vielen Kirchen eine Erntekrone aus Getreideähren über dem Altar.",
+  "statement": "Eine Erntekrone hat immer genau vier Getreidesorten.",
+  "answer": false,
+  "reveal": "Meist sind es vier, die bayerische Landjugend flicht ihre sogar aus sechs: Weizen, Roggen, Hafer, Dinkel, Gerste und Triticale.",
+  "source": {
+   "name": "Bayerisches Landwirtschaftsministerium: Jungbauernschaft überreicht Erntekrone",
+   "url": "https://www.stmelf.bayern.de/landwirtschaft/pflanzenbau/jungbauernschaft-ueberreicht-erntekrone"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft, warum die Kirchen im Land ausgerechnet heute Erntedank feiern und woher der Brauch überhaupt kommt.",
+  "title": "Woher der Dank am ersten Sonntag kommt",
+  "teaser": "Ein Fest, das älter ist als das Christentum, bekam sein festes Datum erst 1972.",
+  "paragraphs": [
+   "Erntedank ist älter als die Kirche, die es heute feiert. Schon im alten Rom, in Griechenland und in Israel dankten Menschen nach der Ernte den Göttern oder Gott für das, was das Jahr gebracht hatte. Schon in der Bibel, im ersten Buch Mose, bringen Kain und Abel die Früchte ihrer Arbeit dar, lange bevor es dafür ein festes Datum gab.",
+   "Als eigener Termin im Kirchenkalender ist Erntedank noch jung: Erst im 20. Jahrhundert bekam er ein festes Datum. 1972 einigte sich die Deutsche Bischofskonferenz auf den ersten Sonntag im Oktober, als Empfehlung, nicht als Pflicht. Der Grund: Die Ernte kommt je nach Klima und Region zu unterschiedlichen Zeiten ins Haus, an der Mosel zum Beispiel erst nach der Weinlese, oft erst im November.",
+   "In den Gottesdiensten heute geht es um zwei Dinge zugleich: Dank für das tägliche Brot, und die Erinnerung daran, wie sehr Menschen von der Natur abhängen, so leicht sich das im Alltag vergessen lässt. Fast überall im Land liegen heute Kürbisse, Äpfel und Brot vor dem Altar, darüber hängt vielerorts die Erntekrone aus geflochtenen Ähren.",
+   "Wer heute in eine x-beliebige Kirche geht, evangelisch oder katholisch, sieht ungefähr dasselbe Bild: einen Altar voller Feldfrüchte, gebracht von Menschen, die selbst oft keinen Acker mehr besitzen. Das Fest hat sich verändert, aber der Grundgedanke ist derselbe geblieben wie vor zweitausend Jahren."
+  ],
+  "source": {
+   "name": "Erzbistum Köln: Erntedank – Geschichte und Bedeutung des Erntedankfests",
+   "url": "https://www.erzbistum-koeln.de/presse_und_medien/magazin/Erntedank-Geschichte-und-Bedeutung-des-Erntedankfests/"
+  }
+ },
+ "word": {
+  "fits": "Der Schmuck, der heute in vielen Kirchen im Land über dem Altar hängt.",
+  "word": "Erntekrone",
+  "language": "Deutsch",
+  "pronunciation": "ERN-te-kroh-ne",
+  "meaning": "Ein Kranz aus den letzten Getreideähren des Jahres, mit Bändern und Feldfrüchten geschmückt. Hängt an Erntedank in vielen Kirchen über dem Altar."
+ },
+ "kindness": {
+  "fits": "Erntedank feiert, was der Garten gebracht hat; wer heute zu viel davon hat, kann etwas abgeben.",
+  "text": "Haben Sie zu viel Obst oder Gemüse im Garten geerntet? Stellen Sie heute einen Korb davon an den Gartenzaun, für jeden, der vorbeikommt."
+ },
+ "joke": {
+  "fits": "Die Getreideähren, aus denen heute die Erntekrone gebunden wird.",
+  "setup": "Was sagt eine Ähre zur anderen vor dem Erntedankfest?",
+  "punchline": "Kopf hoch, gleich werden wir zur Krone!"
+ },
+ "riddle": {
+  "fits": "Der Kürbis, der heute auf vielen Erntedank-Altären liegt.",
+  "riddle": "Ich bin rund und orange, ich liege heute auf vielen Altären, aber in der Suppe lande ich meistens erst danach. Was bin ich?",
+  "hint": "Ein Erntedank-Klassiker, im Oktober überall zu finden.",
+  "answer": "Der Kürbis."
+ }
+}

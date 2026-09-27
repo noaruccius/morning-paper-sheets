@@ -1,0 +1,71 @@
+{
+ "country": "GB",
+ "date": "2026-09-29",
+ "language": "de",
+ "lookForward": {
+  "fits": "Michaelmas, 29. September: alter Quartalstag, Gänsetag, Beginn des Rechts- und Universitätsjahrs.",
+  "headline": "Heute ist Michaelmas: der alte Start ins Herbstgeschäft",
+  "line": "Der 29. September ist das Fest des Erzengels Michael, ein alter Quartalstag, an dem die Miete fällig war und das Oxford-Trimester begann; es trägt den Namen bis heute. Essen Sie heute Brombeeren: Ab morgen, sagt der Volksglaube, gehören sie dem Teufel.",
+  "source": {
+   "name": "University of Oxford: Dates of term",
+   "url": "https://www.ox.ac.uk/about/the-university/facts-and-figures/dates-of-term"
+  }
+ },
+ "onThisDay": {
+  "fits": "29. September 1829: Die ersten Constables der Metropolitan Police gingen in London auf Streife.",
+  "year": 1829,
+  "headline": "Die ersten Londoner Polizisten gingen auf die Straße",
+  "line": "Tausend Männer in blauen Gehröcken und Zylindern, um sechs Uhr abends. Peels Idee: Verbrechen verhindern, nicht nur bestrafen.",
+  "source": {
+   "name": "Historic UK: Sir Robert Peel and his bobbies",
+   "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Sir-Robert-Peel/"
+  }
+ },
+ "funFact": {
+  "fits": "Michaelmas.",
+  "statement": "Wer an Michaelmas Gans aß, dem sagte man ein Jahr voller Geld nach.",
+  "answer": true,
+  "reveal": "Eine alte englische Redensart. Die Gänse waren fett von den Stoppelfeldern, und die Miete war am selben Tag fällig. Praktisch.",
+  "source": {
+   "name": "National Geographic: Michaelmas folklore",
+   "url": "https://www.nationalgeographic.com/culture/article/michaelmas-the-day-the-devil-spit-on-your-blackberries"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das heutige On this day: die erste Polizei, London, 1829.",
+  "title": "Tausend Männer mit Zylinder",
+  "teaser": "Die Polizei wurde an diesem Abend 1829 in London erfunden, bewusst anders als das Militär.",
+  "paragraphs": [
+   "Um sechs Uhr abends am 29. September 1829 verließen etwa tausend Männer die Wachen in ganz London, in blauen Gehröcken und Zylindern, ohne mehr als eine hölzerne Schnarre und einen kurzen Stock. Niemand hatte so etwas je gesehen. Innerhalb eines Jahres hatte jeder einen Namen für sie: bobbies, oder peelers, nach Robert Peel, dem Innenminister, der jahrelang das Parlament überzeugen musste, ihn den Versuch machen zu lassen.",
+   "Die Idee war neu. Bis dahin wurde London von Kirchspiel-Constables, privaten Diebesfängern und, wenn es schlimm wurde, der Armee bewacht. Peel wollte etwas anderes: eine Truppe, deren Erfolg am Ausbleiben von Verbrechen gemessen wurde, nicht an der Zahl der Festnahmen. Seine Männer sollten höflich sein, so wenig Gewalt wie möglich anwenden und sich daran erinnern, dass sie Bürger waren, die zufällig dafür bezahlt wurden, hauptberuflich zu tun, was jeder Bürger eigentlich tun sollte.",
+   "Die Uniform war mit Absicht gewählt. Blau, nicht Rot, denn Rot trug das Militär. Ein Zylinder, weil Herren Zylinder trugen. Kein Schwert, keine Waffe. Die Londoner misstrauten ihnen jahrelang, und der erste im Dienst getötete Constable, Joseph Grantham, starb 1830. Aber die Mordrate sank, die Unruhen wurden kleiner, und in den 1850er Jahren hatte jede Stadt Großbritanniens die Anweisung, eine eigene Truppe aufzustellen.",
+   "Peels Grundsätze stehen bis heute in Polizei-Handbüchern rund um die Welt. Der meistzitierte: Die Polizei ist die Öffentlichkeit, und die Öffentlichkeit ist die Polizei."
+  ],
+  "source": {
+   "name": "Historic UK: Sir Robert Peel and his bobbies",
+   "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Sir-Robert-Peel/"
+  }
+ },
+ "word": {
+  "fits": "Die erste Polizei, heute im Jahr 1829.",
+  "word": "Bobby",
+  "language": "Englisch",
+  "pronunciation": "BOB-i",
+  "meaning": "Ein Polizist, nach Robert Peel, der die Polizei erfand. Die liebevolle Version. Die andere Version, peeler, hat sich nicht gehalten."
+ },
+ "kindness": {
+  "fits": "Michaelmas, der alte Mietstag.",
+  "text": "Begleichen Sie heute eine Kleinigkeit, die Sie schulden: einen Fünfer, einen Gefallen, ein Dankeschön. Es ist der alte Quartalstag. Starten Sie sauber ins nächste Quartal."
+ },
+ "joke": {
+  "fits": "Die Michaelmas-Gans.",
+  "setup": "Warum war die Gans an Michaelmas so nervös?",
+  "punchline": "Alle sagten ständig, sie sehe wohlgenährt aus."
+ },
+ "riddle": {
+  "fits": "Die erste Polizei.",
+  "riddle": "Ich trug einen Zylinder, eine Schnarre in der Hand, und ging 1829 um sechs Uhr auf die Straße. Was war ich?",
+  "hint": "Benannt nach Robert.",
+  "answer": "Ein Bobby, einer der ersten Polizei-Constables."
+ }
+}

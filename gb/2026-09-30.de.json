@@ -1,0 +1,64 @@
+{
+ "country": "GB",
+ "date": "2026-09-30",
+ "language": "de",
+ "lookForward": {
+  "fits": "Morgen beginnt der Oktober; Black History Month in Großbritannien und am Donnerstag Nationaler Poesietag.",
+  "headline": "Morgen Oktober: die Bäume fangen an, sich zu verfärben",
+  "line": "Zuerst werden die Buchen golden, dann die Ahornbäume, die Eichen erst spät im Monat. Suchen Sie sich morgen einen Baum auf Ihrem üblichen Weg aus und beobachten Sie ihn den ganzen Oktober über. Es geht schneller, als man denkt.",
+  "source": {
+   "name": "Forestry England: Autumn",
+   "url": "https://www.forestryengland.uk/autumn"
+  }
+ },
+ "onThisDay": {
+  "fits": "30. September 2024: Großbritanniens letztes Kohlekraftwerk schloss.",
+  "year": 2024,
+  "headline": "Großbritannien schaltete die Kohle endgültig ab",
+  "line": "Ratcliffe-on-Soar wurde abgeschaltet, als letztes seiner Art. Das Land, das 1882 das erste Kohlekraftwerk der Welt anzündete, schloss als erstes auch sein letztes.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "funFact": {
+  "fits": "Zwei Jahre seit dem Ende der Kohlekraft.",
+  "statement": "Großbritannien baute das weltweit erste öffentliche Kohlekraftwerk.",
+  "answer": true,
+  "reveal": "Holborn Viaduct, London, 1882, es beleuchtete die Straßenlaternen. 142 Jahre später schloss das letzte Kohlekraftwerk. Beides Premieren.",
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das heutige On this day: das Ende der Kohlekraft in Großbritannien, vor zwei Jahren.",
+  "title": "Die letzte Schicht in Ratcliffe",
+  "teaser": "Vor zwei Jahren, heute Nacht, schaltete das Land, das die Kohlekraft erfand, sie ab.",
+  "paragraphs": [
+   "Am Ende der Abendschicht des 30. September 2024 fuhr die Belegschaft des Kohlekraftwerks Ratcliffe-on-Soar in Nottinghamshire den letzten kohlebefeuerten Block Großbritanniens herunter. Die acht Kühltürme an der M1, jedem Autofahrer Richtung Norden ein Wahrzeichen, wurden kalt. Es gab eine kleine Zeremonie, ein paar Tränen, und dann eine Stille, wie man sie in diesem Land seit Königin Victoria nicht gehört hatte.",
+   "Die Kohlekraft begann genau hier. Im Januar 1882 zündete die Edison-Gesellschaft die Straßenlaternen des Holborn Viaduct in London mit einem kohlebefeuerten Generator an, dem ersten öffentlichen Kraftwerk der Welt. Ein Jahrhundert lang war Kohle danach Großbritannien: die Zechen, die Streiks, der Smog, die Züge. Noch 2012 lieferte sie zwei Fünftel des Stroms im Land.",
+   "Dann brach es ein. Gas wurde billiger, Windparks entstanden in der Nordsee, ein CO2-Preis machte Kohle teuer, und die Regierung setzte ein Datum fest. Bis 2020 lieferte Kohle unter zwei Prozent. Ratcliffe, 1967 eröffnet, ließ im Januar 2024 seine vier Blöcke zum letzten Mal gemeinsam laufen und nahm im Juni seine letzte Kohlelieferung entgegen.",
+   "Großbritannien war die erste große Volkswirtschaft, die aufhörte, und es geschah, ohne dass die Lichter ausgingen. Das Kraftwerk wird abgerissen; geplant ist ein Neubau auf dem Gelände. Die Kühltürme werden verschwinden. Autofahrer auf der M1 werden eine Weile eine Lücke bemerken."
+  ],
+  "source": {
+   "name": "Uniper: Ratcliffe-on-Soar ends coal generation",
+   "url": "https://www.uniper.energy/news/the-end-of-an-era---ratcliffe-on-soar-power-station-ends-coal-generation"
+  }
+ },
+ "kindness": {
+  "fits": "Letzter Tag im September.",
+  "text": "Bedanken Sie sich heute bei jemandem, der diesen Monat für Ihr Licht gesorgt hat. Der Techniker, die Reinigungskraft, wer auch immer den Wasserkocher gefüllt hat."
+ },
+ "joke": {
+  "fits": "Das Ende der Kohle.",
+  "setup": "Was sagte das letzte Kohlekraftwerk beim Abschalten?",
+  "punchline": "Ich hatte einen guten Lauf. Etwa 142 Jahre. Zeit, abzukühlen."
+ },
+ "riddle": {
+  "fits": "Morgen Oktober.",
+  "riddle": "Ich werde golden, ich lasse los, und wegen mir kehrt man im November den Weg. Was bin ich?",
+  "hint": "Zuerst die Buche.",
+  "answer": "Ein Blatt."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "country": "GB",
+ "date": "2026-10-03",
+ "language": "en",
+ "lookForward": {
+  "fits": "World Space Week begins tomorrow, and the Science Museum in London opens nine free days of space to mark it.",
+  "headline": "Tomorrow: nine free days of space, in London",
+  "line": "World Space Week runs 4 to 10 October at the Science Museum in South Kensington. See Helen Sharman's spacesuit and a Moon rock for free, plus a free family Space Show on Saturdays and Sundays.",
+  "source": {
+   "name": "Science Museum: World Space Week",
+   "url": "https://www.sciencemuseum.org.uk/world-space-week"
+  },
+  "more": [
+   "World Space Week is marked every year from 4 to 10 October, chosen because Sputnik 1, the first satellite, launched on 4 October 1957, and the Outer Space Treaty was signed on 10 October 1967. The Science Museum, on Exhibition Road in South Kensington, joins in with its regular Space gallery: general admission is free, and it holds Helen Sharman's spacesuit from her 1991 flight, the first Briton in space, alongside a genuine three-billion-year-old piece of the Moon.",
+   "The free family Space Show runs in the museum's lecture theatre on Saturdays, Sundays and school holidays; it needs its own free ticket, best booked online in advance or picked up on arrival. There is also a free trail through the museum for the week. An IMAX film on space costs extra if you want it, but nothing else does."
+  ]
+ },
+ "goodThing": {
+  "fits": "It's Saturday, and across the country the same free 5k is starting in hundreds of local parks this morning.",
+  "headline": "A free 5k in the park, every Saturday",
+  "big": "1,395 runs",
+  "line": "parkrun holds free, timed 5k runs and walks in over 1,395 UK parks every Saturday morning. Any pace, no charge, everyone welcome.",
+  "source": {
+   "name": "parkrun UK",
+   "url": "https://www.parkrun.org.uk/"
+  },
+  "review": "parkrun.org.uk blocks automated requests; the 1,395 UK events, free entry and every-Saturday, all-paces format confirmed through search of parkrun's own event listings and independent running-news coverage."
+ },
+ "onThisDay": {
+  "fits": "3 October 1916: James Herriot, the Yorkshire vet whose gentle books made millions love animal stories, was born in Sunderland.",
+  "year": 1916,
+  "headline": "The vet who wrote about kindness to animals",
+  "line": "James Herriot, born James Alfred Wight, spent almost 50 years as a Yorkshire vet before his books, written under a pen name, made him world-famous.",
+  "source": {
+   "name": "World of James Herriot",
+   "url": "https://worldofjamesherriot.com/fabulous-centenary-anniversary/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: James Herriot, born in Sunderland 3 October 1916, who spent a working life as a country vet before he ever published a word.",
+  "title": "The vet who waited until fifty",
+  "teaser": "A country vet spent decades among Yorkshire's farms before he wrote a word of it down.",
+  "paragraphs": [
+   "James Alfred Wight was born in Sunderland on 3 October 1916. The family moved to Glasgow when he was three weeks old, and it was there he grew up and trained at Glasgow Veterinary College, qualifying as a vet at twenty-three, in the middle of the Depression, when jobs for young vets were scarce.",
+   "In July 1940 he took a post in Thirsk, North Yorkshire, treating farm animals across the Dales: cows calving in cold barns, sick sheep on hillsides, a working life spent mostly outdoors in all weather. He married Joan Danbury in 1941, served in the RAF during the war, and returned to the same Thirsk practice in 1946, staying there for the rest of his working life.",
+   "He did not start writing until his fifties, pushed on by Joan after years of saying he might one day. Vets were not allowed to advertise, so he could not publish under his own name; he borrowed a pen name from a footballer he had watched on television. His first book appeared in 1970, and 'James Herriot' became one of the best-loved names in English writing.",
+   "He never moved away. Alf Wight kept treating animals in Thirsk almost to the end, in the same rooms that are now a museum of his life, a short walk from wherever a reader in Britain might be today."
+  ],
+  "source": {
+   "name": "World of James Herriot",
+   "url": "https://worldofjamesherriot.com/about-james-herriot/"
+  }
+ },
+ "funFact": {
+  "fits": "Robins are singing again in British gardens this week, now that most other birds have gone quiet for autumn.",
+  "statement": "British robins go quiet and stop singing through autumn and winter.",
+  "answer": false,
+  "reveal": "Robins are almost the only UK birds that sing nearly all year round; their autumn song defends territory, not a mate.",
+  "source": {
+   "name": "RSPB: Robin",
+   "url": "https://www.rspb.org.uk/birds-and-wildlife/robin"
+  }
+ },
+ "word": {
+  "fits": "A Yorkshire word for the small streams that cross the dales James Herriot wrote about.",
+  "word": "Beck",
+  "language": "English (Yorkshire dialect, from Old Norse)",
+  "pronunciation": "BEK",
+  "meaning": "A small stream or brook. Common across northern England, from the Old Norse 'bekkr'; you cross becks on stepping stones all over the Yorkshire Dales."
+ },
+ "kindness": {
+  "fits": "James Herriot spent a working life on small, unglamorous kindnesses to animals nobody else saw.",
+  "text": "Do one small, unglamorous kindness for an animal today: fresh water for a pet, a full bird feeder, a slower step around a nervous dog."
+ },
+ "joke": {
+  "fits": "James Herriot's decades of early calls to calving cows and difficult patients.",
+  "setup": "Why did the Yorkshire vet never need an alarm clock?",
+  "punchline": "A cow calving at 4am is louder, and far less forgiving, than any alarm."
+ },
+ "riddle": {
+  "fits": "The same autumn robin song heard in British gardens this week.",
+  "riddle": "I sing through autumn and winter, when most birds go quiet, guarding my patch rather than calling for a mate. What am I?",
+  "hint": "Listen in the garden this week, even in rain.",
+  "answer": "A robin."
+ }
+}

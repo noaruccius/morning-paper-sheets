@@ -1,0 +1,71 @@
+{
+ "country": "US",
+ "date": "2026-09-30",
+ "language": "de",
+ "lookForward": {
+  "fits": "Morgen beginnt der Oktober; die Laubfärbung im Norden Neuenglands erreicht Anfang Oktober ihren Höhepunkt.",
+  "headline": "Morgen Oktober: die Blätter verfärben sich nördlich von Ihnen",
+  "line": "Im Norden Maines, in Vermont und den Adirondacks liegt der Höhepunkt in der ersten Oktoberwoche, danach wandert die Farbe etwa 160 Kilometer pro Woche nach Süden. Planen Sie diesen Monat einen Spaziergang unter Bäumen.",
+  "source": {
+   "name": "US Forest Service: Fall colors",
+   "url": "https://www.fs.usda.gov/visit/fall-colors"
+  }
+ },
+ "onThisDay": {
+  "fits": "30. September 1882: Das erste Wasserkraftwerk der USA nahm am Fox River in Appleton, Wisconsin, den Betrieb auf.",
+  "year": 1882,
+  "headline": "Ein Fluss beleuchtete zum ersten Mal ein Haus",
+  "line": "In Appleton, Wisconsin, trieb ein Wasserrad am Fox River einen Edison-Dynamo an und beleuchtete zwei Papierfabriken und ein Wohnhaus.",
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "funFact": {
+  "fits": "Das erste Wasserkraftwerk, heute im Jahr 1882.",
+  "statement": "Das erste Wasserkraftwerk Amerikas versorgte eine ganze Stadt mit Strom.",
+  "answer": false,
+  "reveal": "Es beleuchtete zwei Papierfabriken und das Haus des Besitzers, etwa zwölf Kilowatt. Wasserkraft liefert heute rund sechs Prozent des US-Stroms.",
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das heutige On this day: das erste Wasserkraftwerk, Appleton, 1882.",
+  "title": "Die Nacht, in der der Fluss das Licht anschaltete",
+  "teaser": "Sechsundzwanzig Tage nachdem Edison Manhattan beleuchtete, tat es ein Papierfabrikant in Wisconsin mit Wasser.",
+  "paragraphs": [
+   "H. J. Rogers besaß eine Papierfabrik am Fox River in Appleton, Wisconsin, und hatte von Thomas Edison gelesen. Im Sommer 1882 kaufte er einen von Edisons neuen Dynamos, gedacht für den Antrieb durch eine Dampfmaschine, und tat etwas, das Edison selbst noch nicht versucht hatte: Er koppelte ihn an das Wasserrad, das bereits seine Mühle antrieb.",
+   "Am Abend des 30. September 1882 funktionierte es. Der Dynamo beleuchtete die Mühle, eine zweite Mühle flussabwärts und Rogers' eigenes Haus, ein großes Steinhaus namens Hearthstone, das heute noch steht. Etwa zwölf Kilowatt, genug für einige hundert von Edisons neuen Glühbirnen. Es war das erste zentrale Wasserkraftwerk der Vereinigten Staaten, nur sechsundzwanzig Tage nach Edisons kohlebefeuertem Pearl-Street-Kraftwerk in New York.",
+   "Die ersten Monate waren kurios. Floss der Fluss schnell, brannten die Lampen zu hell und platzten; floss er langsam, dimmten sie auf Orange. Es gab keinen Regler. Rogers' Frau soll sich beschwert haben, dass die Lampen im Wohnzimmer flackerten, sobald flussaufwärts eine Maschine in der Mühle anlief. Aber es war billiger als Dampf und brauchte keine Kohle.",
+   "Heute stammen rund sechs Prozent des amerikanischen Stroms aus fallendem Wasser, und die großen Staudämme des Westens, Hoover und Grand Coulee, sind ihre Enkel. Sie alle gehen zurück auf eine Papierfabrik, ein Wasserrad und einen Mann, der die Zeitung las."
+  ],
+  "source": {
+   "name": "Library of Congress: Today in History, September 30",
+   "url": "https://www.loc.gov/item/today-in-history/september-30"
+  }
+ },
+ "word": {
+  "fits": "Herbstlaub.",
+  "word": "Foliage",
+  "language": "Englisch",
+  "pronunciation": "FOH-li-idsch",
+  "meaning": "Laub, alle Blätter zusammen. In Neuengland ist es im Oktober eine Saison, eine Industrie und ein Grund, im Stau auf einer Landstraße zu sitzen."
+ },
+ "kindness": {
+  "fits": "Letzter Tag im September.",
+  "text": "Planen Sie die Laubtour jetzt, mit jemandem, der noch nie einen Oktober in Neuengland erlebt hat. Die Zeit läuft schnell."
+ },
+ "joke": {
+  "fits": "Das erste Wasserkraftwerk.",
+  "setup": "Warum flackerten die ersten Wasserkraft-Lampen ständig?",
+  "punchline": "Der Fluss hatte die Anleitung nicht gelesen."
+ },
+ "riddle": {
+  "fits": "Morgen Oktober.",
+  "riddle": "Ich bin rot in Vermont, golden in Colorado, und verschwunden bis Thanksgiving. Was bin ich?",
+  "hint": "Höhepunkt nächste Woche.",
+  "answer": "Herbstlaub."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "country": "US",
+ "date": "2026-10-03",
+ "language": "en",
+ "lookForward": {
+  "fits": "Tomorrow, 4 October, World Space Week begins across the country, timed to the anniversary of the launch that started the Space Age.",
+  "headline": "Tomorrow: World Space Week begins nationwide",
+  "line": "World Space Week runs 4 to 10 October, marking the day Sputnik reached orbit in 1957. Science museums, planetariums, and NASA visitor centers across the country hold open houses and hands-on events all week; find one near you and go.",
+  "source": {
+   "name": "World Space Week Association",
+   "url": "https://www.worldspaceweek.org/"
+  },
+  "more": [
+   "World Space Week is the largest space event on Earth: tens of thousands of events in over 100 countries, declared an annual observance by the United Nations General Assembly in 1999. It runs 4 to 10 October every year, bookended by two anniversaries: Sputnik 1's launch on 4 October 1957, the start of the Space Age, and the Outer Space Treaty, signed 10 October 1967, which set the rules for exploring space peacefully.",
+   "In the United States, NASA centers, science museums and local astronomy clubs mark the week with open houses, telescope nights and talks. Most events are free or low-cost, and many welcome children.",
+   "This year's theme is 'Rocket Revolution', about how cheaper, reusable rockets are letting more countries, universities and companies reach space than ever before.",
+   "No plans yet? A clear night this week is also a fine excuse to just look up. The bright planets and a dark sky need nothing but your own eyes."
+  ]
+ },
+ "goodThing": {
+  "fits": "It's peak apple harvest across much of the country, and early October is when the widest variety shows up at orchards and farm stands.",
+  "headline": "Apple orchards are at their peak",
+  "big": "100+",
+  "line": "The U.S. grows more than 100 apple varieties, though most stores sell only a handful. Orchards from Washington to New York are deep in harvest now.",
+  "source": {
+   "name": "U.S. Apple Association: Apple Varieties",
+   "url": "https://usapple.org/all-about-apples/apple-varieties/"
+  }
+ },
+ "onThisDay": {
+  "fits": "On this date in 1863, Lincoln's proclamation set Thanksgiving as an annual national holiday, still kept every year since.",
+  "year": 1863,
+  "headline": "Lincoln made Thanksgiving a yearly national tradition",
+  "line": "Presidents had proclaimed days of thanks before, but Lincoln's proclamation, urged by a magazine editor's 36-year campaign, made it an annual tradition for the first time.",
+  "source": {
+   "name": "National Park Service: Lincoln and Thanksgiving",
+   "url": "https://www.nps.gov/liho/learn/historyculture/lincoln-and-thanksgiving.htm"
+  }
+ },
+ "funFact": {
+  "fits": "Tomorrow's World Space Week opens on the anniversary of the launch that started the Space Age.",
+  "statement": "A NASA rocket started the Space Age.",
+  "answer": false,
+  "reveal": "The Soviet Union started it, launching Sputnik 1 on 4 October 1957. Congress created NASA less than a year later, in response.",
+  "source": {
+   "name": "NASA: 65 Years Ago, Sputnik Ushers in the Space Age",
+   "url": "https://www.nasa.gov/history/65-years-ago-sputnik-ushers-in-the-space-age/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: Lincoln's Thanksgiving proclamation, 3 October 1863, and the 36-year campaign that led to it.",
+  "title": "The editor who wrote her way to a holiday",
+  "teaser": "A magazine editor spent 36 years asking presidents for a holiday. This day in 1863, one said yes.",
+  "paragraphs": [
+   "Sarah Josepha Hale spent 36 years asking for a single day. She was the editor of a widely read magazine for American women, and starting in 1827 she used her pages to argue that the whole country should sit down to Thanksgiving dinner on the same day each year. Governors set their own dates then, sometimes weeks apart, and some states kept none at all.",
+   "She wrote to five presidents in turn. George Washington had proclaimed a one-off day of thanks in 1789, the country's first as a nation, but nobody had made it a habit. In September 1863, in the middle of the Civil War, Hale wrote once more, this time to Abraham Lincoln, asking him to fix Thanksgiving as 'a National and fixed Union Festival.'",
+   "Lincoln agreed within the week. On 3 October 1863, a proclamation went out over his signature, drafted by his Secretary of State William Seward, setting the last Thursday of November aside every year for thanks, even as the war went on. Every president since has issued one; the date later moved to the fourth Thursday, but the yearly habit Hale had asked for has never lapsed.",
+   "Wherever you are today, the tradition she pushed for is still running: a fixed date, kept on purpose, for noticing what has gone right."
+  ],
+  "source": {
+   "name": "National Park Service: Lincoln and Thanksgiving",
+   "url": "https://www.nps.gov/liho/learn/historyculture/lincoln-and-thanksgiving.htm"
+  }
+ },
+ "word": {
+  "fits": "The document at the center of today's On this day, and the word for any president's formal public announcement.",
+  "word": "Proclamation",
+  "language": "English",
+  "pronunciation": "prah-kluh-MAY-shun",
+  "meaning": "A formal public announcement from a head of state. Lincoln's 1863 Thanksgiving proclamation is why the holiday is still set every year."
+ },
+ "kindness": {
+  "fits": "Sarah Hale spent 36 years asking the country to set aside one day for gratitude.",
+  "text": "Write down three small things you're grateful for today, the kind easy to miss. No need to wait for a proclamation."
+ },
+ "joke": {
+  "fits": "Tomorrow's World Space Week, and the astronomer's daily commute.",
+  "setup": "Why did the astronomer bring a ladder to World Space Week?",
+  "punchline": "To get a little closer to work."
+ },
+ "riddle": {
+  "fits": "The apple harvest now at its peak across the country's orchards.",
+  "riddle": "I come in hundreds of shapes and colors, though you've tasted only a handful. I ripen as the days shorten. What am I?",
+  "hint": "More than 100 kinds grow in America.",
+  "answer": "An apple."
+ }
+}
