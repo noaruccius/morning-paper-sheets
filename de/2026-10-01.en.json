@@ -1,0 +1,94 @@
+{
+ "country": "DE",
+ "date": "2026-10-01",
+ "language": "en",
+ "lookForward": {
+  "fits": "Harvest Festival falls on Sunday, 4 October 2026, the first Sunday of the month, in almost every parish in the country.",
+  "headline": "Sunday is Harvest Festival: churches full of fruit",
+  "line": "On the first Sunday in October, congregations decorate the altar with pumpkins, apples and a harvest crown woven from wheat. Services are usually at ten, open to anyone, no booking needed. Afterward the gifts often go to the local food bank.",
+  "source": {
+   "name": "EKD: Harvest Festival",
+   "url": "https://www.ekd.de/erntedank-65579.htm"
+  },
+  "more": [
+   "Harvest Festival isn't a public holiday, but a Sunday each congregation chooses for itself. Germany's Protestant and Catholic churches settled on the first Sunday in October, which in 2026 falls on the 4th. Some congregations celebrate as early as the last Sunday in September, and along the Moselle, where the wine harvest comes late, some wait until November.",
+   "Potatoes, cabbages, pumpkins, grapes and a loaf of bread, sometimes a whole heap of it, are laid out before the altar. Above hangs the harvest crown: a wreath woven from the field's last wheat ears and ribbons, in some villages carried through town in a procession before it takes its place in the church.",
+   "The service is often the most family-friendly of the year, with children carrying fruit to the front. Nobody needs to sign up, nobody needs any particular skill, and it costs nothing.",
+   "What happens to the gifts afterward is the practical part: most congregations pass them on, to the local food bank, a soup kitchen, or a care home. Bring something that keeps, if you bring anything at all. If you bring nothing, you are just as welcome."
+  ]
+ },
+ "goodThing": {
+  "fits": "The Federal Environment Agency has tallied 2025's results: Germany meets every air quality limit, a good thought each autumn as heating season returns.",
+  "headline": "Germany's air now meets every limit",
+  "big": "8th year running",
+  "line": "Fine particulate matter has stayed under the EU limit for eight years, nitrogen dioxide for two, measured at some 600 stations nationwide.",
+  "source": {
+   "name": "Umweltbundesamt: Air Quality 2025",
+   "url": "https://www.umweltbundesamt.de/publikationen/luftqualitat-2025"
+  },
+  "more": [
+   "A limit means: averaged over the whole year, a pollutant may not exceed a set amount. For nitrogen dioxide, which mostly comes from engines, that is 40 micrograms per cubic metre of air. Fine particulate matter has its own limits. Around 600 measuring stations across the country collect the data, hour by hour, all year long.",
+   "For a long time this made for uncomfortable reading. Ten years ago, dozens of stations still exceeded the nitrogen dioxide limit, mostly on busy city streets, and several cities argued over driving bans as a result. Since 2024, Germany has stayed under the limit everywhere. For fine particulate matter, this is the eighth year running.",
+   "There is no single reason: cleaner engines, less coal in the power grid, better filters in industry and heating, modern buses. The air in a German city today is markedly cleaner than it was in most readers' childhoods.",
+   "There is still no room to relax, though. From 2030, stricter European limits apply, half today's level for nitrogen dioxide. There is work still to do before then."
+  ]
+ },
+ "onThisDay": {
+  "fits": "1 October 1982: the first CD player went on sale, its discs pressed at the world's first CD plant in Langenhagen near Hanover.",
+  "year": 1982,
+  "headline": "The first CD player went on sale",
+  "line": "Sony began selling the CDP-101 that day, reading music with a laser. The discs came from Langenhagen near Hanover, the world's first CD pressing plant.",
+  "source": {
+   "name": "HNF: From Vinyl Record to Silver Disc",
+   "url": "https://blog.hnf.de/von-der-schallplatte-zur-silberscheibe/"
+  }
+ },
+ "funFact": {
+  "fits": "Harvest Festival is on Sunday, and there's bread on almost every harvest altar.",
+  "statement": "Germany has more than 3,000 different kinds of bread.",
+  "answer": true,
+  "reveal": "The German Bread Institute counts them in a register. German bread culture has been on the national list of intangible cultural heritage since 2014.",
+  "source": {
+   "name": "German Bread Institute: German Bread Register",
+   "url": "https://www.brotinstitut.de/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the first CD player, 1 October 1982, and the discs from Langenhagen.",
+  "title": "The disc from Langenhagen",
+  "teaser": "Forty-four years ago today, you could buy music for the first time that needed no needle.",
+  "paragraphs": [
+   "On 1 October 1982, a machine with no needle appeared in Japanese shops. Sony's CDP-101 read music with a laser, never touching the disc. It cost the equivalent of around 2,300 marks, as much as a used car. A month later, Philips brought out a player of its own.",
+   "The discs for it came from Lower Saxony. In Langenhagen near Hanover, PolyGram had opened the world's first CD pressing plant on 17 August 1982. The first batch was Chopin waltzes, played by Claudio Arrau. Anyone anywhere in the world who bought a CD that autumn was almost certainly holding a disc pressed in Langenhagen. Three years later, 26 million a year rolled off that same production line.",
+   "Such a disc measures twelve centimetres, two more than first planned, and around those two centimetres grows the loveliest legend in the history of technology: that Beethoven's Ninth Symphony had to fit on a single disc, uninterrupted. Technology historians see it more as a move in the competition between Sony and Philips. The legend persists anyway, perhaps because people like to believe it.",
+   "The two companies had developed the format together over several years, in meetings in Japan and the Netherlands. The public first saw the CD in September 1981, at the Funkausstellung electronics fair in Berlin.",
+   "Today the discs sit in crates at flea markets, two euros apiece. If you still own a player, put one on tonight, and listen to it in the order it was meant to be heard, without skipping ahead."
+  ],
+  "source": {
+   "name": "HNF: From Vinyl Record to Silver Disc",
+   "url": "https://blog.hnf.de/von-der-schallplatte-zur-silberscheibe/"
+  }
+ },
+ "word": {
+  "fits": "It's 1 October, and the weather everyone in Germany is hoping for right now.",
+  "word": "Goldener Oktober",
+  "language": "German",
+  "pronunciation": "GOL-de-ner Ok-TOH-ber",
+  "meaning": "The mild, clear, dry days of October, when the leaves glow in the sun. A stable high-pressure system over Central Europe makes them."
+ },
+ "kindness": {
+  "fits": "Harvest Festival is Sunday: the gifts usually go to the food bank.",
+  "text": "Next time you shop, put one extra non-perishable item in your cart and drop it in the food-bank box by the exit."
+ },
+ "joke": {
+  "fits": "The first CD player, on sale exactly 44 years ago today.",
+  "setup": "Why was the first CD so relaxed?",
+  "punchline": "Because for the first time, nothing could get under its skin. It didn't even have a groove."
+ },
+ "riddle": {
+  "fits": "The harvest crown hanging in many churches this Sunday.",
+  "riddle": "I'm made from the last of what still stands in the field, I hang from the ceiling, and I am a thank-you. What am I?",
+  "hint": "Sunday, in church.",
+  "answer": "A harvest crown."
+ }
+}

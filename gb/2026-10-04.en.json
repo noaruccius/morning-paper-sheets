@@ -1,0 +1,77 @@
+{
+ "country": "GB",
+ "date": "2026-10-04",
+ "language": "en",
+ "lookForward": {
+  "fits": "October means orchards across Britain, and in just over two weeks the country's own apple holiday returns.",
+  "headline": "In 17 days: Apple Day, across Britain",
+  "line": "On 21 October, hundreds of orchards, National Trust gardens, Women's Institutes and village halls hold Apple Day: taste dozens of local apple varieties, get help naming the one from your own garden, and watch the juicing and pressing.",
+  "source": {
+   "name": "Common Ground: Apple Day",
+   "url": "https://www.commonground.org.uk/apple-day/"
+  },
+  "more": [
+   "Apple Day began in 1990, invented by the charity Common Ground and first held with forty stalls in London's old Apple Market in Covent Garden. The idea was simple: give British orchards, and the hundreds of apple varieties most shops never stock, a single autumn day of their own.",
+   "It grew fast: more than 60 events in its first year, over 300 by 1997, and past 600 by 1999. Today it is marked by National Trust properties, Women's Institutes, wildlife trusts, museums and schools right across city, town and countryside.",
+   "The one constant everywhere is the tasting table: rows of apple varieties laid out with an expert on hand to name the one you've brought from your own tree, alongside juicing, baking, pruning demonstrations, and sometimes a mummers' play for children.",
+   "There is no central booking system: search 'Apple Day' with your town's name, or check your nearest National Trust property or Women's Institute, to find the closest event on or around 21 October."
+  ]
+ },
+ "goodThing": {
+  "fits": "Black History Month has run every October across Britain since 1987, and this October it opens again with a new theme.",
+  "headline": "Black History Month, in its 39th year",
+  "big": "39 years",
+  "line": "Britain has marked Black History Month every October since 1987. This year's theme, set by organisers, is 'Honouring Our Communities'.",
+  "source": {
+   "name": "Black History Month UK",
+   "url": "https://www.blackhistorymonth.org.uk/"
+  }
+ },
+ "onThisDay": {
+  "fits": "On this date in 1958, two British jets crossed the Atlantic in opposite directions at once, opening the world's first scheduled transatlantic jet passenger service.",
+  "year": 1958,
+  "headline": "Two British jets opened transatlantic air travel",
+  "line": "BOAC's de Havilland Comet 4s flew London to New York and back at once, cutting the Atlantic crossing to hours instead of most of a day.",
+  "source": {
+   "name": "De Havilland Aircraft Museum: Comet 4",
+   "url": "https://www.dehavillandmuseum.co.uk/aircraft/de-havilland-dh106-comet-4/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the two Comet jets that crossed the Atlantic in opposite directions on 4 October 1958, delivered to BOAC only four days earlier.",
+  "title": "Two jets, one morning, one ocean",
+  "teaser": "Two planes barely a week old opened the jet age over the Atlantic.",
+  "paragraphs": [
+   "Early on 4 October 1958, two de Havilland Comet 4 jets, registrations G-APDB and G-APDC, sat on opposite sides of the Atlantic. Both had been handed to BOAC only four days before. Nobody had yet flown paying passengers across the ocean by jet, and that morning two aircraft were about to do it at once, heading straight at each other.",
+   "G-APDC left London Heathrow at 8:45am, bound for New York's Idlewild Airport, with BOAC's chairman, Sir Gerard d'Erlanger, and thirty-one other passengers aboard. A jet had never yet crossed the Atlantic with fare-paying passengers non-stop from Britain, and this one still needed a fuel stop at Gander, Newfoundland, before finishing the run; the whole westbound journey took ten hours and twenty minutes.",
+   "The other way was faster. G-APDB left Idlewild at 7:01am New York time and reached Heathrow in six hours and twelve minutes, non-stop, carrying two of the men who had helped build the Comet's transatlantic service. Between them, that single morning, the two jets proved paying passengers could now cross the Atlantic in an afternoon.",
+   "Propeller airliners of the day took most of a day and often a fuel stop of their own to make the same crossing. After that October morning, hours, not a full day, became the ordinary expectation for anyone flying between Britain and America."
+  ],
+  "source": {
+   "name": "De Havilland Aircraft Museum: Comet 4",
+   "url": "https://www.dehavillandmuseum.co.uk/aircraft/de-havilland-dh106-comet-4/"
+  }
+ },
+ "word": {
+  "fits": "Starlings are gathering into these swirling autumn flocks across Britain now, building toward the biggest displays from November.",
+  "word": "Murmuration",
+  "language": "English (from Latin murmur, a hum or murmur)",
+  "pronunciation": "mur-muh-RAY-shun",
+  "meaning": "A huge, swirling flock of starlings wheeling together at dusk. British starling flocks grow through autumn as migrants arrive from northern Europe."
+ },
+ "kindness": {
+  "fits": "This year's Black History Month theme is 'Honouring Our Communities' - a nudge to notice communities beyond your own.",
+  "text": "Read or watch one story today about a community in Britain different from your own. Noticing is the easy first step."
+ },
+ "joke": {
+  "fits": "The two Comet jets, delivered only four days before they crossed the Atlantic.",
+  "setup": "Why weren't the Comet's pilots nervous about flying such a brand new jet?",
+  "punchline": "Four days old is basically 'broken in', for an aeroplane."
+ },
+ "riddle": {
+  "fits": "The starling flocks now gathering across Britain before their biggest autumn and winter displays.",
+  "riddle": "Alone I'm a dark bird with a squeaky call. In autumn evenings I become thousands, swirling as one shape. What am I?",
+  "hint": "The collective noun for us is today's word.",
+  "answer": "A murmuration of starlings."
+ }
+}

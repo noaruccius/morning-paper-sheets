@@ -1,0 +1,76 @@
+{
+ "country": "DE",
+ "date": "2026-10-05",
+ "language": "de",
+ "lookForward": {
+  "fits": "In vier Tagen öffnet die Frankfurter Buchmesse auch für private Besucher, mit Tschechien als Ehrengastland.",
+  "headline": "In vier Tagen: die Buchmesse öffnet für alle",
+  "line": "Ab Freitag, 9. Oktober, bis Sonntag ist die Frankfurter Buchmesse auch für private Besucher offen: internationale Bestsellerautoren live, dazu das Programm des Ehrengastlands Tschechien. Tickets gibt es vorab online, das Kontingent ist begrenzt.",
+  "source": {
+   "name": "Frankfurter Buchmesse: Besuch",
+   "url": "https://www.buchmesse.de/en/visit"
+  },
+  "more": [
+   "Öffentlicher Einlass ist an drei Tagen: Freitag, 9. Oktober, 11 bis 18:30 Uhr; Samstag, 10. Oktober, 9 bis 18:30 Uhr; Sonntag, 11. Oktober, 9 bis 17:30 Uhr. Mittwoch und Donnerstag sind reine Fachbesuchertage.",
+   "Tageskarten kosten, je nach Tag, zwischen 20 und 35 Euro, eine Dreitageskarte 59 Euro; Kinder bis sechs Jahre kommen kostenlos hinein. Seit 2024 ist das Ticketkontingent begrenzt, ein früher Kauf über buchmesse.de lohnt sich.",
+   "Auf dem Frankfurter Messegelände warten neben den Ausstellerhallen Bühnen mit Lesungen und Gesprächen, dazu das Programm des Ehrengastlands: 2026 zeigt Tschechien seine Literatur und Kultur in eigenen Pavillons und Veranstaltungen."
+  ]
+ },
+ "goodThing": {
+  "fits": "Nach jedem Volksfestwochenende landen unzählige Pfandflaschen im Kreislauf - fast alle davon kommen tatsächlich zurück.",
+  "headline": "Fast jede Pfandflasche kommt zurück",
+  "big": "über 96%",
+  "line": "In Deutschland kommen mehr als 96 Prozent der bepfandeten Einwegflaschen und -dosen tatsächlich zurück in den Kreislauf, rund 20 Milliarden Verpackungen im Jahr.",
+  "source": {
+   "name": "Deutsche Pfandsystem GmbH (DPG)",
+   "url": "https://dpg-pfandsystem.de/en/the-one-way-deposit-system/useful-information.html"
+  }
+ },
+ "funFact": {
+  "fits": "Oktober ist Pilzsaison; im Wald landen jetzt wieder viele Steinpilze im Korb.",
+  "statement": "Der Steinpilz steht in Deutschland unter Naturschutz, darf aber trotzdem gesammelt werden.",
+  "answer": true,
+  "reveal": "Die Bundesartenschutzverordnung schützt Steinpilz, Pfifferling und fünf weitere beliebte Speisepilze. Erlaubt bleibt, geringe Mengen für den eigenen Bedarf zu sammeln.",
+  "source": {
+   "name": "Bundesministerium der Justiz: Bundesartenschutzverordnung, §2",
+   "url": "https://www.gesetze-im-internet.de/bartschv_2005/__2.html"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft die Buchmesse, die in vier Tagen öffnet: wie aus 205 Verlagen in einer zerbombten Stadt die größte Buchmesse der Welt wurde.",
+  "title": "205 Verlage in einer Kirche ohne Dach",
+  "teaser": "1949 stellten 205 Verlage ihre Bücher in einer halb zerstörten Kirche aus.",
+  "paragraphs": [
+   "Im September 1949 öffnete in der Frankfurter Paulskirche die erste deutsche Buchmesse der Nachkriegszeit, sechs Tage lang: 205 deutsche Verlage zeigten rund 8.400 Titel, knapp 9.000 zahlende Gäste kamen vorbei. Der Ort war kein Zufall: In derselben Kirche hatte 1848 das erste frei gewählte deutsche Parlament getagt, ein Symbol, das man 1949 bewusst wieder aufgriff, mitten in einer noch immer stark zerstörten Stadt.",
+   "Die Messe wuchs schnell über die Landesgrenzen hinaus. Schon 1953 kamen mehr ausländische als deutsche Aussteller, und im selben Jahr wurde zum ersten Mal der Friedenspreis des Deutschen Buchhandels verliehen, an Albert Schweitzer. 1959 stellten bereits 1.800 Verlage aus 34 Ländern aus.",
+   "Heute ist Frankfurt die größte Buchmesse der Welt. 2025 kamen rund 238.000 Besucherinnen und Besucher aus 131 Ländern, 4.350 Verlage stellten aus. Jedes Jahr rückt ein Ehrengastland in den Mittelpunkt; 2026 ist es Tschechien.",
+   "Was 1949 mit ein paar hundert Verlagen in einer notdürftig wiederhergestellten Kirche begann, ist heute ein Ort, an dem in wenigen Tagen wieder Menschen aus aller Welt über Bücher sprechen, in derselben Stadt, aus der die Messe nie wieder verschwand."
+  ],
+  "source": {
+   "name": "Frankfurter Buchmesse: Geschichte",
+   "url": "https://www.buchmesse.de/en/history"
+  }
+ },
+ "word": {
+  "fits": "Tschechien ist in wenigen Tagen zu Gast bei der Frankfurter Buchmesse.",
+  "word": "Ehrengastland",
+  "language": "Deutsch",
+  "pronunciation": "EH-ren-gast-lant",
+  "meaning": "Das Land, dem die Frankfurter Buchmesse jedes Jahr ihr Programm widmet. 2026 ist es Tschechien."
+ },
+ "kindness": {
+  "fits": "In wenigen Tagen öffnet die Buchmesse - ein guter Anlass, selbst wieder mehr zu lesen.",
+  "text": "Leihen Sie heute jemandem ein Buch, das Sie selbst geliebt haben, mit der Bitte, es weiterzugeben, wenn es ausgelesen ist."
+ },
+ "joke": {
+  "fits": "Die Pilzsaison, die jetzt im Wald beginnt.",
+  "setup": "Was sagt ein Steinpilz, kurz bevor er in den Korb wandert?",
+  "punchline": "Vorsicht, ich bin geschützt - aber nicht unantastbar."
+ },
+ "riddle": {
+  "fits": "Die Pfandflaschen, von denen fast jede den Weg zurück in den Kreislauf findet.",
+  "riddle": "Ich komme leer zurück, obwohl ich einmal voll war. Dafür bekommen Sie ein paar Cent. Fast alle meiner Art finden zurück. Was bin ich?",
+  "hint": "Ein Automat am Supermarkteingang nimmt mich an.",
+  "answer": "Eine Pfandflasche."
+ }
+}

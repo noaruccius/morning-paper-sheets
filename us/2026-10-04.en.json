@@ -1,0 +1,77 @@
+{
+ "country": "US",
+ "date": "2026-10-04",
+ "language": "en",
+ "lookForward": {
+  "fits": "Fire Prevention Week starts today nationwide, and its historic date, the anniversary of the Great Chicago Fire, falls this Friday.",
+  "headline": "This week: Fire Prevention Week, nationwide",
+  "line": "From today through Saturday, fire departments across the country hold open houses and school visits, centered on Friday, October 9, the anniversary of the Great Chicago Fire of 1871. Check your local station's schedule, and test your home's smoke alarms this week.",
+  "source": {
+   "name": "National Fire Protection Association: Fire Prevention Week",
+   "url": "https://www.nfpa.org/events/fire-prevention-week"
+  },
+  "more": [
+   "The Great Chicago Fire burned for 27 hours starting October 8, 1871, killing more than 250 people and destroying over 17,000 buildings. On the fire's 40th anniversary, fire marshals across North America decided the date deserved public safety education, not just remembrance.",
+   "In 1920, President Woodrow Wilson issued the first National Fire Prevention Day proclamation. Since 1922, the observance has run the full Sunday-through-Saturday week containing October 9, and every U.S. president has signed a proclamation for it every year since 1925.",
+   "This year's theme is about charging habits: safely storing, charging and using the lithium-ion batteries in phones, laptops, e-bikes and power tools, a fast-growing home fire risk.",
+   "Most fire departments welcome visitors during the week; many hold a station open house on the weekend, with truck tours and working smoke-alarm demonstrations for children and adults alike."
+  ]
+ },
+ "goodThing": {
+  "fits": "Cranberry bogs across Wisconsin and Massachusetts are flooding bright red this week, right in the middle of harvest season.",
+  "headline": "Cranberry bogs are turning bright red right now",
+  "big": "61% from Wisconsin",
+  "line": "Wisconsin grows about 61% of the country's cranberries, Massachusetts another 26%. Both flood bogs this month; ripe berries float free for harvest.",
+  "source": {
+   "name": "US Cranberries (Cranberry Marketing Committee)",
+   "url": "https://www.uscranberries.com/about-cranberries/cultivation/"
+  }
+ },
+ "onThisDay": {
+  "fits": "On this date in 1927, workers began the actual carving of Mount Rushmore, the mountain sculpture that still looks out over South Dakota today.",
+  "year": 1927,
+  "headline": "Workers began carving Mount Rushmore",
+  "line": "President Coolidge had handed sculptor Gutzon Borglum ceremonial drill bits in August; real carving of the four presidents' faces began now, work that took 14 more years.",
+  "source": {
+   "name": "National Park Service: Mount Rushmore Timeline",
+   "url": "https://www.nps.gov/moru/learn/historyculture/timeline.htm"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the carving of Mount Rushmore, begun 4 October 1927, and the safety record almost nobody expects from a mountain carved with dynamite.",
+  "title": "Fourteen years, five hundred feet up, no accidents",
+  "teaser": "Nearly 400 people carved a mountain with dynamite for 14 years. Not one of them died doing it.",
+  "paragraphs": [
+   "Carving Mount Rushmore took nearly 400 workers fourteen years, from October 4, 1927, to October 31, 1941: call boys, drillers, blacksmiths, and the powdermen who calculated exactly how much dynamite would remove exactly how much granite. About ninety percent of the mountain's rock came off that way, in carefully placed blasts, not by hand.",
+   "Only in the final inches did the work slow down. Once a face was within three to six inches of its finished surface, drillers switched to 'honeycombing': closely spaced holes drilled side by side to weaken the granite enough to remove by hand, then a hand facer to smooth it, as the Park Service puts it, 'as smooth as a sidewalk.'",
+   "The men worked suspended by cables five hundred feet above the ground, in South Dakota heat and winter cold, next to explosives, for fourteen years. By any ordinary measure of industrial risk in the 1920s and 1930s, some of them should not have come home.",
+   "Not one did not. Through the entire carving of Mount Rushmore, not a single worker died. Whatever else the mountain has come to mean since, that fact belongs to the four hundred people who carved it, and to the care they took with each other five hundred feet up."
+  ],
+  "source": {
+   "name": "National Park Service: Mount Rushmore Carving History",
+   "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm"
+  }
+ },
+ "word": {
+  "fits": "The finishing technique carvers used for the last inches of granite on Mount Rushmore, on this date in 1927.",
+  "word": "Honeycombing",
+  "language": "English",
+  "pronunciation": "HUN-ee-koh-ming",
+  "meaning": "Drilling many closely spaced holes into rock to weaken it for removal by hand. Mount Rushmore's carvers used it for the final inches of each face."
+ },
+ "kindness": {
+  "fits": "Mount Rushmore's carvers worked on 500-foot cliffs with dynamite for 14 years without a single fatality.",
+  "text": "Thank someone whose careful, unglamorous safety work you rely on and rarely think about: a crossing guard, an inspector, a lifeguard."
+ },
+ "joke": {
+  "fits": "The carvers who began working on Mount Rushmore's four presidential faces on this date in 1927.",
+  "setup": "Why did Mount Rushmore's carvers never lose their nerve?",
+  "punchline": "Four presidents were staring right back at them the whole time."
+ },
+ "riddle": {
+  "fits": "The cranberry harvest now turning Wisconsin and Massachusetts bogs bright red.",
+  "riddle": "I grow in a bog, not underwater, though growers flood my field each fall. I float when ripe, turning a marsh red. What am I?",
+  "hint": "One midwestern state grows most of me.",
+  "answer": "A cranberry."
+ }
+}
