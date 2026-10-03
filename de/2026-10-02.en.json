@@ -1,0 +1,94 @@
+{
+ "country": "DE",
+ "date": "2026-10-02",
+ "language": "en",
+ "lookForward": {
+  "fits": "Federweisser season in October: wine stands between the Rhine and the Mosel now serve young wine with onion tart, for only a few weeks.",
+  "headline": "At the wine stand: young wine with onion tart",
+  "line": "Federweisser is fermenting grape must, still sweet, low in alcohol, sold only a few weeks a year. Warm onion tart goes with it. Wine stands between the Rhine and the Mosel have both now, usually until late October.",
+  "source": {
+   "name": "Deutsches Weininstitut: Federweißer",
+   "url": "https://www.deutscheweine.de/weinerzeugnis/169/federwei%C3%9Fer"
+  },
+  "more": [
+   "Federweisser is grape must that is already fermenting but not finished: somewhere between juice and wine, at about five percent alcohol. Its name comes from the yeast, which dances in the glass like little white feathers while fermentation runs.",
+   "It does not keep long and needs to breathe: seal a bottle tightly and the pressure from fermentation can burst it. Too sweet still, it goes in the fridge; too still, a few hours at room temperature and another taste usually helps.",
+   "The traditional partner is onion tart: a savoury, warm tart with plenty of onion, bacon and cream, which balances the young wine's sweetness. Both belong to the grape harvest the way pumpkins belong to autumn.",
+   "In Rhineland-Palatinate alone, around two million litres of Federweisser sell every year, mostly straight from the wine stand or the winemaker around the corner. Anyone wanting to try it should not wait too long: the season is usually over by the end of October."
+  ]
+ },
+ "goodThing": {
+  "fits": "This afternoon Bremen's street festival for German Unity Day, the holiday tomorrow, begins. The city has a second, quieter story to tell: the one about space.",
+  "headline": "Bremen, the city that builds satellites",
+  "big": "12,000 jobs",
+  "line": "Over 12,000 people work in Bremen at more than 140 space firms and institutes, the highest density of space expertise in Germany, per capita.",
+  "source": {
+   "name": "WFB Wirtschaftsförderung Bremen: Luft- und Raumfahrtstandort Bremen",
+   "url": "https://www.wfb-bremen.de/de/page/stories/LuRa/bremen-hebt-ab-warum-bremen-ein-ausgezeichneter-luft-und-raumfahrt-standort-ist"
+  },
+  "more": [
+   "Few people think of Bremen first when they think of German space travel. Yet rocket parts, satellites and modules have been built here since the 1960s: Bremen helped build Europe's Ariane rocket and the Spacelab space station, and still supplies parts for the International Space Station today.",
+   "Today more than 12,000 people work in the city at over 140 companies and around 20 research institutes in the field, with roughly four billion euros in annual revenue. Measured against its population, no other German region has gathered so much space expertise.",
+   "At Airbus in Bremen alone, around 4,500 people work, many of them on satellites that now watch weather and climate or keep Europe's own Galileo navigation system running.",
+   "Anyone strolling tomorrow past the regional stalls at the street festival walks past pavilions telling stories of beer and pretzels. A few streets further, in the workshop halls by the airport, work continues on what will circle over our heads in a few years."
+  ]
+ },
+ "onThisDay": {
+  "fits": "2 October 1990: the last night of East Germany, one day before it joined West Germany and tomorrow's holiday.",
+  "year": 1990,
+  "headline": "The last night of East Germany",
+  "line": "Parliament met for the final time, the army dissolved, the embassies closed. At midnight the country joined West Germany.",
+  "source": {
+   "name": "bpb: Deutschland-Chronik, 2. Oktober 1990",
+   "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132225/2-oktober-1990/"
+  }
+ },
+ "funFact": {
+  "fits": "Bremen already stands at the centre of German Unity Day celebrations today, and the city has its own famous legend: the Town Musicians.",
+  "statement": "In the fairy tale, the Town Musicians of Bremen actually reach Bremen.",
+  "answer": false,
+  "reveal": "They never reach the city. On the way they chase robbers out of a house in the forest and stay living there.",
+  "source": {
+   "name": "UNESCO World Heritage Bremen: The Town Musicians of Bremen",
+   "url": "https://www.welterbe.bremen.de/entdecken/bremer-stadtmusikanten-20502"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: the last night of East Germany, 2 October 1990, one day before tomorrow's holiday.",
+  "title": "The night two countries became one",
+  "teaser": "36 years ago today, a country went to bed and woke up in another one.",
+  "paragraphs": [
+   "On the evening of 2 October 1990, the Volkskammer, East Germany's parliament, met for its final session. Outside it was an ordinary Tuesday: shops were open, buses ran, and children went to school one more morning, a school that by afternoon would no longer exist in that form.",
+   "That same day the National People's Army ceased to exist, and East Germany's diplomatic missions around the world closed their doors. Ambassadors who had spoken for a country that morning spoke for none by evening. In Berlin, the allied city commandants of Britain, the United States and France stepped down from duties that had belonged to the city since 1945.",
+   "Shortly before midnight, hundreds of thousands gathered in front of the Reichstag. They waited for a single moment that could not be seen, only heard: the twelfth stroke of the clock. With it, East Germany joined West Germany under Article 23 of the constitution, without a shot fired, without a battle, after eleven months of negotiation.",
+   "The Freedom Bell rang, the national anthem was sung, fireworks rose. For some it was the end of something familiar, for others the start of something hoped for, and for most, probably both at once.",
+   "Tomorrow is the day that gets celebrated, with music and stalls in Bremen. But the actual moment, the quiet one, was tonight, 36 years ago."
+  ],
+  "source": {
+   "name": "bpb: Deutschland-Chronik, 2. Oktober 1990",
+   "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132225/2-oktober-1990/"
+  }
+ },
+ "word": {
+  "fits": "The eve of German Unity Day, tomorrow, 3 October.",
+  "word": "Wiedervereinigung",
+  "language": "German",
+  "pronunciation": "VEE-der-fer-eye-ni-gung",
+  "meaning": "The reunification of the two German states on 3 October 1990, after 41 years of division. 'Wieder' (again), because a united Germany had existed before."
+ },
+ "kindness": {
+  "fits": "Federweisser does not keep for long anyway.",
+  "text": "Bring a neighbour a glass of Federweisser tonight, just because."
+ },
+ "joke": {
+  "fits": "The Town Musicians of Bremen, who never reach Bremen.",
+  "setup": "Why do the Town Musicians of Bremen never reach Bremen?",
+  "punchline": "They found a house-share with a dream rent on the way and simply stayed."
+ },
+ "riddle": {
+  "fits": "The Town Musicians of Bremen, the city's most famous legend.",
+  "riddle": "We are four animals on the road to Bremen, but none of us ever gets there. Who are we?",
+  "hint": "A fairy tale by the Brothers Grimm.",
+  "answer": "The Town Musicians of Bremen."
+ }
+}

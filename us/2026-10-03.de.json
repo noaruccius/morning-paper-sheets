@@ -1,0 +1,87 @@
+{
+ "country": "US",
+ "date": "2026-10-03",
+ "language": "de",
+ "lookForward": {
+  "fits": "Morgen, am 4. Oktober, beginnt landesweit die World Space Week, passend zum Jahrestag des Starts, der das Weltraumzeitalter einläutete.",
+  "headline": "Morgen: landesweit beginnt die World Space Week",
+  "line": "Die World Space Week läuft vom 4. bis 10. Oktober und erinnert an den Tag, an dem Sputnik 1957 die Umlaufbahn erreichte. Museen, Planetarien und NASA-Besucherzentren im ganzen Land veranstalten diese Woche Tage der offenen Tür; suchen Sie eins in Ihrer Nähe.",
+  "source": {
+   "name": "World Space Week Association",
+   "url": "https://www.worldspaceweek.org/"
+  },
+  "more": [
+   "Die World Space Week ist das größte Weltraum-Ereignis der Erde: Zehntausende Veranstaltungen in über 100 Ländern, 1999 von der UN-Generalversammlung zur jährlichen Gedenkwoche erklärt. Sie läuft jedes Jahr vom 4. bis 10. Oktober, eingerahmt von zwei Jahrestagen: dem Start von Sputnik 1 am 4. Oktober 1957, dem Beginn des Weltraumzeitalters, und dem Weltraumvertrag, unterzeichnet am 10. Oktober 1967, der die Regeln für friedliche Weltraumerkundung festlegte.",
+   "In den Vereinigten Staaten begehen NASA-Zentren, Wissenschaftsmuseen und lokale Astronomie-Clubs die Woche mit Tagen der offenen Tür, Teleskopabenden und Vorträgen. Die meisten Veranstaltungen sind kostenlos oder günstig, und viele heißen Kinder willkommen.",
+   "Das diesjährige Motto lautet 'Rocket Revolution' und handelt davon, wie günstigere, wiederverwendbare Raketen mehr Ländern, Universitäten und Unternehmen als je zuvor den Weg ins All eröffnen.",
+   "Noch keine Pläne? Ein klarer Abendhimmel diese Woche ist auch ein guter Grund, einfach mal nach oben zu schauen. Für die hellen Planeten und einen dunklen Himmel braucht es nichts außer den eigenen Augen."
+  ]
+ },
+ "goodThing": {
+  "fits": "Im Großteil des Landes ist gerade Apfelernte-Hochsaison, und Anfang Oktober zeigt sich auf Streuobstwiesen und an Verkaufsständen die größte Sortenvielfalt.",
+  "headline": "Apfelplantagen stehen jetzt in voller Erntezeit",
+  "big": "über 100 Sorten",
+  "line": "In den USA wachsen mehr als 100 Apfelsorten, auch wenn die meisten Läden nur eine Handvoll verkaufen. Plantagen von Washington bis New York ernten jetzt.",
+  "source": {
+   "name": "U.S. Apple Association: Apfelsorten",
+   "url": "https://usapple.org/all-about-apples/apple-varieties/"
+  }
+ },
+ "onThisDay": {
+  "fits": "An diesem Datum im Jahr 1863 machte Lincolns Proklamation Thanksgiving zu einem jährlichen nationalen Feiertag, der seither jedes Jahr begangen wird.",
+  "year": 1863,
+  "headline": "Lincoln machte Thanksgiving zu einer jährlichen nationalen Tradition",
+  "line": "Schon frühere Präsidenten hatten Danktage ausgerufen, aber erst Lincolns Proklamation, angestoßen durch die 36-jährige Kampagne einer Zeitschriftenredakteurin, machte daraus zum ersten Mal eine jährliche Tradition.",
+  "source": {
+   "name": "National Park Service: Lincoln und Thanksgiving",
+   "url": "https://www.nps.gov/liho/learn/historyculture/lincoln-and-thanksgiving.htm"
+  }
+ },
+ "funFact": {
+  "fits": "Die morgen beginnende World Space Week startet am Jahrestag des Starts, der das Weltraumzeitalter einläutete.",
+  "statement": "Eine NASA-Rakete leitete das Weltraumzeitalter ein.",
+  "answer": false,
+  "reveal": "Die Sowjetunion leitete es ein, mit dem Start von Sputnik 1 am 4. Oktober 1957. Der US-Kongress gründete als Reaktion darauf weniger als ein Jahr später die NASA.",
+  "source": {
+   "name": "NASA: Vor 65 Jahren läutete Sputnik das Weltraumzeitalter ein",
+   "url": "https://www.nasa.gov/history/65-years-ago-sputnik-ushers-in-the-space-age/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das heutige On-this-day: Lincolns Thanksgiving-Proklamation vom 3. Oktober 1863 und die 36-jährige Kampagne, die dazu führte.",
+  "title": "Die Redakteurin, die sich einen Feiertag erschrieb",
+  "teaser": "Eine Zeitschriftenredakteurin bat 36 Jahre lang Präsidenten um einen Feiertag. An diesem Tag 1863 sagte einer ja.",
+  "paragraphs": [
+   "Sarah Josepha Hale bat 36 Jahre lang um einen einzigen Tag. Sie war Redakteurin einer vielgelesenen Zeitschrift für amerikanische Frauen und nutzte ihre Seiten ab 1827, um dafür zu werben, dass das ganze Land an ein und demselben Tag im Jahr Thanksgiving feiern sollte. Damals legten die Gouverneure ihre eigenen Termine fest, manchmal Wochen auseinander, und manche Bundesstaaten begingen den Tag gar nicht.",
+   "Sie schrieb der Reihe nach an fünf Präsidenten. George Washington hatte 1789 einen einmaligen Danktag ausgerufen, den ersten des jungen Landes, aber daraus war keine Gewohnheit geworden. Im September 1863, mitten im Bürgerkrieg, schrieb Hale erneut, diesmal an Abraham Lincoln, und bat ihn, Thanksgiving als 'ein nationales, festes Unionsfest' festzulegen.",
+   "Lincoln stimmte binnen einer Woche zu. Am 3. Oktober 1863 erschien unter seiner Unterschrift eine Proklamation, entworfen von seinem Außenminister William Seward, die den letzten Donnerstag im November jedes Jahr für den Dank reservierte, selbst während der Krieg weiterging. Seither hat jeder Präsident eine solche Proklamation erlassen; das Datum rückte später auf den vierten Donnerstag, doch die jährliche Gewohnheit, um die Hale gebeten hatte, ist nie wieder abgerissen.",
+   "Wo auch immer Sie heute sind, die Tradition, für die sie sich einsetzte, läuft noch immer: ein fester Termin, bewusst eingehalten, um innezuhalten bei dem, was gut gelaufen ist."
+  ],
+  "source": {
+   "name": "National Park Service: Lincoln und Thanksgiving",
+   "url": "https://www.nps.gov/liho/learn/historyculture/lincoln-and-thanksgiving.htm"
+  }
+ },
+ "word": {
+  "fits": "Das Dokument im Zentrum des heutigen On-this-day, und das Wort für jede förmliche öffentliche Ankündigung eines Präsidenten.",
+  "word": "Proclamation",
+  "language": "Englisch",
+  "pronunciation": "prah-kluh-MAY-shun",
+  "meaning": "Eine förmliche öffentliche Ankündigung eines Staatsoberhaupts. Lincolns Thanksgiving-Proklamation von 1863 ist der Grund, warum der Feiertag bis heute jedes Jahr festgelegt wird."
+ },
+ "kindness": {
+  "fits": "Sarah Hale bat das Land 36 Jahre lang, einen Tag für Dankbarkeit zu reservieren.",
+  "text": "Schreiben Sie heute drei kleine Dinge auf, für die Sie dankbar sind, die Art, die man leicht übersieht. Eine Proklamation braucht es dafür nicht."
+ },
+ "joke": {
+  "fits": "Die morgen beginnende World Space Week, und der tägliche Arbeitsweg eines Astronomen.",
+  "setup": "Warum brachte der Astronom eine Leiter zur World Space Week mit?",
+  "punchline": "Um der Arbeit ein kleines Stück näherzukommen."
+ },
+ "riddle": {
+  "fits": "Die Apfelernte, die gerade in den Plantagen des Landes ihren Höhepunkt erreicht.",
+  "riddle": "Ich komme in Hunderten Formen und Farben vor, obwohl Sie nur eine Handvoll davon probiert haben. Ich reife, während die Tage kürzer werden. Was bin ich?",
+  "hint": "Über 100 Sorten wachsen in Amerika.",
+  "answer": "Ein Apfel."
+ }
+}

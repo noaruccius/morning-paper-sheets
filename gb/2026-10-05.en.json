@@ -1,0 +1,88 @@
+{
+ "country": "GB",
+ "date": "2026-10-05",
+ "language": "en",
+ "lookForward": {
+  "fits": "National Curry Week begins today, 5 October, celebrating a dish now woven into British food culture.",
+  "headline": "Today: National Curry Week begins, across the UK",
+  "line": "From today through 11 October, restaurants nationwide mark National Curry Week, now in its third decade. Book a table at a local Indian or Bangladeshi restaurant this week, or try somewhere new.",
+  "source": {
+   "name": "National Curry Week",
+   "url": "https://www.nationalcurryweek.co.uk/"
+  },
+  "more": [
+   "National Curry Week was founded in 1998 by Peter Grove of the Curry Club, at a time when curry houses were already a fixture of British high streets but rarely celebrated as their own food culture, distinct from the cuisines they drew on.",
+   "By 2001, curry had become so embedded in British life that the then-foreign secretary Robin Cook called chicken tikka masala 'a true British national dish', pointing out that it absorbs other cultures and adapts them to its own needs.",
+   "The week has grown into an informal, restaurant-led celebration rather than a single ticketed event: thousands of independent curry houses across the country mark it with special menus, offers or simply a bit more fanfare than usual.",
+   "There is no central booking system or single venue to visit. The simplest way to take part is to pick a curry house near you, ideally a small or family-run one, and go this week rather than waiting."
+  ]
+ },
+ "goodThing": {
+  "fits": "The RNLI's volunteer lifeboat crews have been quietly saving lives around Britain's coast for two centuries.",
+  "headline": "The RNLI has saved over 146,000 lives",
+  "big": "146,000+ lives",
+  "line": "Since its first lifeboat launched in 1824, RNLI volunteers have saved more than 146,000 lives around the UK and Ireland's coasts, funded entirely by donations.",
+  "source": {
+   "name": "RNLI: Our History",
+   "url": "https://rnli.org/about-us/our-history"
+  },
+  "review": "rnli.org blocks automated requests; the 146,000+ lives saved since 1824 figure confirmed through search, matching the RNLI's own March 2024 bicentenary press release and independent coverage."
+ },
+ "onThisDay": {
+  "fits": "On 5 October 1962, The Beatles released their first single, the record that started it all.",
+  "year": 1962,
+  "headline": "The Beatles released their first single",
+  "line": "Love Me Do came out on 5 October 1962, reaching only number 17, a modest start for a band that would go on to reshape popular music.",
+  "source": {
+   "name": "The Beatles: Love Me Do",
+   "url": "https://www.thebeatles.com/love-me-do"
+  }
+ },
+ "funFact": {
+  "fits": "British hedgerows are still thick with blackberries this week, but folklore says the picking season has a hard stop.",
+  "statement": "Folklore says you can pick wild blackberries safely right through autumn.",
+  "answer": false,
+  "reveal": "Tradition says to stop after Michaelmas, 29 September, when the Devil was said to curse the berries by falling into a bramble bush.",
+  "source": {
+   "name": "Woodland Trust: Bramble",
+   "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/bramble/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's On this day: how a modest, slightly awkward record released on 5 October 1962 became step one of the Beatles' story.",
+  "title": "A song almost nobody wanted to release",
+  "teaser": "The Beatles' first single nearly didn't happen, and barely dented the charts when it did.",
+  "paragraphs": [
+   "Love Me Do began, like many early Lennon-McCartney songs, as something written years before anyone would record it: Paul McCartney sketched out the tune as a teenager in Liverpool, long before the Beatles had a record deal or anyone outside the city had heard of them.",
+   "By 1962 the band had already been turned down by Decca Records, who decided a four-piece Liverpool group had no future and signed Brian Poole and the Tremeloes instead. George Martin at Parlophone took a chance on the Beatles, but was unconvinced by their drumming, and brought in session player Andy White to play on the version actually released as the single. New member Ringo Starr played tambourine that day instead.",
+   "Released on 5 October 1962, Love Me Do climbed only to number 17 on the British charts, a perfectly respectable debut but nothing that marked the band as unusual. Its simple, bluesy harmonica line was unlike almost anything else on the radio that autumn.",
+   "The real breakthrough came four months later, when Please Please Me shot to number two. By then, the slightly awkward little single from October had already done its job: it got the Beatles' name on a record, in shops, in 1962, the first rung of everything that followed."
+  ],
+  "source": {
+   "name": "The Beatles: Love Me Do",
+   "url": "https://www.thebeatles.com/love-me-do"
+  }
+ },
+ "word": {
+  "fits": "National Curry Week begins today, and Britain's own invented curry style comes from Birmingham.",
+  "word": "Balti",
+  "language": "English, via Punjabi/Urdu",
+  "pronunciation": "BAHL-tee",
+  "meaning": "A curry cooked and served in a thin, two-handled steel pan, a style said to have been invented by Pakistani and Kashmiri restaurateurs in Birmingham in the 1970s."
+ },
+ "kindness": {
+  "fits": "National Curry Week begins today.",
+  "text": "Order from a small, family-run curry house this week rather than a chain, and tell them you enjoyed it."
+ },
+ "joke": {
+  "fits": "National Curry Week, which begins today.",
+  "setup": "Why do curry houses never run out of conversation?",
+  "punchline": "Because there is always a little extra naan to go around."
+ },
+ "riddle": {
+  "fits": "The RNLI, which has saved over 146,000 lives since 1824.",
+  "riddle": "I am crewed by volunteers, launch in the worst weather, and have saved well over a hundred thousand lives around Britain's coast. What am I?",
+  "hint": "I am orange, and I float.",
+  "answer": "An RNLI lifeboat."
+ }
+}

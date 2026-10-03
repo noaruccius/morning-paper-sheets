@@ -1,0 +1,86 @@
+{
+ "country": "GB",
+ "date": "2026-10-03",
+ "language": "de",
+ "lookForward": {
+  "fits": "Morgen beginnt die World Space Week, und das Science Museum in London öffnet dazu neun kostenlose Tage rund um das Weltall.",
+  "headline": "Morgen: neun kostenlose Tage Weltraum, in London",
+  "line": "Die World Space Week läuft vom 4. bis 10. Oktober im Science Museum in South Kensington. Sehen Sie kostenlos Helen Sharmans Raumanzug und ein Stück Mondgestein, dazu samstags und sonntags eine kostenlose Familien-Weltraumshow.",
+  "source": {
+   "name": "Science Museum: World Space Week",
+   "url": "https://www.sciencemuseum.org.uk/world-space-week"
+  },
+  "more": [
+   "Die World Space Week wird jedes Jahr vom 4. bis 10. Oktober begangen, gewählt, weil Sputnik 1, der erste Satellit, am 4. Oktober 1957 startete und der Weltraumvertrag am 10. Oktober 1967 unterzeichnet wurde. Das Science Museum an der Exhibition Road in South Kensington beteiligt sich mit seiner regulären Weltraum-Galerie: Der Eintritt ist generell kostenlos, und dort hängt Helen Sharmans Raumanzug von ihrem Flug 1991 als erste Britin im All, neben einem echten, drei Milliarden Jahre alten Stück Mond.",
+   "Die kostenlose Familien-Weltraumshow läuft im Vortragssaal des Museums samstags, sonntags und in den Schulferien; dafür braucht es ein eigenes, kostenloses Ticket, am besten vorab online gebucht oder vor Ort abgeholt. Zusätzlich gibt es die ganze Woche über einen kostenlosen Rundgang durchs Museum. Ein IMAX-Film übers Weltall kostet extra, wer das möchte, sonst nichts."
+  ]
+ },
+ "goodThing": {
+  "fits": "Es ist Samstag, und im ganzen Land startet heute Morgen derselbe kostenlose 5-Kilometer-Lauf in Hunderten lokalen Parks.",
+  "headline": "Ein kostenloser 5-km-Lauf im Park, jeden Samstag",
+  "big": "1.395 Läufe",
+  "line": "parkrun veranstaltet kostenlose, zeitgemessene 5-km-Läufe und -Spaziergänge in über 1.395 britischen Parks, jeden Samstagmorgen. Jedes Tempo, keine Kosten, jeder willkommen.",
+  "source": {
+   "name": "parkrun UK",
+   "url": "https://www.parkrun.org.uk/"
+  },
+  "review": "parkrun.org.uk blockiert automatisierte Zugriffe; die Zahl von 1.395 britischen Veranstaltungen, der freie Eintritt und das wöchentliche Format für alle Tempi wurden über die eigenen Veranstaltungslisten von parkrun sowie unabhängige Laufsport-Berichterstattung bestätigt."
+ },
+ "onThisDay": {
+  "fits": "3. Oktober 1916: James Herriot, der Yorkshire-Tierarzt, dessen sanfte Bücher Millionen Menschen Tiergeschichten lieben lehrten, wurde in Sunderland geboren.",
+  "year": 1916,
+  "headline": "Der Tierarzt, der über Freundlichkeit zu Tieren schrieb",
+  "line": "James Herriot, geboren als James Alfred Wight, war fast 50 Jahre lang Tierarzt in Yorkshire, bevor ihn seine unter Pseudonym geschriebenen Bücher weltberühmt machten.",
+  "source": {
+   "name": "World of James Herriot",
+   "url": "https://worldofjamesherriot.com/fabulous-centenary-anniversary/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft das heutige On-this-day: James Herriot, geboren am 3. Oktober 1916 in Sunderland, der ein Arbeitsleben als Landtierarzt führte, bevor er je ein Wort veröffentlichte.",
+  "title": "Der Tierarzt, der bis fünfzig wartete",
+  "teaser": "Ein Landtierarzt verbrachte Jahrzehnte auf Yorkshires Höfen, bevor er ein Wort davon aufschrieb.",
+  "paragraphs": [
+   "James Alfred Wight wurde am 3. Oktober 1916 in Sunderland geboren. Die Familie zog um, als er drei Wochen alt war, nach Glasgow, wo er aufwuchs und am Glasgow Veterinary College studierte; mit 23 schloss er mitten in der Weltwirtschaftskrise als Tierarzt ab, als Stellen für junge Tierärzte rar waren.",
+   "Im Juli 1940 trat er eine Stelle in Thirsk, North Yorkshire, an und behandelte dort Nutztiere in den Yorkshire Dales: kalbende Kühe in kalten Ställen, kranke Schafe an Hängen, ein Arbeitsleben meist im Freien bei jedem Wetter. 1941 heiratete er Joan Danbury, diente während des Kriegs in der Royal Air Force und kehrte 1946 in dieselbe Praxis in Thirsk zurück, wo er für den Rest seines Arbeitslebens blieb.",
+   "Mit dem Schreiben begann er erst in seinen Fünfzigern, von Joan ermutigt, nachdem er jahrelang gesagt hatte, er werde es vielleicht einmal tun. Tierärzten war Werbung untersagt, also konnte er nicht unter eigenem Namen veröffentlichen; ein Pseudonym lieh er sich von einem Fußballer, den er im Fernsehen gesehen hatte. Sein erstes Buch erschien 1970, und 'James Herriot' wurde einer der beliebtesten Namen der englischen Literatur.",
+   "Weggezogen ist er nie. Alf Wight behandelte Tiere in Thirsk fast bis zum Ende, in denselben Räumen, die heute ein Museum über sein Leben sind, nur einen kurzen Weg entfernt von jedem Leser in Großbritannien, egal wo er heute ist."
+  ],
+  "source": {
+   "name": "World of James Herriot",
+   "url": "https://worldofjamesherriot.com/about-james-herriot/"
+  }
+ },
+ "funFact": {
+  "fits": "Rotkehlchen singen diese Woche wieder in britischen Gärten, jetzt, da die meisten anderen Vögel im Herbst verstummt sind.",
+  "statement": "Britische Rotkehlchen verstummen im Herbst und Winter.",
+  "answer": false,
+  "reveal": "Rotkehlchen sind fast die einzigen britischen Vögel, die fast das ganze Jahr über singen; ihr Herbstgesang verteidigt ihr Revier, nicht die Partnersuche.",
+  "source": {
+   "name": "RSPB: Rotkehlchen",
+   "url": "https://www.rspb.org.uk/birds-and-wildlife/robin"
+  }
+ },
+ "word": {
+  "fits": "Ein Yorkshire-Wort für die kleinen Bäche, die durch die Dales fließen, über die James Herriot schrieb.",
+  "word": "Beck",
+  "language": "Englisch (Yorkshire-Dialekt, aus dem Altnordischen)",
+  "pronunciation": "BEK",
+  "meaning": "Ein kleiner Bach. Verbreitet in Nordengland, vom altnordischen 'bekkr'; über solche Becks führen in den Yorkshire Dales überall Trittsteine."
+ },
+ "kindness": {
+  "fits": "James Herriot verbrachte ein Arbeitsleben mit kleinen, unauffälligen Freundlichkeiten gegenüber Tieren, die sonst niemand sah.",
+  "text": "Tun Sie heute einem Tier eine kleine, unauffällige Freundlichkeit: frisches Wasser für ein Haustier, ein volles Vogelhäuschen, ein langsamerer Schritt um einen ängstlichen Hund."
+ },
+ "joke": {
+  "fits": "James Herriots jahrzehntelange frühe Einsätze bei kalbenden Kühen und schwierigen Patienten.",
+  "setup": "Warum brauchte der Yorkshire-Tierarzt nie einen Wecker?",
+  "punchline": "Eine kalbende Kuh um vier Uhr morgens ist lauter und viel unnachgiebiger als jeder Wecker."
+ },
+ "riddle": {
+  "fits": "Derselbe herbstliche Rotkehlchengesang, der diese Woche in britischen Gärten zu hören ist.",
+  "riddle": "Ich singe durch Herbst und Winter, wenn die meisten Vögel verstummen, und verteidige damit mein Revier, nicht einen Partner. Was bin ich?",
+  "hint": "Hören Sie diese Woche im Garten hin, auch im Regen.",
+  "answer": "Ein Rotkehlchen."
+ }
+}

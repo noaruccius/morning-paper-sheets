@@ -1,0 +1,71 @@
+{
+ "country": "IL",
+ "date": "2026-10-03",
+ "language": "en",
+ "lookForward": {
+  "fits": "Instruments can't be played today, Shabbat, but tonight, once the holiday ends, more Hakafot take place around the country, this time with an orchestra.",
+  "headline": "Tonight: another round of dancing, this time with an orchestra",
+  "line": "When the holiday ends tonight, around 10pm, the Western Wall Plaza holds 'Second Hakafot': over a hundred Torah scrolls dance again, now to an orchestra, forbidden during the holiday itself. Many synagogues nationwide hold similar Hakafot of their own.",
+  "source": {
+   "name": "Official Western Wall Heritage Foundation: Second Hakafot",
+   "url": "https://thekotel.org/he/5763/17/"
+  }
+ },
+ "goodThing": {
+  "fits": "Today, in the Simchat Torah Hakafot, children again go out carrying colorful flags.",
+  "headline": "The children's custom that's nearly 400 years old",
+  "big": "~400 years",
+  "line": "Since the 17th century, children join the Hakafot carrying a flag topped with an apple and a candle, drawing toward the Torah with joy.",
+  "source": {
+   "name": "COL: Flag, apple and candle",
+   "url": "https://col.org.il/news/141435"
+  }
+ },
+ "funFact": {
+  "fits": "Today the synagogue finishes reading the entire Torah, the portion Vezot Habracha.",
+  "statement": "After finishing the whole Torah reading today, the reading pauses until next Shabbat.",
+  "answer": false,
+  "reveal": "In that same aliyah, the reading continues straight into the first verses of Genesis, with no pause at all.",
+  "source": {
+   "name": "Peninei Halacha: Completing the Torah",
+   "url": "https://ph.yhb.org.il/13-07-05/"
+  }
+ },
+ "calmRead": {
+  "fits": "Expands today's morning Hakafot: where the custom of dancing with the Torah scroll came from, and why it continues again tonight.",
+  "title": "Joy without limit, seven times over",
+  "teaser": "Dancing with a Torah scroll isn't obvious. Someone invented it, and fixed it at exactly seven times.",
+  "paragraphs": [
+   "The custom of circling the bimah with a Torah scroll, in song and dance, is first mentioned several hundred years ago among Ashkenazi sages: Rabbi Yitzchak Isaac of Tyrnau, followed by the Rema, Rabbi Moshe Isserles, who wrote it into law. Since then the custom has been a fixed part of Simchat Torah in Ashkenazi communities, and from there spread to Sephardic communities too.",
+   "The number seven, which every synagogue follows today, is attributed to the Holy Ari, Rabbi Yitzchak Luria of Safed, who held exactly seven circuits. Later kabbalists linked the number to the seven divine attributes through which, in Kabbalah, the world operates: kindness, strength, beauty, eternity, splendor, foundation and kingship. Each circuit expresses a different attribute, and together they express a joy with no limit.",
+   "Even the Ari was not satisfied with seven circuits in one synagogue. On the night after Simchat Torah ended, he would visit other synagogues in Safed still finishing their prayers, and hold seven more circuits there. From this comes the custom of 'Second Hakafot'. Rabbi Kook instructed that music be played during them, so it would be clear the holiday had already ended.",
+   "In modern Israel the custom was revived in 1942 in Tel Aviv, on the initiative of Rabbi Yitzchak Yedidya Frenkel, in solidarity with Jewish communities in Europe who could not celebrate the holiday at all that year. Since then the Second Hakafot have become a public tradition, and at the Western Wall tonight, over a hundred Torah scrolls will again go out to dance."
+  ],
+  "source": {
+   "name": "Chabadpedia: Second Hakafot",
+   "url": "https://chabadpedia.co.il/index.php/%D7%94%D7%A7%D7%A4%D7%95%D7%AA_%D7%A9%D7%A0%D7%99%D7%95%D7%AA"
+  }
+ },
+ "word": {
+  "fits": "Today seven such circuits are made in the synagogue, with the Torah scroll.",
+  "word": "Hakafa",
+  "language": "Hebrew",
+  "pronunciation": "ha-ka-FAH",
+  "meaning": "From a root meaning 'to circle', to go around. Each circuit made with the Torah scroll around the bimah is called a hakafa."
+ },
+ "kindness": {
+  "fits": "Today, during the Hakafot, Torah scrolls pass from hand to hand, and not everyone gets a turn to carry one.",
+  "text": "If someone elderly or new to the community is in your synagogue, offer them a Torah scroll to carry before taking one yourself."
+ },
+ "joke": {
+  "fits": "Today the Torah is finished and immediately begun again.",
+  "setup": "What do they say in the synagogue the moment they finish reading the whole Torah?",
+  "punchline": "'In the beginning.' For Jews, there's never really an ending, only the next chapter."
+ },
+ "riddle": {
+  "fits": "Today, Simchat Torah, the Torah scrolls come out of the ark and dance seven circuits.",
+  "riddle": "I'm wrapped in embroidered cloth, read quietly all year, but today I'm not read, only danced with, seven times. What am I?",
+  "hint": "Not the flag children hold.",
+  "answer": "The Torah scroll, at Simchat Torah."
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "country": "IL",
+ "date": "2026-10-03",
+ "language": "de",
+ "lookForward": {
+  "fits": "Heute, am Schabbat, dürfen keine Instrumente gespielt werden, aber heute Abend, wenn der Feiertag endet, finden im ganzen Land weitere Hakafot statt, diesmal mit einem Orchester.",
+  "headline": "Heute Abend: eine weitere Tanzrunde, diesmal mit Orchester",
+  "line": "Wenn der Feiertag heute Abend gegen 22:00 Uhr endet, finden an der Klagemauer die 'Zweiten Hakafot' statt: Mehr als hundert Torarollen tanzen erneut, diesmal zu Orchestermusik, die am Feiertag selbst verboten ist. Viele Synagogen im Land halten eigene, ähnliche Hakafot ab.",
+  "source": {
+   "name": "Offizielle Stiftung der Klagemauer: Zweite Hakafot",
+   "url": "https://thekotel.org/he/5763/17/"
+  }
+ },
+ "goodThing": {
+  "fits": "Heute, bei den Hakafot von Simchat Tora, ziehen wieder Kinder mit bunten Fähnchen mit.",
+  "headline": "Der Kinderbrauch, der fast 400 Jahre alt ist",
+  "big": "rund 400 Jahre",
+  "line": "Schon seit dem 17. Jahrhundert ziehen Kinder bei den Hakafot mit einer Fahne mit, mit Apfel und brennender Kerze, Freude statt nur Lernen.",
+  "source": {
+   "name": "COL: Fahne, Apfel und Kerze",
+   "url": "https://col.org.il/news/141435"
+  }
+ },
+ "funFact": {
+  "fits": "Heute wird in der Synagoge die gesamte Tora zu Ende gelesen, der Wochenabschnitt Wesot Haberacha.",
+  "statement": "Heute, nach dem Ende der Tora, pausiert die Lesung bis zum nächsten Schabbat.",
+  "answer": false,
+  "reveal": "Direkt im selben Aufruf geht es weiter mit den ersten Versen der Genesis, ganz ohne Pause.",
+  "source": {
+   "name": "Peninei Halacha: Abschluss der Tora",
+   "url": "https://ph.yhb.org.il/13-07-05/"
+  }
+ },
+ "calmRead": {
+  "fits": "Vertieft die heutigen Morgen-Hakafot: woher der Brauch stammt, mit der Torarolle zu tanzen, und warum er heute Abend weitergeht.",
+  "title": "Freude ohne Grenze, siebenmal",
+  "teaser": "Mit einer Torarolle zu tanzen ist nicht selbstverständlich. Jemand hat es erfunden, und genau sieben Runden festgelegt.",
+  "paragraphs": [
+   "Der Brauch, mit einer Torarolle singend und tanzend um das Lesepult zu ziehen, wird erstmals vor einigen hundert Jahren bei aschkenasischen Gelehrten erwähnt: Rabbi Jizchak Eisik aus Tyrnau, und nach ihm der Rema, Rabbi Mosche Isserles, der ihn als Halacha festschrieb. Seither ist der Brauch fester Bestandteil der Simchat-Tora-Feier in aschkenasischen Gemeinden, und von dort verbreitete er sich auch in sephardischen Gemeinden.",
+   "Die Zahl sieben, nach der sich heute jede Synagoge richtet, wird dem heiligen Ari zugeschrieben, Rabbi Jizchak Luria aus Safed, der genau sieben Runden abhielt. Spätere Kabbalisten verbanden die Zahl mit den sieben Eigenschaften, durch die laut Kabbala die Welt gelenkt wird: Güte, Stärke, Pracht, Ewigkeit, Hoheit, Fundament und Königtum. Jede Runde drückt eine andere Eigenschaft aus, und zusammen eine Freude ohne Grenze.",
+   "Selbst dem Ari reichten sieben Runden in einer Synagoge nicht. In der Nacht nach Ausgang von Simchat Tora besuchte er weitere Synagogen in Safed, die ihr Gebet noch nicht beendet hatten, und hielt dort erneut sieben Hakafot ab. Daher stammt der Brauch der 'zweiten Hakafot'. Rabbi Kook ordnete an, dabei Musikinstrumente zu spielen, damit klar war, dass der Feiertag bereits ausgegangen war.",
+   "Im modernen Israel wurde der Brauch 1942 in Tel Aviv wiederbelebt, auf Initiative von Rabbi Jizchak Jedidja Frenkel, aus Solidarität mit jüdischen Gemeinden in Europa, die den Feiertag in jenem Jahr gar nicht feiern konnten. Seither sind die zweiten Hakafot zu einer öffentlichen Tradition geworden, und an der Klagemauer ziehen heute Abend wieder mehr als hundert Torarollen zum Tanz."
+  ],
+  "source": {
+   "name": "Chabadpedia: Zweite Hakafot",
+   "url": "https://chabadpedia.co.il/index.php/%D7%94%D7%A7%D7%A4%D7%95%D7%AA_%D7%A9%D7%A0%D7%99%D7%95%D7%AA"
+  }
+ },
+ "word": {
+  "fits": "Heute werden in der Synagoge sieben solcher Runden mit der Torarolle gedreht.",
+  "word": "Hakafa",
+  "language": "Hebräisch",
+  "pronunciation": "ha-ka-FAH",
+  "meaning": "Von der Wurzel für 'umkreisen'. Jede Runde mit der Torarolle um das Lesepult in der Synagoge heißt Hakafa."
+ },
+ "kindness": {
+  "fits": "Heute wandern bei den Hakafot die Torarollen von Hand zu Hand, und nicht jeder kommt dazu, eine zu tragen.",
+  "text": "Wenn in Ihrer Synagoge jemand Älteres oder neu in der Gemeinde ist, bieten Sie ihm an, bei den Hakafot eine Torarolle zu tragen, bevor Sie selbst eine nehmen."
+ },
+ "joke": {
+  "fits": "Heute wird die Tora beendet und sofort wieder von vorn begonnen.",
+  "setup": "Was sagt man in der Synagoge in dem Moment, in dem man die ganze Tora zu Ende gelesen hat?",
+  "punchline": "'Im Anfang.' Denn bei den Juden gibt es eigentlich kein Ende, nur das nächste Kapitel."
+ },
+ "riddle": {
+  "fits": "Die Torarollen, die heute, an Simchat Tora, aus dem Schrein kommen und sieben Hakafot tanzen.",
+  "riddle": "Ich bin in bestickten Stoff gehüllt, das Jahr über liest man leise aus mir, doch heute tanzt man nur mit mir, siebenmal. Was bin ich?",
+  "hint": "Nicht die Kinderfahne.",
+  "answer": "Die Torarolle, bei Simchat Tora."
+ }
+}

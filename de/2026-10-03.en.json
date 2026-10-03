@@ -1,0 +1,84 @@
+{
+ "country": "DE",
+ "date": "2026-10-03",
+ "language": "en",
+ "lookForward": {
+  "fits": "Today, the holiday itself, Bremen's citizens' festival runs all day, with the big concert this evening.",
+  "headline": "Tonight on the Weser: a big concert, free to all",
+  "line": "The citizens' festival for German Unity Day fills Bremen's city centre through Sunday, free admission. Today's highlight: Die Fantastischen Vier at 7:30pm, followed by a light and fire show on the Weser riverbank at 8:30pm.",
+  "source": {
+   "name": "German Unity Day 2026 in Bremen: Programme",
+   "url": "https://tagderdeutscheneinheit.de/programm/"
+  },
+  "more": [
+   "The citizens' festival is the public part of the celebration: stages, food stalls, and the Länder Mile, where each of Germany's 16 states shows its own pavilion, spread across Bremen's city centre and market square. Everything is free, no booking needed.",
+   "Today, Saturday, is the main day. From the afternoon, bands play on several stages; at 7:30pm the band Die Fantastischen Vier performs. At 8:30pm an evening show follows on the Weser riverbank with light, music and fireworks, under this year's motto, 'Many strengths, one country.'",
+   "Getting there: Bremen's city centre is closed to cars for the festival area that weekend, so it's best to arrive by train or tram. The stages and the Länder Mile are all within walking distance of each other, between the market square, Domshof and Schlachte on the Weser.",
+   "The festival continues through Sunday evening, with a quieter, family-friendly programme."
+  ]
+ },
+ "goodThing": {
+  "fits": "On German Unity Day, Germany has for some years now been planting trees, one of the holiday's quieter customs.",
+  "headline": "Today the country plants trees again",
+  "big": "450,000 trees",
+  "line": "Einheitsbuddeln: an initiative from Schleswig-Holstein, now nationwide. On 3 October, anyone who wants to plants a tree, in their own garden or at a public event.",
+  "source": {
+   "name": "Einheitsbuddeln: The German Unity Day tradition",
+   "url": "https://einheitsbuddeln.org/"
+  },
+  "more": [
+   "Einheitsbuddeln began in 2019 in Schleswig-Holstein as a small idea for the 30th anniversary of German unity: a tree for every person in the country, planted on the holiday. The campaign became known largely through cartoonist Ralph Ruthe, who publicly backed it.",
+   "Anyone can take part, planting a single sapling in their own garden or joining one of the organised planting events that towns, clubs and tree nurseries offer on 3 October. State premiers from several regions have taken on honorary patronage.",
+   "Over the years this has added up to around 450,000 trees planted and about 480,000 euros in donations for reforestation projects, according to the initiative.",
+   "The idea behind it is simple: a holiday that marks two parts of a country growing back together gets a visible, growing sign of its own each year, one that still stands long after the fireworks are gone."
+  ]
+ },
+ "funFact": {
+  "fits": "Today's holiday did not always fall on this date; before 1990 a quite different day was called German Unity Day.",
+  "statement": "Before 1990, 17 June was German Unity Day.",
+  "answer": true,
+  "reveal": "From 1953, 17 June marked the uprising in East Germany; in 1990, 3 October took over the name.",
+  "source": {
+   "name": "bpb: Why is 3 October celebrated?",
+   "url": "https://www.bpb.de/themen/deutschlandarchiv/340959/warum-wird-der-3-oktober-gefeiert/"
+  }
+ },
+ "calmRead": {
+  "fits": "Explains why the citizens' festival is in Bremen this year of all places, and what else happens behind the scenes today.",
+  "title": "Why Bremen, and who is next",
+  "teaser": "A country always celebrates wherever the chair currently sits, and today it moves on again.",
+  "paragraphs": [
+   "Anyone wondering why the big German Unity Day celebration lands in Bremen this year and somewhere else next year finds the answer in the Bundesrat, the body representing Germany's 16 states in Berlin.",
+   "The Bundesrat's presidency rotates every year on 1 November between the states, following a fixed order that roughly follows population size and is already set through 2041. Since 1 November 2025, Bremen has held the chair, with Mayor Andreas Bovenschulte as Bundesrat president. That is why the smallest of Germany's states is this year's host for the country's biggest celebration.",
+   "That brings a neat side detail: today, on the day of the celebration itself, Bovenschulte hands the Bundesrat chair symbolically to his successor, Minister-President Hendrik Wüst of North Rhine-Westphalia. The formal vote in the Bundesrat does not follow until 16 October, but the symbolic moment traditionally belongs to the festival.",
+   "The tradition of celebrating the holiday in a different state each year only exists since reunification. It is meant to show that unity is not a Berlin event but one that belongs to the whole country, whether in a big city or, as this year, in Bremen with its roughly 570,000 residents.",
+   "Next year the celebration moves on, to whichever state's turn comes round next. Bremen keeps, in return, the memory of a weekend when the whole republic came to visit."
+  ],
+  "source": {
+   "name": "Bundesrat: German Unity Day – Germany visits Bremen",
+   "url": "https://www.bundesrat.de/DE/termine/veranstaltungen-termine/tag-dt-einheit/dt-einheit-inhalt-26.html"
+  }
+ },
+ "word": {
+  "fits": "Today's holiday and its motto in Bremen this year.",
+  "word": "Bürgerfest",
+  "language": "German",
+  "pronunciation": "BÜR-ger-fest",
+  "meaning": "A festival for all citizens, free to enter. On 3 October it refers to the public celebration in the host city, open to everyone."
+ },
+ "kindness": {
+  "fits": "The day two parts of a country came together.",
+  "text": "Ask someone from a different corner of the country today how 3 October is celebrated where they're from."
+ },
+ "joke": {
+  "fits": "The Bundesrat presidency, which moves on from Bremen today.",
+  "setup": "Why is the Bundesrat presidency like a relay baton?",
+  "punchline": "You hold it proudly for a year, then hand it off before you can drop it."
+ },
+ "riddle": {
+  "fits": "The Länder Mile at the citizens' festival, with one pavilion per state.",
+  "riddle": "I am a tent, but belong to no circus. Sixteen of me stand side by side today, each with a different coat of arms. What am I?",
+  "hint": "On Bremen's Länder Mile.",
+  "answer": "A state pavilion."
+ }
+}

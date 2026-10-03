@@ -1,0 +1,88 @@
+{
+ "country": "US",
+ "date": "2026-10-05",
+ "language": "en",
+ "lookForward": {
+  "fits": "In Rocky Mountain National Park, the bull elk rut peaks right about now, with bugling calls carrying across the valleys at dawn and dusk.",
+  "headline": "This week: elk bugling peaks in the Rockies",
+  "line": "Bull elk bugling peaks in early October in Rocky Mountain National Park, Colorado. Head to Moraine Park or Horseshoe Park at dawn or dusk, and stay at least 75 feet back.",
+  "source": {
+   "name": "National Park Service: Rocky Mountain, Elk Bugling",
+   "url": "https://www.nps.gov/romo/elk_bugles.htm"
+  },
+  "more": [
+   "Each autumn, bull elk compete for mates by bugling, a call that starts as a deep bellow and rises into a high, almost eerie whistle that carries more than a mile across open meadows. It announces a bull's size and condition to rivals and nearby females.",
+   "The sound often precedes a real contest: two bulls circling and pushing antlers against each other for position. To give the animals room during this, rangers close some meadows to foot traffic from 5pm to 10am through the end of October.",
+   "The best viewing is at dawn or dusk at Moraine Park, Horseshoe Park, or along Trail Ridge Road, where elk gather in open grassland visible from roadside pullouts. Bring binoculars rather than walking closer: park rules require staying at least 75 feet away.",
+   "Bugling activity usually peaks in the first half of October and tapers off by the end of the month, so a visit in the coming days catches it near its loudest."
+  ]
+ },
+ "goodThing": {
+  "fits": "Despite a summer when many worried fewer people would get outside, America's national parks just had their best year ever.",
+  "headline": "National parks had a record year in 2024",
+  "big": "331.9 million visits",
+  "line": "National Park Service sites recorded 331.9 million recreation visits in 2024, the highest ever, with 28 individual parks setting their own visitation records.",
+  "source": {
+   "name": "National Park Service: 2024 Visitation Statistics",
+   "url": "https://www.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm"
+  }
+ },
+ "onThisDay": {
+  "fits": "On 5 October 1947, President Truman delivered the first-ever televised address from the White House.",
+  "year": 1947,
+  "headline": "The first televised address from the White House",
+  "line": "President Harry Truman asked Americans to help feed postwar Europe by cutting back on meat and grain, the first presidential speech ever broadcast on television.",
+  "source": {
+   "name": "Harry S. Truman Presidential Library & Museum",
+   "url": "https://www.trumanlibrary.gov/photograph-records/96-99"
+  }
+ },
+ "funFact": {
+  "fits": "Fall colors are spreading across the country this week, revealing something that was there all along.",
+  "statement": "Autumn leaves turn red and orange only once cold weather creates new pigments.",
+  "answer": false,
+  "reveal": "Those pigments are in the leaf all year, hidden by green chlorophyll, which breaks down as autumn days shorten.",
+  "source": {
+   "name": "USDA Forest Service: The Science of Fall Colors",
+   "url": "https://www.fs.usda.gov/visit/fall-colors/science-of-fall-colors"
+  },
+  "review": "fs.usda.gov blocks automated requests (403); the chlorophyll/carotenoid pigment explanation confirmed through search, matching the Forest Service's own fall-colors page content quoted in secondary sources."
+ },
+ "calmRead": {
+  "fits": "Expands today's look-forward: what elk bugling actually sounds and looks like, and how to see it safely in Rocky Mountain National Park this week.",
+  "title": "The strangest sound in the Rockies this week",
+  "teaser": "A 700-pound animal makes a sound like a rusty whistle, and it carries for a mile.",
+  "paragraphs": [
+   "Each September and October, bull elk in Rocky Mountain National Park compete for mates by bugling: a call that starts as a deep bellow and rises into a high, almost eerie whistle, audible more than a mile away across open meadows.",
+   "The sound announces a bull's size and condition to both rival males and nearby females, and often precedes a real contest: two bulls circling, antlers locked, pushing for position. Rangers close some meadows to foot traffic from 5pm to 10am through October specifically to give the elk room for this.",
+   "The best viewing is at dawn or dusk at Moraine Park, Horseshoe Park, or along Trail Ridge Road, where elk gather in open grassland visible from pullouts. Bring binoculars rather than walking closer: park rules require staying at least 75 feet away, both for safety and so the animals are not disturbed mid-contest.",
+   "Bugling activity usually peaks in the first half of October and tapers off by month's end, so a visit in the coming days catches it near its loudest."
+  ],
+  "source": {
+   "name": "National Park Service: Rocky Mountain, Elk Bugling",
+   "url": "https://www.nps.gov/romo/elk_bugles.htm"
+  }
+ },
+ "word": {
+  "fits": "The strange, carrying call bull elk make in Rocky Mountain National Park this week has its own name.",
+  "word": "Bugling",
+  "language": "English",
+  "pronunciation": "BYOO-gling",
+  "meaning": "The loud, rising call bull elk make during the autumn mating season to attract mates and challenge rival males."
+ },
+ "kindness": {
+  "fits": "Elk bugling season in Rocky Mountain National Park, when the animals need room, not crowds.",
+  "text": "If you're watching elk this week, stay back and keep your voice down, so the animals can go about their season undisturbed."
+ },
+ "joke": {
+  "fits": "Bull elk bugling for mates in Rocky Mountain National Park this week.",
+  "setup": "Why did the bull elk win the talent show?",
+  "punchline": "Nobody else could hit that high note from a mile away."
+ },
+ "riddle": {
+  "fits": "America's national parks, which had a record 331.9 million visits in 2024.",
+  "riddle": "I set a record in 2024 with over 331 million visits, though I'm really hundreds of places at once. What am I, collectively?",
+  "hint": "I range from the Grand Canyon to Acadia.",
+  "answer": "America's national parks."
+ }
+}
